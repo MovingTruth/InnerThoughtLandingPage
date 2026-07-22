@@ -111,6 +111,31 @@ footer { display: flex; flex-direction: column; align-items: center; gap: 1.2rem
 .footer__brand { display: flex; align-items: center; gap: .55rem; color: var(--gold); }.footer__brand img { width: 30px; height: 30px; border-radius: 7px; }
 footer ul { display: flex; flex-wrap: wrap; justify-content: center; gap: 1.2rem; list-style: none; } footer a { color: var(--taupe); font-size: .84rem; text-decoration: none; } footer p { color: var(--taupe); opacity: .62; font-size: .76rem; }
 
+/* Public trust documents keep the landing page's calm rhythm while favoring
+   readable measure, semantic headings, and unmistakable support actions. */
+.document-hero { max-width: var(--content); margin: 0 auto; padding: 6.5rem 1.5rem 2.5rem; text-align: center; }
+.document-hero__mark { width: 88px; height: 88px; margin: 0 auto 1.5rem; border-radius: 22px; box-shadow: 0 12px 38px rgba(0,0,0,.48); }
+.document-hero h1 { font-size: clamp(2rem, 7vw, 3.5rem); line-height: 1.12; }
+.document-hero p { max-width: 600px; margin: 1rem auto 0; color: var(--taupe); font-size: 1.05rem; }
+.document { max-width: var(--content); margin: 0 auto; padding: 1rem 1.5rem 6rem; }
+.document section { padding: 2rem 0; border-top: 1px solid var(--separator); }
+.document h2 { margin-bottom: .8rem; color: var(--cream); font-size: clamp(1.25rem, 4vw, 1.65rem); }
+.document h3 { margin: 1.4rem 0 .5rem; font-size: 1rem; }
+.document p, .document li { color: var(--taupe); }
+.document p + p { margin-top: .9rem; }
+.document ul { display: grid; gap: .65rem; margin: 1rem 0 0 1.25rem; }
+.document a { font-weight: 650; }
+.document__seal { display: grid; grid-template-columns: auto 1fr; gap: 1rem; align-items: center; padding: 1.2rem; margin: 1.5rem 0; border: 1px solid var(--separator); border-radius: 18px; background: rgba(201,168,76,.06); }
+.document__seal span { display: grid; place-items: center; width: 48px; height: 48px; border-radius: 50%; color: var(--gold); background: rgba(201,168,76,.1); font-size: 1.35rem; }
+.document__seal p { margin: 0; }
+.support-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1px; margin-top: 1.5rem; background: var(--separator); border: 1px solid var(--separator); border-radius: 18px; overflow: hidden; }
+.support-card { min-height: 180px; padding: 1.5rem; background: rgba(13,13,13,.94); text-decoration: none; }
+.support-card h2 { margin: .7rem 0 .45rem; font-size: 1.15rem; }
+.support-card p { color: var(--taupe); font-size: .9rem; font-weight: 400; }
+.support-card__symbol { color: var(--gold); font-size: 1.5rem; }
+.support-contact { padding: 2.2rem; margin-top: 2rem; border: 1px solid var(--separator); border-radius: 22px; text-align: center; background: rgba(201,168,76,.05); }
+.support-contact p { margin: .6rem auto 1.2rem; }
+
 @media (max-width: 700px) {
   .site-nav__toggle { display: flex; }
   .site-nav__links { display: none; position: absolute; inset: 64px 0 auto; flex-direction: column; gap: 0; padding: .6rem 0; background: rgba(13,13,13,.97); border-bottom: 1px solid var(--separator); }
@@ -118,6 +143,7 @@ footer ul { display: flex; flex-wrap: wrap; justify-content: center; gap: 1.2rem
   .site-nav__links a { display: block; min-height: 48px; padding: .8rem 1.5rem; }
   .feature-flow__list { grid-template-columns: repeat(2, 1fr); }
   .feature-flow li:last-child { grid-column: 1 / -1; }
+  .support-grid { grid-template-columns: 1fr; }
 }
 @media (max-width: 480px) {
   .hero__icon-wrap { width: 152px; height: 152px; }.hero__icon { width: 140px; height: 140px; border-radius: 31px; }

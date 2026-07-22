@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0D0D0D">
+  <meta name="description" content="Inner Thought privacy policy. Your thoughts stay yours, encrypted on your device.">
+  <title>Privacy Policy — Inner Thought</title>
+  <link rel="icon" type="image/png" href="assets/icon.png">
+  <link rel="stylesheet" href="styles.css">
+  <script src="site.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <div class="living-canvas" aria-hidden="true">
+    <div class="living-canvas__gradient"></div><div class="living-canvas__glow"></div>
+    <div class="living-canvas__motes" id="motes"></div><svg class="living-canvas__corners" id="corner-spirals"></svg>
+  </div>
+  <header class="site-nav" role="banner">
+    <a class="site-nav__brand" href="index.html" aria-label="Inner Thought home"><img src="assets/icon.png" alt=""><span>Inner Thought</span></a>
+    <button class="site-nav__toggle" type="button" aria-expanded="false" aria-controls="site-links"><span class="sr-only">Open navigation</span><span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span></button>
+    <nav aria-label="Main navigation"><ul class="site-nav__links" id="site-links"><li><a href="index.html">Home</a></li><li><a href="privacy_policy.html" aria-current="page">Privacy</a></li><li><a href="support.html">Support</a></li><li><a href="https://movingtruth.com">Moving Truth</a></li></ul></nav>
+  </header>
+  <main id="main-content">
+    <header class="document-hero">
+      <img class="document-hero__mark" src="assets/icon.png" alt="">
+      <span class="eyebrow">Private by design</span>
+      <h1>Privacy Policy</h1>
+      <p>Your thoughts are not the product. Inner Thought is built to keep the inner world you capture under your control.</p>
+    </header>
+    <article class="document">
+      <div class="document__seal"><span aria-hidden="true">◇</span><p><strong>In plain language:</strong> no account, no advertising, no third-party analytics, no sale of data, and no cloud service operated by Moving Truth.</p></div>
+      <section><h2>What Inner Thought stores</h2><p>Only what you choose to create: titles, typed or dictated text, voice recordings, optional one-time locations, tags, photos, videos, favorites, and the dates needed to organize or recover a thought.</p><p>Location is never a movement history. Inner Thought requests one location fix for a thought only when you have enabled location for that capture.</p></section>
+      <section><h2>How your thoughts are protected</h2><p>Saved titles, transcripts, location details, custom tag names, recording references, media descriptions, audio, photos, and videos are encrypted on your device. Inner Thought uses AES-256-GCM authenticated encryption and keeps its encryption key in iOS Keychain.</p><p>Large recordings and videos are encrypted in authenticated chunks. When you play, view, export, or share an item, the app may create a short-lived clear copy protected by iOS complete file protection. Those working copies are removed when the app leaves the foreground and during storage maintenance.</p><p>An in-progress recording must briefly exist as an iOS-protected working file while Apple&rsquo;s audio system writes it. It is encrypted immediately when the thought is saved.</p></section>
+      <section><h2>Permissions are choices</h2><h3>Microphone and transcription</h3><p>Microphone access is used only while you record or dictate. Inner Thought requires Apple&rsquo;s on-device speech recognition for live transcription. You can disable transcription globally or for an individual voice thought.</p><h3>Location</h3><p>Location is optional, can be changed per thought, and can be disabled in Settings. Inner Thought does not track you in the background.</p><h3>Photos and camera</h3><p>The system photo picker lets you select particular items without giving Inner Thought broad access to your library. Camera access is used only when you open the camera. New media stays inside Inner Thought by default; a copy is added to Photos only when you choose that option.</p></section>
+      <section><h2>Sharing and export</h2><p>Nothing is sent to Moving Truth. If you use Share, Save to Photos, email, or another export destination, you are choosing to give a decrypted copy to that destination. Its privacy practices then apply.</p></section>
+      <section><h2>Analytics, advertising, and accounts</h2><p>Inner Thought has no user account, in-app advertising, tracking SDK, or third-party analytics. Diagnostic logs are designed not to include thought text, transcripts, filenames, or coordinates.</p></section>
+      <section><h2>Deletion and retention</h2><p>Deleted thoughts remain in Recently Deleted for 30 days so you can recover them. Deleting forever—or expiration after 30 days—removes their database record and managed audio, photo, and video files. Device backups are governed by the backup choices and protections you configure with Apple.</p></section>
+      <section><h2>Children&rsquo;s privacy</h2><p>Inner Thought does not knowingly collect personal information from anyone, including children, because Moving Truth operates no account, analytics, advertising, or content-collection service for the app.</p></section>
+      <section><h2>Changes to this policy</h2><p>If Inner Thought&rsquo;s data practices change, this page will be updated before the changed behavior is released. Material changes will be explained clearly rather than hidden in legal language.</p></section>
+      <section><h2>Contact</h2><p>Questions about privacy are welcome at <a href="mailto:support@movingtruth.com?subject=Inner%20Thought%20Privacy">support@movingtruth.com</a> or through the <a href="support.html">Inner Thought support page</a>.</p><p><strong>Effective:</strong> July 22, 2026<br><strong>Developer:</strong> Moving Truth / Skylaur Roe</p></section>
+    </article>
+  </main>
+  <footer><div class="footer__brand"><img src="assets/icon.png" alt=""><strong>Inner Thought</strong></div><nav aria-label="Footer navigation"><ul><li><a href="index.html">Home</a></li><li><a href="privacy_policy.html">Privacy</a></li><li><a href="support.html">Support</a></li><li><a href="https://movingtruth.com">Moving Truth</a></li></ul></nav><p>&copy; 2026 Inner Thought by Moving Truth.</p></footer>
+</body>
+</html>
