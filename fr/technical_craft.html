@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#0D0D0D">
+  <meta name="description" content="Pour ceux qui sont curieux de connaître le travail dans le calme, voici comment est créé Inner Thought : avec des frameworks Apple natifs, des limites claires, des états récupérables et une attention particulière pour toute la personne qui l'utilise.">
+  <title>Artisanat Technique — Inner Thought</title>
+  <link rel="icon" type="image/png" href="../assets/icon.png">
+  <link rel="stylesheet" href="../styles.css">
+  <script src="../site.js" defer></script>
+<!-- family-localization-meta:start -->
+<link rel="canonical" href="https://inner-thought.movingtruth.com/fr/technical_craft.html">
+<link rel="alternate" hreflang="en" href="https://inner-thought.movingtruth.com/technical_craft.html">
+<link rel="alternate" hreflang="fr" href="https://inner-thought.movingtruth.com/fr/technical_craft.html">
+<link rel="alternate" hreflang="es" href="https://inner-thought.movingtruth.com/es/technical_craft.html">
+<link rel="alternate" hreflang="de" href="https://inner-thought.movingtruth.com/de/technical_craft.html">
+<link rel="alternate" hreflang="pt-BR" href="https://inner-thought.movingtruth.com/pt-BR/technical_craft.html">
+<link rel="alternate" hreflang="it" href="https://inner-thought.movingtruth.com/it/technical_craft.html">
+<link rel="alternate" hreflang="nl" href="https://inner-thought.movingtruth.com/nl/technical_craft.html">
+<link rel="alternate" hreflang="hi" href="https://inner-thought.movingtruth.com/hi/technical_craft.html">
+<link rel="alternate" hreflang="ar" href="https://inner-thought.movingtruth.com/ar/technical_craft.html">
+<link rel="alternate" hreflang="zh-Hans" href="https://inner-thought.movingtruth.com/zh-Hans/technical_craft.html">
+<link rel="alternate" hreflang="ja" href="https://inner-thought.movingtruth.com/ja/technical_craft.html">
+<link rel="alternate" hreflang="ko" href="https://inner-thought.movingtruth.com/ko/technical_craft.html">
+<link rel="alternate" hreflang="ru" href="https://inner-thought.movingtruth.com/ru/technical_craft.html">
+<link rel="alternate" hreflang="th" href="https://inner-thought.movingtruth.com/th/technical_craft.html">
+<link rel="alternate" hreflang="x-default" href="https://inner-thought.movingtruth.com/technical_craft.html">
+<!-- family-localization-meta:end -->
+
+<!-- family-localization-style:start -->
+<style>
+  .family-language{position:absolute;z-index:900;inset-block-start:4.75rem;inset-inline-end:1rem;color:#e8e0d0;font:600 .75rem/1.2 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+  .family-language details{position:relative}
+  .family-language summary{min-block-size:2.6rem;display:flex;align-items:center;gap:.55rem;padding:.3rem .75rem;list-style:none;border:1px solid rgba(201,168,76,.24);border-radius:999px;background:rgba(13,13,13,.82);cursor:pointer;backdrop-filter:blur(12px)}
+  .family-language summary::-webkit-details-marker{display:none}
+  .family-language summary::after{content:"⌄";font-size:1rem;color:#c9a84c}
+  .family-language details[open] summary::after{transform:rotate(180deg)}
+  .family-language__label{position:absolute;inline-size:1px;block-size:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+  .family-language__menu{position:absolute;inset-block-start:calc(100% + .45rem);inset-inline-end:0;min-inline-size:12rem;max-block-size:min(65vh,28rem);overflow:auto;display:grid;gap:.2rem;padding:.4rem;border:1px solid rgba(201,168,76,.24);border-radius:16px;background:rgba(13,13,13,.97);box-shadow:0 16px 45px rgba(0,0,0,.42);backdrop-filter:blur(16px)}
+  .family-language a{min-block-size:2.5rem;display:flex;align-items:center;padding:0 .7rem;border-radius:10px;color:inherit;text-decoration:none;white-space:nowrap}
+  .family-language a:hover,.family-language a:focus-visible{background:rgba(201,168,76,.16);outline:2px solid transparent}
+  .family-language a[aria-current="page"]{background:#c9a84c;color:#111}
+  .language-suggestion{position:fixed;z-index:1100;inset-inline:50%;inset-block-end:1rem;transform:translateX(-50%);inline-size:min(calc(100% - 2rem),42rem);display:flex;align-items:center;justify-content:center;gap:.7rem;flex-wrap:wrap;padding:.8rem 1rem;border:1px solid rgba(201,168,76,.42);border-radius:16px;background:rgba(13,13,13,.96);color:#e8e0d0;font:600 .88rem/1.4 -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;box-shadow:0 16px 45px rgba(0,0,0,.42);backdrop-filter:blur(16px)}
+  .language-suggestion p{margin:0;color:#e8e0d0}
+  .language-suggestion a,.language-suggestion button{min-block-size:2.35rem;display:inline-flex;align-items:center;padding:0 .8rem;border:1px solid rgba(201,168,76,.5);border-radius:999px;background:transparent;color:#e8e0d0;font:inherit;text-decoration:none;cursor:pointer}
+  .language-suggestion a{background:#c9a84c;color:#111}
+  .language-suggestion a:focus-visible,.language-suggestion button:focus-visible{outline:2px solid #f1d47a;outline-offset:2px}
+  @media (max-width:700px){.family-language{inset-block-start:4.8rem;inset-inline-end:.75rem}}
+</style>
+<!-- family-localization-style:end -->
+<!-- family-localization-script:start -->
+<script src="../localization/language-preference.js" defer></script>
+<!-- family-localization-script:end -->
+</head>
+<body>
+<!-- family-localization:start -->
+<div class="family-language">
+<details>
+<summary><span class="family-language__label">Langue</span><span>Français</span></summary>
+<nav class="family-language__menu" aria-label="Langue">
+  <a href="https://inner-thought.movingtruth.com/technical_craft.html" lang="en" data-language-choice="en">English</a>
+  <a href="https://inner-thought.movingtruth.com/fr/technical_craft.html" lang="fr" data-language-choice="fr" aria-current="page">Français</a>
+  <a href="https://inner-thought.movingtruth.com/es/technical_craft.html" lang="es" data-language-choice="es">Español</a>
+  <a href="https://inner-thought.movingtruth.com/de/technical_craft.html" lang="de" data-language-choice="de">Deutsch</a>
+  <a href="https://inner-thought.movingtruth.com/pt-BR/technical_craft.html" lang="pt-BR" data-language-choice="pt-BR">Português (Brasil)</a>
+  <a href="https://inner-thought.movingtruth.com/it/technical_craft.html" lang="it" data-language-choice="it">Italiano</a>
+  <a href="https://inner-thought.movingtruth.com/nl/technical_craft.html" lang="nl" data-language-choice="nl">Nederlands</a>
+  <a href="https://inner-thought.movingtruth.com/hi/technical_craft.html" lang="hi" data-language-choice="hi">हिन्दी</a>
+  <a href="https://inner-thought.movingtruth.com/ar/technical_craft.html" lang="ar" data-language-choice="ar">العربية</a>
+  <a href="https://inner-thought.movingtruth.com/zh-Hans/technical_craft.html" lang="zh-Hans" data-language-choice="zh-Hans">简体中文</a>
+  <a href="https://inner-thought.movingtruth.com/ja/technical_craft.html" lang="ja" data-language-choice="ja">日本語</a>
+  <a href="https://inner-thought.movingtruth.com/ko/technical_craft.html" lang="ko" data-language-choice="ko">한국어</a>
+  <a href="https://inner-thought.movingtruth.com/ru/technical_craft.html" lang="ru" data-language-choice="ru">Русский</a>
+  <a href="https://inner-thought.movingtruth.com/th/technical_craft.html" lang="th" data-language-choice="th">ไทย</a>
+</nav>
+</details>
+</div>
+<!-- family-localization:end -->
+  <a class="skip-link" href="#main-content">Aller au contenu principal</a>
+  <div class="living-canvas" aria-hidden="true">
+    <div class="living-canvas__gradient"></div><div class="living-canvas__glow"></div>
+    <div class="living-canvas__motes" id="motes"></div><svg class="living-canvas__corners" id="corner-spirals"></svg>
+  </div>
+  <header class="site-nav" role="banner">
+    <a class="site-nav__brand" href="index.html" aria-label="Accueil d’Inner Thought"><img src="../assets/icon.png" alt=""><span>Inner Thought</span></a>
+    <button class="site-nav__toggle" type="button" aria-expanded="false" aria-controls="site-links"><span class="sr-only">Ouvrir la navigation</span><span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span></button>
+    <nav aria-label="Navigation principale"><ul class="site-nav__links" id="site-links"><li><a href="index.html">Accueil</a></li><li><a href="privacy_policy.html">Vie privée</a></li><li><a href="accessibility.html">Accessibilité</a></li><li><a href="support.html">Assistance</a></li><li><a href="technical_craft.html" aria-current="page">Artisanat Technique</a></li><li><a href="https://movingtruth.com">Moving Truth</a></li></ul></nav>
+  </header>
+  <main id="main-content">
+    <header class="document-hero">
+      <img class="document-hero__mark" src="../assets/icon.png" alt="">
+      <span class="eyebrow">Construit nativement. Composé délibérément.</span>
+      <h1>Artisanat Technique</h1>
+      <p>Pour ceux qui sont curieux de connaître le travail dans le calme, voici comment est créé Inner Thought : avec des frameworks Apple natifs, des limites claires, des états récupérables et une attention particulière pour toute la personne qui l'utilise.</p>
+    </header>
+    <article class="document">
+      <section><h2>Natif par conception</h2><p>Inner Thought est écrit en Swift et SwiftUI, en utilisant SwiftData, AVFoundation, Speech, MapKit, PhotosUI, WidgetKit, ActivityKit, App Intents, CryptoKit et LocalAuthentication. Les frameworks natifs d'Apple maintiennent l'application proche de la plate-forme, privée par défaut et légère en matière de dépendances.</p></section>
+
+      <section><h2>Petites responsabilités ciblées</h2><p>L'interface exprime l'état ; les contrôleurs et services ciblés possèdent l'enregistrement, la transcription, le stockage, la lecture, les médias, l'emplacement, le cryptage et la présentation du système. Les coordinateurs partagés connectent ces éléments sans créer un écran responsable de tout.</p></section>
+
+      <section><h2>La pensée vient en premier</h2><p>L'audio fait autorité et sa destination existe avant le début de la capture. Les pauses, les interruptions, les échecs de transcription et les erreurs de stockage sont conçus comme des états récupérables. Un enregistrement valide n'est jamais rejeté en raison d'un échec de la reconnaissance vocale.</p></section>
+
+      <section><h2>Privé par structure</h2><p>Les titres, transcriptions, emplacements, balises personnalisées, audio, photos et vidéos sont cryptés avec AES-256-GCM. La clé se trouve dans le trousseau iOS ; les fichiers de travail déchiffrés utilisent la protection des fichiers de la plateforme et sont purgés lorsque l'application quitte le premier plan. Il n'y a pas de comptes, de publicités, de trackers ou d'analyses tierces.</p></section>
+
+      <section><h2>Une application, dans tous les sens</h2><p>Les contrôles sémantiques, le type dynamique, VoiceOver, le contrôle vocal, le contrôle des commutateurs, l'accès au clavier, la réduction du mouvement, l'augmentation du contraste et les signaux non colorés sont pris en compte dans les tâches complètes. L'accessibilité est évaluée comme un chemin que quelqu'un peut parcourir, et non comme un nombre de modificateurs.</p></section>
+
+      <section><h2>La personne passe en premier</h2><p>Les directives d'interface humaine et les principes d'accessibilité d'Apple nous guident pour placer la personne, et non la fonctionnalité, au centre de chaque décision. Inner Thought prend en compte les personnes souffrant de handicaps visuels, auditifs, de mobilité, d'élocution et cognitifs, ainsi que de limitations temporaires et situationnelles. Le sens ne dépend jamais uniquement de la couleur, du mouvement, du son ou du geste ; les améliorations restent facultatives ; l'intimité et la dignité sont préservées. Les preuves automatisées soutiennent ce travail, et les demandes de libération attendent la vérification physique des technologies d'assistance.</p></section>
+
+      <section><h2>Le langage dans l'architecture</h2><p>Chaque chaîne d'interface visible et parlée réside dans les catalogues de chaînes. Les mises en page sont bidirectionnelles, les mots créés par l'utilisateur conservent leur langue et les dates, heures et chiffres suivent les paramètres régionaux actifs. Quatorze langues de lancement sont intégrées ; les versions préliminaires des traductions nécessitent toujours une révision humaine fluide avant leur publication.</p></section>
+
+      <section><h2>Natif au-delà de l'application</h2><p>Les widgets d'accueil et d'écran de verrouillage, les activités en direct, l'îlot dynamique et les intentions d'application partagent une couche de commandes délibérément petite et un coordinateur de capture. Le texte de la pensée privée reste en dehors des surfaces du système ; seul l'état nécessaire pour contrôler une capture active quitte l'interface de l'application.</p></section>
+
+      <section><h2>Des preuves, pas de la confiance</h2><p>Les tests unitaires déterministes exercent la persistance, le chiffrement, la récupération, les médias, le mappage et l'état de capture. Les tests d'interface utilisateur couvrent la navigation, le texte développé et la disposition de droite à gauche. Les contrôles automatisés soutiennent le travail ; Les tests physiques de l’iPhone et des technologies d’assistance restent des portes de sortie.</p></section>
+
+      <section><h2>L'ingénierie au service du calme</h2><p>Grace n'a pas été repeinte sur sa fonction à la fin. La divulgation progressive, la typographie sémantique, l'espace de mise en page stable, les mouvements restreints et les matériaux silencieux permettent aux capacités substantielles de rester calmes et compréhensibles.</p></section>
+      <div class="document__seal"><span aria-hidden="true">✦</span><p>Le résultat se veut simple car la complexité a été soigneusement portée en dessous.</p></div>
+    </article>
+  </main>
+  <footer><div class="footer__brand"><img src="../assets/icon.png" alt=""><strong>Inner Thought</strong></div><nav aria-label="Navigation du pied de page"><ul><li><a href="index.html">Accueil</a></li><li><a href="privacy_policy.html">Vie privée</a></li><li><a href="accessibility.html">Accessibilité</a></li><li><a href="support.html">Assistance</a></li><li><a href="technical_craft.html" aria-current="page">Artisanat Technique</a></li><li><a href="https://movingtruth.com">Moving Truth</a></li></ul></nav><p>© 2026 Inner Thought par Moving Truth.</p></footer>
+</body>
+</html>
