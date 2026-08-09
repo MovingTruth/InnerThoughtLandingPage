@@ -1,0 +1,21 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "X4N47N3Y9H.MovingTruth.Inner-Thought"
+        ],
+        "components": [
+          {
+            "/": "/reply",
+            "comment": "Opens a fresh private thought capture."
+          },
+          {
+            "/": "/reply/",
+            "comment": "Opens a fresh private thought capture."
+          }
+        ]
+      }
+    ]
+  }
+}
