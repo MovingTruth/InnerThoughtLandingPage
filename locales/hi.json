@@ -153,10 +153,52 @@
     "Accessibility failures are product failures. If VoiceOver, Voice Control, Switch Control, Larger Text, Reduce Motion, contrast, captions, or another access need is not working gracefully, please contact us and name the task you were trying to complete.": "सुगम्यता की विफलता उत्पाद की विफलता है। VoiceOver, Voice Control, Switch Control, बड़ा टेक्स्ट, गति कम करें, कंट्रास्ट, कैप्शन या अन्य पहुँच आवश्यकता ठीक न चले तो संपर्क करें और बताएँ कि कौन-सा काम पूरा करना चाहते थे।",
     "Direct support": "सीधी सहायता",
     "Email Moving Truth": "Moving Truth को ईमेल करें",
-    "Include your iPhone or iPad model, iOS or iPadOS version, and what happened. Please do not send a private thought or recording unless you deliberately want us to see it.": "अपना iPhone या iPad मॉडल, iOS या iPadOS संस्करण और क्या हुआ बताएँ। कोई निजी विचार या रिकॉर्डिंग तभी भेजें जब आप जानबूझकर हमें दिखाना चाहते हों।"
+    "Include your iPhone or iPad model, iOS or iPadOS version, and what happened. Please do not send a private thought or recording unless you deliberately want us to see it.": "अपना iPhone या iPad मॉडल, iOS या iPadOS संस्करण और क्या हुआ बताएँ। कोई निजी विचार या रिकॉर्डिंग तभी भेजें जब आप जानबूझकर हमें दिखाना चाहते हों।",
+    "All apps": "सभी ऐप्स",
+    "Held with care": "सावधानी से रखा गया",
+    "Your inner world deserves both beauty and clarity. Read the full privacy promise, find help, or reach a real person whenever you need us.": "आपकी आंतरिक दुनिया सुंदरता और स्पष्टता दोनों की हकदार है। पूर्ण गोपनीयता वादा पढ़ें, सहायता ढूंढें, या जब भी आपको हमारी आवश्यकता हो तो किसी वास्तविक व्यक्ति तक पहुंचें।",
+    "Technical Craft": "तकनीकी शिल्प",
+    "Privacy policy": "गोपनीयता नीति",
+    "Email support": "ईमेल समर्थन",
+    "Explore all Moving Truth apps": "सभी Moving Truth ऐप्स देखें",
+    "Technical Craft — Inner Thought": "तकनीकी शिल्प — Inner Thought",
+    "Built natively. Composed deliberately.": "मूल रूप से निर्मित। जानबूझकर रचा गया.",
+    "For those curious about the work beneath the calm, this is how Inner Thought is made: with native Apple frameworks, clear boundaries, recoverable states, and care for the whole person using it.": "शांति के नीचे काम के बारे में उत्सुक लोगों के लिए, Inner Thought इस प्रकार बनाया गया है: देशी ऐप्पल फ्रेमवर्क, स्पष्ट सीमाएं, पुनर्प्राप्ति योग्य स्थिति और इसका उपयोग करने वाले पूरे व्यक्ति की देखभाल के साथ।",
+    "Native by design": "डिज़ाइन द्वारा मूल निवासी",
+    "Inner Thought is written in Swift and SwiftUI, using SwiftData, AVFoundation, Speech, MapKit, PhotosUI, WidgetKit, ActivityKit, App Intents, CryptoKit, and LocalAuthentication. Apple-native frameworks keep the app close to the platform, private by default, and light on dependencies.": "Inner Thought स्विफ्टडाटा, एवीफाउंडेशन, स्पीच, मैपकिट, फोटोयूआई, विजेटकिट, एक्टिविटीकिट, ऐप इंटेंट्स, क्रिप्टोकिट और लोकलऑथेंटिकेशन का उपयोग करके स्विफ्ट और स्विफ्टयूआई में लिखा गया है। ऐप्पल-नेटिव फ्रेमवर्क ऐप को प्लेटफ़ॉर्म के करीब रखता है, डिफ़ॉल्ट रूप से निजी रखता है, और निर्भरता पर प्रकाश डालता है।",
+    "Small, focused responsibilities": "छोटी, केंद्रित जिम्मेदारियां",
+    "The interface expresses state; focused controllers and services own recording, transcription, storage, playback, media, location, encryption, and system presentation. Shared coordinators connect those pieces without making a screen responsible for everything.": "इंटरफ़ेस स्थिति को व्यक्त करता है; केंद्रित नियंत्रकों और सेवाओं की अपनी रिकॉर्डिंग, ट्रांसक्रिप्शन, भंडारण, प्लेबैक, मीडिया, स्थान, एन्क्रिप्शन और सिस्टम प्रस्तुति है। साझा समन्वयक हर चीज़ के लिए स्क्रीन को ज़िम्मेदार बनाए बिना उन टुकड़ों को जोड़ते हैं।",
+    "The thought comes first": "विचार सबसे पहले आता है",
+    "Audio is authoritative and its destination exists before capture begins. Pauses, interruptions, transcription failures, and storage errors are designed as recoverable states. A valid recording is never discarded because speech recognition failed.": "ऑडियो आधिकारिक है और इसका गंतव्य कैप्चर शुरू होने से पहले मौजूद है। विराम, रुकावट, प्रतिलेखन विफलता और भंडारण त्रुटियाँ पुनर्प्राप्ति योग्य स्थितियों के रूप में डिज़ाइन की गई हैं। वाक् पहचान विफल होने के कारण वैध रिकॉर्डिंग को कभी भी खारिज नहीं किया जाता है।",
+    "Private by structure": "संरचना द्वारा निजी",
+    "Titles, transcripts, locations, custom tags, audio, photos, and videos are encrypted with AES-256-GCM. The key lives in the iOS Keychain; decrypted working files use platform file protection and are purged when the app leaves the foreground. There are no accounts, ads, trackers, or third-party analytics.": "शीर्षक, प्रतिलेख, स्थान, कस्टम टैग, ऑडियो, फ़ोटो और वीडियो AES-256-GCM के साथ एन्क्रिप्ट किए गए हैं। कुंजी iOS किचेन में रहती है; डिक्रिप्ट की गई कार्यशील फ़ाइलें प्लेटफ़ॉर्म फ़ाइल सुरक्षा का उपयोग करती हैं और जब ऐप अग्रभूमि छोड़ देता है तो उन्हें शुद्ध कर दिया जाता है। कोई खाता, विज्ञापन, ट्रैकर या तृतीय-पक्ष विश्लेषण नहीं है।",
+    "One app, every way in": "एक ऐप, हर तरह से",
+    "Semantic controls, Dynamic Type, VoiceOver, Voice Control, Switch Control, keyboard access, Reduce Motion, Increase Contrast, and non-colour cues are considered across complete tasks. Accessibility is evaluated as a path someone can finish, not a count of modifiers.": "सिमेंटिक नियंत्रण, डायनामिक प्रकार, वॉयसओवर, वॉयस कंट्रोल, स्विच कंट्रोल, कीबोर्ड एक्सेस, मोशन कम करें, कंट्रास्ट बढ़ाएं, और गैर-रंग संकेतों को संपूर्ण कार्यों में माना जाता है। अभिगम्यता का मूल्यांकन उस पथ के रूप में किया जाता है जिसे कोई व्यक्ति पूरा कर सकता है, संशोधकों की गिनती के रूप में नहीं।",
+    "Apple’s Human Interface Guidelines and accessibility principles guide us to put the person—not the feature—at the centre of each decision. Inner Thought considers people with visual, hearing, mobility, speech, and cognitive disabilities, along with temporary and situational limitations. Meaning never depends on colour, motion, sound, or gesture alone; enhancements remain optional; privacy and dignity are preserved. Automated evidence supports this work, and release claims wait for physical assistive-technology verification.": "ऐप्पल के मानव इंटरफ़ेस दिशानिर्देश और पहुंच सिद्धांत हमें प्रत्येक निर्णय के केंद्र में व्यक्ति को रखने के लिए मार्गदर्शन करते हैं - सुविधा को नहीं। Inner Thought अस्थायी और स्थितिजन्य सीमाओं के साथ-साथ दृश्य, श्रवण, गतिशीलता, भाषण और संज्ञानात्मक विकलांगता वाले लोगों पर विचार करता है। अर्थ कभी भी केवल रंग, गति, ध्वनि या हावभाव पर निर्भर नहीं करता; संवर्द्धन वैकल्पिक रहेगा; गोपनीयता और गरिमा संरक्षित है. स्वचालित साक्ष्य इस कार्य का समर्थन करते हैं, और जारी दावे भौतिक सहायक-प्रौद्योगिकी सत्यापन की प्रतीक्षा करते हैं।",
+    "Language in the architecture": "वास्तुकला में भाषा",
+    "Every visible and spoken interface string lives in String Catalogs. Layouts are bidirectional, user-authored words keep their language, and dates, times, and numbers follow the active locale. Fourteen launch languages are built in; draft translations still require fluent human review before release.": "प्रत्येक दृश्य और बोली जाने वाली इंटरफ़ेस स्ट्रिंग स्ट्रिंग कैटलॉग में रहती है। लेआउट द्विदिश हैं, उपयोगकर्ता द्वारा लिखे गए शब्द अपनी भाषा रखते हैं, और तिथियां, समय और संख्याएं सक्रिय स्थान का अनुसरण करती हैं। चौदह लॉन्च भाषाएँ निर्मित हैं; ड्राफ्ट अनुवादों को अभी भी रिलीज़ से पहले धाराप्रवाह मानवीय समीक्षा की आवश्यकता है।",
+    "Native beyond the app": "ऐप से परे मूल निवासी",
+    "Home and Lock Screen widgets, Live Activities, the Dynamic Island, and App Intents share a deliberately small command layer and capture coordinator. Private thought text stays out of system surfaces; only the state needed to control an active capture leaves the app interface.": "होम और लॉक स्क्रीन विजेट, लाइव एक्टिविटीज, डायनेमिक आइलैंड और ऐप इंटेंट्स जानबूझकर छोटी कमांड लेयर और कैप्चर कोऑर्डिनेटर साझा करते हैं। निजी विचार पाठ सिस्टम सतहों से बाहर रहता है; केवल सक्रिय कैप्चर को नियंत्रित करने के लिए आवश्यक स्थिति ही ऐप इंटरफ़ेस छोड़ती है।",
+    "Evidence, not confidence": "सबूत, भरोसा नहीं",
+    "Deterministic unit tests exercise persistence, encryption, recovery, media, mapping, and capture state. UI tests cover navigation, expanded text, and right-to-left layout. Automated checks support the work; physical iPhone and assistive-technology testing remain release gates.": "नियतात्मक इकाई परीक्षण दृढ़ता, एन्क्रिप्शन, पुनर्प्राप्ति, मीडिया, मैपिंग और कैप्चर स्थिति का अभ्यास करते हैं। यूआई परीक्षण नेविगेशन, विस्तारित टेक्स्ट और दाएं से बाएं लेआउट को कवर करते हैं। स्वचालित जाँच कार्य का समर्थन करती है; भौतिक iPhone और सहायक-प्रौद्योगिकी परीक्षण रिलीज़ गेट बने हुए हैं।",
+    "Engineering in service of calm": "शांति की सेवा में इंजीनियरिंग",
+    "Grace was not painted over function at the end. Progressive disclosure, semantic typography, stable layout space, restrained motion, and quiet materials let substantial capability remain calm and understandable.": "अंत में फ़ंक्शन पर ग्रेस चित्रित नहीं किया गया था। प्रगतिशील प्रकटीकरण, सिमेंटिक टाइपोग्राफी, स्थिर लेआउट स्थान, संयमित गति और शांत सामग्री पर्याप्त क्षमता को शांत और समझने योग्य बनाती है।",
+    "The result is meant to feel simple because the complexity has been carried carefully underneath.": "परिणाम सरल महसूस करने के लिए है क्योंकि जटिलता को सावधानीपूर्वक नीचे लाया गया है।"
   },
   "scriptTranslations": {
     "Close navigation": "नेविगेशन बंद करें",
     "Open navigation": "नेविगेशन खोलें"
+  },
+  "contextualTranslations": {
+    "index.html": {
+      "Support": {
+        "2": "समर्थन"
+      }
+    },
+    "technical_craft.html": {
+      "The person comes first": {
+        "1": "व्यक्ति सबसे पहले आता है"
+      }
+    }
   }
 }

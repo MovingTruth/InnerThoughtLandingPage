@@ -153,10 +153,52 @@
     "Accessibility failures are product failures. If VoiceOver, Voice Control, Switch Control, Larger Text, Reduce Motion, contrast, captions, or another access need is not working gracefully, please contact us and name the task you were trying to complete.": "Fehler der Barrierefreiheit sind Produktfehler. Wenn VoiceOver, Sprachsteuerung, Schaltersteuerung, größerer Text, Bewegung reduzieren, Kontrast, Untertitel oder eine andere Zugangshilfe nicht gut funktionieren, kontaktiere uns und nenne die Aufgabe, die du erledigen wolltest.",
     "Direct support": "Direkte Hilfe",
     "Email Moving Truth": "Moving Truth schreiben",
-    "Include your iPhone or iPad model, iOS or iPadOS version, and what happened. Please do not send a private thought or recording unless you deliberately want us to see it.": "Nenne dein iPhone- oder iPad-Modell, die iOS- oder iPadOS-Version und was passiert ist. Sende keinen privaten Gedanken und keine private Aufnahme, es sei denn, du möchtest sie uns bewusst zeigen."
+    "Include your iPhone or iPad model, iOS or iPadOS version, and what happened. Please do not send a private thought or recording unless you deliberately want us to see it.": "Nenne dein iPhone- oder iPad-Modell, die iOS- oder iPadOS-Version und was passiert ist. Sende keinen privaten Gedanken und keine private Aufnahme, es sei denn, du möchtest sie uns bewusst zeigen.",
+    "All apps": "Alle Apps",
+    "Held with care": "Mit Sorgfalt gehalten",
+    "Your inner world deserves both beauty and clarity. Read the full privacy promise, find help, or reach a real person whenever you need us.": "Ihre innere Welt verdient sowohl Schönheit als auch Klarheit. Lesen Sie das vollständige Datenschutzversprechen, finden Sie Hilfe oder erreichen Sie eine echte Person, wann immer Sie uns brauchen.",
+    "Technical Craft": "Technisches Handwerk",
+    "Privacy policy": "Datenschutzrichtlinie",
+    "Email support": "E-Mail-Support",
+    "Explore all Moving Truth apps": "Alle Moving-Truth-Apps entdecken",
+    "Technical Craft — Inner Thought": "Technisches Handwerk — Inner Thought",
+    "Built natively. Composed deliberately.": "Nativ erstellt. Bewusst komponiert.",
+    "For those curious about the work beneath the calm, this is how Inner Thought is made: with native Apple frameworks, clear boundaries, recoverable states, and care for the whole person using it.": "Für diejenigen, die neugierig auf die Arbeit unter der Ruhe sind: Inner Thought ist so gemacht: mit nativen Apple-Frameworks, klaren Grenzen, wiederherstellbaren Zuständen und Rücksichtnahme auf die gesamte Person, die es nutzt.",
+    "Native by design": "Nativ durch Design",
+    "Inner Thought is written in Swift and SwiftUI, using SwiftData, AVFoundation, Speech, MapKit, PhotosUI, WidgetKit, ActivityKit, App Intents, CryptoKit, and LocalAuthentication. Apple-native frameworks keep the app close to the platform, private by default, and light on dependencies.": "Inner Thought ist in Swift und SwiftUI geschrieben und verwendet SwiftData, AVFoundation, Speech, MapKit, PhotosUI, WidgetKit, ActivityKit, App Intents, CryptoKit und LocalAuthentication. Apple-native Frameworks sorgen dafür, dass die App plattformnah bleibt, standardmäßig privat ist und keine Abhängigkeiten aufweist.",
+    "Small, focused responsibilities": "Kleine, fokussierte Aufgaben",
+    "The interface expresses state; focused controllers and services own recording, transcription, storage, playback, media, location, encryption, and system presentation. Shared coordinators connect those pieces without making a screen responsible for everything.": "Die Schnittstelle drückt den Zustand aus; Fokussierte Controller und Dienste umfassen Aufzeichnung, Transkription, Speicherung, Wiedergabe, Medien, Standort, Verschlüsselung und Systempräsentation. Gemeinsame Koordinatoren verbinden diese Teile, ohne dass ein Bildschirm für alles verantwortlich ist.",
+    "The thought comes first": "Der Gedanke kommt zuerst",
+    "Audio is authoritative and its destination exists before capture begins. Pauses, interruptions, transcription failures, and storage errors are designed as recoverable states. A valid recording is never discarded because speech recognition failed.": "Audio ist maßgebend und sein Ziel existiert, bevor die Aufnahme beginnt. Pausen, Unterbrechungen, Übertragungsfehler und Speicherfehler werden als wiederherstellbare Zustände konzipiert. Eine gültige Aufnahme wird niemals verworfen, weil die Spracherkennung fehlgeschlagen ist.",
+    "Private by structure": "Privat nach Struktur",
+    "Titles, transcripts, locations, custom tags, audio, photos, and videos are encrypted with AES-256-GCM. The key lives in the iOS Keychain; decrypted working files use platform file protection and are purged when the app leaves the foreground. There are no accounts, ads, trackers, or third-party analytics.": "Titel, Transkripte, Orte, benutzerdefinierte Tags, Audio, Fotos und Videos werden mit AES-256-GCM verschlüsselt. Der Schlüssel befindet sich im iOS-Schlüsselbund; Entschlüsselte Arbeitsdateien nutzen den Dateischutz der Plattform und werden gelöscht, wenn die App den Vordergrund verlässt. Es gibt keine Konten, Anzeigen, Tracker oder Analysen von Drittanbietern.",
+    "One app, every way in": "Eine App, in jeder Hinsicht",
+    "Semantic controls, Dynamic Type, VoiceOver, Voice Control, Switch Control, keyboard access, Reduce Motion, Increase Contrast, and non-colour cues are considered across complete tasks. Accessibility is evaluated as a path someone can finish, not a count of modifiers.": "Semantische Steuerelemente, dynamischer Typ, VoiceOver, Sprachsteuerung, Schaltersteuerung, Tastaturzugriff, Bewegung reduzieren, Kontrast erhöhen und Nicht-Farb-Hinweise werden bei vollständigen Aufgaben berücksichtigt. Barrierefreiheit wird als Weg bewertet, den jemand zurücklegen kann, nicht als Anzahl der Modifikatoren.",
+    "Apple’s Human Interface Guidelines and accessibility principles guide us to put the person—not the feature—at the centre of each decision. Inner Thought considers people with visual, hearing, mobility, speech, and cognitive disabilities, along with temporary and situational limitations. Meaning never depends on colour, motion, sound, or gesture alone; enhancements remain optional; privacy and dignity are preserved. Automated evidence supports this work, and release claims wait for physical assistive-technology verification.": "Die Human Interface Guidelines und Barrierefreiheitsprinzipien von Apple leiten uns dazu, die Person – und nicht die Funktion – in den Mittelpunkt jeder Entscheidung zu stellen. Inner Thought berücksichtigt Menschen mit Seh-, Hör-, Mobilitäts-, Sprach- und kognitiven Behinderungen sowie vorübergehenden und situativen Einschränkungen. Bedeutung hängt nie allein von Farbe, Bewegung, Klang oder Geste ab; Erweiterungen bleiben optional; Privatsphäre und Würde bleiben gewahrt. Automatisierte Beweise unterstützen diese Arbeit, und Freigabeansprüche warten auf die Überprüfung durch physische Hilfstechnologien.",
+    "Language in the architecture": "Sprache in der Architektur",
+    "Every visible and spoken interface string lives in String Catalogs. Layouts are bidirectional, user-authored words keep their language, and dates, times, and numbers follow the active locale. Fourteen launch languages are built in; draft translations still require fluent human review before release.": "Jeder sichtbare und gesprochene Schnittstellenstring lebt in String-Katalogen. Layouts sind bidirektional, vom Benutzer erstellte Wörter behalten ihre Sprache und Datumsangaben, Uhrzeiten und Zahlen folgen dem aktiven Gebietsschema. Es sind vierzehn Startsprachen integriert; Entwurfsübersetzungen erfordern vor der Veröffentlichung noch eine gründliche menschliche Überprüfung.",
+    "Native beyond the app": "Native außerhalb der App",
+    "Home and Lock Screen widgets, Live Activities, the Dynamic Island, and App Intents share a deliberately small command layer and capture coordinator. Private thought text stays out of system surfaces; only the state needed to control an active capture leaves the app interface.": "Start- und Sperrbildschirm-Widgets, Live-Aktivitäten, die dynamische Insel und App-Intents teilen sich eine bewusst kleine Befehlsebene und einen Erfassungskoordinator. Private Gedankentexte bleiben außerhalb der Systemoberflächen; Nur der Status, der zur Steuerung einer aktiven Erfassung erforderlich ist, verlässt die App-Oberfläche.",
+    "Evidence, not confidence": "Beweise, kein Vertrauen",
+    "Deterministic unit tests exercise persistence, encryption, recovery, media, mapping, and capture state. UI tests cover navigation, expanded text, and right-to-left layout. Automated checks support the work; physical iPhone and assistive-technology testing remain release gates.": "Deterministische Komponententests üben Persistenz, Verschlüsselung, Wiederherstellung, Medien, Zuordnung und Erfassungsstatus aus. UI-Tests umfassen Navigation, erweiterten Text und Rechts-nach-Links-Layout. Automatisierte Prüfungen unterstützen die Arbeit; Physische iPhone- und unterstützende Technologietests bleiben Veröffentlichungstermine.",
+    "Engineering in service of calm": "Technik im Dienste der Ruhe",
+    "Grace was not painted over function at the end. Progressive disclosure, semantic typography, stable layout space, restrained motion, and quiet materials let substantial capability remain calm and understandable.": "Grace wurde am Ende nicht übermalt. Progressive Offenlegung, semantische Typografie, stabiler Layoutraum, zurückhaltende Bewegungen und ruhige Materialien sorgen dafür, dass wesentliche Fähigkeiten ruhig und verständlich bleiben.",
+    "The result is meant to feel simple because the complexity has been carried carefully underneath.": "Das Ergebnis soll sich einfach anfühlen, weil die Komplexität sorgfältig darunter getragen wurde."
   },
   "scriptTranslations": {
     "Close navigation": "Navigation schließen",
     "Open navigation": "Navigation öffnen"
+  },
+  "contextualTranslations": {
+    "index.html": {
+      "Support": {
+        "2": "Unterstützung"
+      }
+    },
+    "technical_craft.html": {
+      "The person comes first": {
+        "1": "Die Person steht an erster Stelle"
+      }
+    }
   }
 }
