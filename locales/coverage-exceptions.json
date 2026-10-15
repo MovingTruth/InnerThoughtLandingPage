@@ -1,0 +1,225 @@
+{
+  "about": "Coverage exceptions: source strings deliberately or knowingly left untranslated on published locale pages. Each entry names the exact page, kind, source, locales, category (identifier | shared-literal | draft-debt), and rationale. Draft debt is untranslated content still to be translated; a locale with draft debt cannot be classified reviewed.",
+  "exceptions": [
+    {
+      "page": "accessibility.html",
+      "kind": "text",
+      "source": "Inner Thought",
+      "locales": [
+        "fr",
+        "es",
+        "de",
+        "pt-BR",
+        "it",
+        "nl",
+        "hi",
+        "ar",
+        "zh-Hans",
+        "ja",
+        "ko",
+        "ru",
+        "th"
+      ],
+      "category": "shared-literal",
+      "rationale": "Product or company name; family rule keeps Moving Truth and app names unchanged in every language."
+    },
+    {
+      "page": "accessibility.html",
+      "kind": "text",
+      "source": "support@movingtruth.com",
+      "locales": [
+        "fr",
+        "es",
+        "de",
+        "pt-BR",
+        "it",
+        "nl",
+        "hi",
+        "ar",
+        "zh-Hans",
+        "ja",
+        "ko",
+        "ru",
+        "th"
+      ],
+      "category": "shared-literal",
+      "rationale": "Support email address; an address is identical in every language."
+    },
+    {
+      "page": "index.html",
+      "kind": "content",
+      "source": "summary_large_image",
+      "locales": [
+        "fr",
+        "es",
+        "de",
+        "pt-BR",
+        "it",
+        "nl",
+        "hi",
+        "ar",
+        "zh-Hans",
+        "ja",
+        "ko",
+        "ru",
+        "th"
+      ],
+      "category": "identifier",
+      "rationale": "Twitter/X card type metadata token; a fixed protocol value, not prose."
+    },
+    {
+      "page": "index.html",
+      "kind": "content",
+      "source": "website",
+      "locales": [
+        "fr",
+        "es",
+        "de",
+        "pt-BR",
+        "it",
+        "nl",
+        "hi",
+        "ar",
+        "zh-Hans",
+        "ja",
+        "ko",
+        "ru",
+        "th"
+      ],
+      "category": "identifier",
+      "rationale": "Open Graph og:type metadata token (\"website\"); a fixed protocol value, not prose."
+    },
+    {
+      "page": "index.html",
+      "kind": "text",
+      "source": "Inner Thought",
+      "locales": [
+        "fr",
+        "es",
+        "de",
+        "pt-BR",
+        "it",
+        "nl",
+        "hi",
+        "ar",
+        "zh-Hans",
+        "ja",
+        "ko",
+        "ru",
+        "th"
+      ],
+      "category": "shared-literal",
+      "rationale": "Product or company name; family rule keeps Moving Truth and app names unchanged in every language."
+    },
+    {
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "source": "Inner Thought",
+      "locales": [
+        "fr",
+        "es",
+        "de",
+        "pt-BR",
+        "it",
+        "nl",
+        "hi",
+        "ar",
+        "zh-Hans",
+        "ja",
+        "ko",
+        "ru",
+        "th"
+      ],
+      "category": "shared-literal",
+      "rationale": "Product or company name; family rule keeps Moving Truth and app names unchanged in every language."
+    },
+    {
+      "page": "privacy_policy.html",
+      "kind": "text",
+      "source": "support@movingtruth.com",
+      "locales": [
+        "fr",
+        "es",
+        "de",
+        "pt-BR",
+        "it",
+        "nl",
+        "hi",
+        "ar",
+        "zh-Hans",
+        "ja",
+        "ko",
+        "ru",
+        "th"
+      ],
+      "category": "shared-literal",
+      "rationale": "Support email address; an address is identical in every language."
+    },
+    {
+      "page": "support.html",
+      "kind": "text",
+      "source": "Inner Thought",
+      "locales": [
+        "fr",
+        "es",
+        "de",
+        "pt-BR",
+        "it",
+        "nl",
+        "hi",
+        "ar",
+        "zh-Hans",
+        "ja",
+        "ko",
+        "ru",
+        "th"
+      ],
+      "category": "shared-literal",
+      "rationale": "Product or company name; family rule keeps Moving Truth and app names unchanged in every language."
+    },
+    {
+      "page": "support.html",
+      "kind": "text",
+      "source": "support@movingtruth.com",
+      "locales": [
+        "fr",
+        "es",
+        "de",
+        "pt-BR",
+        "it",
+        "nl",
+        "hi",
+        "ar",
+        "zh-Hans",
+        "ja",
+        "ko",
+        "ru",
+        "th"
+      ],
+      "category": "shared-literal",
+      "rationale": "Support email address; an address is identical in every language."
+    },
+    {
+      "page": "technical_craft.html",
+      "kind": "text",
+      "source": "Inner Thought",
+      "locales": [
+        "fr",
+        "es",
+        "de",
+        "pt-BR",
+        "it",
+        "nl",
+        "hi",
+        "ar",
+        "zh-Hans",
+        "ja",
+        "ko",
+        "ru",
+        "th"
+      ],
+      "category": "shared-literal",
+      "rationale": "Product or company name; family rule keeps Moving Truth and app names unchanged in every language."
+    }
+  ]
+}
