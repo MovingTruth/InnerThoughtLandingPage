@@ -2,6 +2,7 @@
   "about": "Coverage exceptions: source strings deliberately or knowingly left untranslated on published locale pages. Each entry names the exact page, kind, source, locales, category (identifier | shared-literal | draft-debt), and rationale. Draft debt is untranslated content still to be translated; a locale with draft debt cannot be classified reviewed.",
   "exceptions": [
     {
+      "id": "inner-thought.accessibility.exception.0001",
       "page": "accessibility.html",
       "kind": "text",
       "source": "Inner Thought",
@@ -24,6 +25,7 @@
       "rationale": "Product or company name; family rule keeps Moving Truth and app names unchanged in every language."
     },
     {
+      "id": "inner-thought.accessibility.exception.0002",
       "page": "accessibility.html",
       "kind": "text",
       "source": "support@movingtruth.com",
@@ -46,6 +48,7 @@
       "rationale": "Support email address; an address is identical in every language."
     },
     {
+      "id": "inner-thought.index.exception.0001",
       "page": "index.html",
       "kind": "content",
       "source": "summary_large_image",
@@ -68,6 +71,7 @@
       "rationale": "Twitter/X card type metadata token; a fixed protocol value, not prose."
     },
     {
+      "id": "inner-thought.index.exception.0002",
       "page": "index.html",
       "kind": "content",
       "source": "website",
@@ -90,6 +94,7 @@
       "rationale": "Open Graph og:type metadata token (\"website\"); a fixed protocol value, not prose."
     },
     {
+      "id": "inner-thought.index.exception.0003",
       "page": "index.html",
       "kind": "text",
       "source": "Inner Thought",
@@ -112,6 +117,7 @@
       "rationale": "Product or company name; family rule keeps Moving Truth and app names unchanged in every language."
     },
     {
+      "id": "inner-thought.privacy-policy.exception.0001",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "Inner Thought",
@@ -134,6 +140,7 @@
       "rationale": "Product or company name; family rule keeps Moving Truth and app names unchanged in every language."
     },
     {
+      "id": "inner-thought.privacy-policy.exception.0002",
       "page": "privacy_policy.html",
       "kind": "text",
       "source": "support@movingtruth.com",
@@ -156,6 +163,7 @@
       "rationale": "Support email address; an address is identical in every language."
     },
     {
+      "id": "inner-thought.support.exception.0001",
       "page": "support.html",
       "kind": "text",
       "source": "Inner Thought",
@@ -178,6 +186,7 @@
       "rationale": "Product or company name; family rule keeps Moving Truth and app names unchanged in every language."
     },
     {
+      "id": "inner-thought.support.exception.0002",
       "page": "support.html",
       "kind": "text",
       "source": "support@movingtruth.com",
@@ -200,6 +209,7 @@
       "rationale": "Support email address; an address is identical in every language."
     },
     {
+      "id": "inner-thought.technical-craft.exception.0001",
       "page": "technical_craft.html",
       "kind": "text",
       "source": "Inner Thought",

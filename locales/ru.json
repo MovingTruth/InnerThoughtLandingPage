@@ -1,199 +1,1085 @@
 {
-  "translations": {
-    "Inner Thought catches the ideas that would otherwise vanish—spoken, written, photographed, or filmed. Private by design. Available now on the App Store for iPhone and iPad.": "Inner Thought удерживает идеи, которые иначе исчезли бы,— сказанные, написанные, снятые на фото или видео. Приватность заложена в дизайн. Уже доступно в App Store для iPhone и iPad.",
-    "Inner Thought — by Moving Truth": "Inner Thought — от Moving Truth",
-    "Skip to main content": "Перейти к основному содержанию",
-    "Inner Thought home": "Главная Inner Thought",
-    "Open navigation": "Открыть навигацию",
-    "Main navigation": "Основная навигация",
-    "Home": "Главная",
-    "Features": "Возможности",
-    "Accessibility": "Доступность",
-    "Privacy": "Приватность",
-    "Support": "Поддержка",
-    "Availability": "Доступность",
-    "Inner Thought app icon: a golden waveform flowing into a spiral": "Значок Inner Thought: золотая волна, переходящая в спираль",
-    "One gesture. Say what’s inside. Keep it safely.": "Одно движение. Скажите, что внутри. Сохраните это надёжно.",
-    "Get Inner Thought on the App Store": "Загрузить Inner Thought в App Store",
-    "Why it exists": "Зачем оно существует",
-    "scroll to receive": "прокрутите, чтобы принять",
-    "A place to catch what would otherwise vanish.": "Место, где можно удержать то, что иначе исчезнет.",
-    "Inner Thought exists to help people catch their creativity before it disappears—and to do so with privacy, dignity, and grace. Speak it, type it, photograph it, or film it. Organize it later, or not at all.": "Inner Thought помогает удержать творческий импульс до того, как он исчезнет,— с приватностью, достоинством и мягкостью. Скажите, напечатайте, сфотографируйте или снимите. Организуйте позже или вовсе не организуйте.",
-    "Ready when thought arrives. Quiet when it doesn’t.": "Готово, когда приходит мысль. Тихо, когда её нет.",
-    "Ways to capture a thought": "Способы сохранить мысль",
-    "Spoken": "Сказать",
-    "Written": "Написать",
-    "Seen": "Увидеть",
-    "Placed": "Привязать к месту",
-    "Kept private": "Сохранить приватно",
-    "Capture comes first": "Сначала — запись",
-    "The thought does not need to be ready.": "Мысль не обязана быть готовой.",
-    "A title can wait. A category can wait. The idea cannot. Inner Thought shortens the distance between the moment something arrives and the moment it is safe.": "Название подождёт. Категория подождёт. Идея — нет. Inner Thought сокращает расстояние между её появлением и безопасным сохранением.",
-    "Voice": "Голос",
-    "Keep the original recording and, when you choose, its complete transcript.": "Храните исходную запись и, по выбору, полную расшифровку.",
-    "Text": "Текст",
-    "Dictate without keeping audio, or simply type what came to you.": "Диктуйте без сохранения аудио или просто напечатайте мысль.",
-    "Place": "Место",
-    "Add a one-time location only when that context belongs to the thought.": "Добавьте одну точку лишь тогда, когда контекст места принадлежит мысли.",
-    "Media": "Медиа",
-    "Hold photographs and video privately inside the memory.": "Храните фотографии и видео приватно внутри воспоминания.",
-    "Accessibility from day one": "Доступность с первого дня",
-    "One Inner Thought. For everyone.": "Один Inner Thought. Для всех.",
-    "Accessibility is part of whether the promise is true—not a separate edition and not a final polish pass. Every common task is being designed and tested across different ways of seeing, hearing, moving, reading, and interacting.": "Доступность — часть истинности обещания, а не отдельная версия и не последняя отделка. Каждая обычная задача проектируется и проверяется для разных способов видеть, слышать, двигаться, читать и взаимодействовать.",
-    "VoiceOver, Voice Control, Switch Control, Larger Text, Reduce Motion, contrast, keyboard access, and clear non-audio state are release requirements.": "VoiceOver, Voice Control, Switch Control, Larger Text, Reduce Motion, контраст, клавиатура и ясные состояния без зависимости от звука — условия выпуска.",
-    "Private by design": "Приватность заложена в дизайн",
-    "Your thoughts are not the product.": "Ваши мысли — не товар.",
-    "Inner Thought requires no account and contains no in-app advertising or third-party analytics. Saved titles, words, locations, custom tags, recordings, photos, and videos are encrypted on your device with a key held by iOS Keychain.": "Inner Thought не требует аккаунта и не содержит рекламы или сторонней аналитики. Заголовки, слова, места, теги, записи, фото и видео шифруются на устройстве ключом из iOS Keychain.",
-    "No background location tracking.": "Без фонового отслеживания места.",
-    "No broad photo-library crawl.": "Без просмотра всей фототеки.",
-    "On-device transcription; no transcript content in widgets or logs by default.": "Расшифровка на устройстве; по умолчанию её текста нет в виджетах и журналах.",
-    "No subscription beside your private thoughts.": "Без подписки рядом с вашими личными мыслями.",
-    "Read the full privacy policy": "Читать полную политику конфиденциальности",
-    "A blessing for this work": "Благословение этой работе",
-    "May this app help people capture their own creativity.": "Пусть приложение помогает людям сохранять своё творчество.",
-    "May it be beautiful, helpful, fruitful, and useful.": "Пусть оно будет красивым, полезным, плодотворным и нужным.",
-    "May it reach the people whose thoughts need somewhere to land.": "Пусть оно достигнет тех, чьим мыслям нужно место.",
-    "About Moving Truth": "О Moving Truth",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth. Открывает movingtruth.com",
-    "Moving Truth logo": "Логотип Moving Truth",
-    "by Moving Truth": "от Moving Truth",
-    "Made with love by Skylaur Roe": "Создано с любовью Skylaur Roe",
-    "Available now": "Уже доступно",
-    "Give the thought somewhere to land.": "Дайте мысли место, где она сможет остаться.",
-    "Inner Thought is available for iPhone and iPad as one complete app: a small one-time price, no subscription, and no feature tier.": "Inner Thought доступно для iPhone и iPad как одно полное приложение: небольшая разовая цена, без подписки и уровней функций.",
-    "Footer navigation": "Навигация в подвале",
-    "© 2026 Inner Thought by Moving Truth. Made for iPhone and iPad.": "© 2026 Inner Thought by Moving Truth. Создано для iPhone и iPad.",
-    "Inner Thought accessibility statement, design commitments, testing standards, and direct support.": "Заявление о доступности Inner Thought, обязательства дизайна, стандарты тестирования и прямая поддержка.",
-    "Accessibility — Inner Thought": "Доступность — Inner Thought",
-    "The person comes first": "Сначала человек",
-    "There is one Inner Thought—not an accessible edition and a default edition. Access is part of whether the promise is true.": "Inner Thought один — без доступной и обычной версий. Возможность пользоваться им определяет истинность обещания.",
-    "Our standard:": "Наш стандарт:",
-    "a feature is not complete when its controls have labels. It is complete when the whole task can be understood and finished using the access method a person relies on.": "функция не готова лишь потому, что элементы подписаны. Она готова, когда всю задачу можно понять и завершить способом доступа, которым пользуется человек.",
-    "Designed around different ways of interacting": "Разные способы взаимодействия в основе",
-    "Inner Thought is built to support VoiceOver, Voice Control, Switch Control, hardware keyboards, Larger Text, Bold Text, Increase Contrast, Differentiate Without Color, Reduce Motion, and light and dark appearances.": "Inner Thought поддерживает VoiceOver, Voice Control, Switch Control, аппаратные клавиатуры, Larger Text, Bold Text, Increase Contrast, Differentiate Without Color, Reduce Motion, светлое и тёмное оформление.",
-    "Recording, playback, saving, errors, and location state are never communicated through colour, sound, motion, or haptics alone. Gestures are accelerators rather than the only available path.": "Запись, воспроизведение, сохранение, ошибки и состояние места никогда не передаются только цветом, звуком, движением или откликом. Жесты — ускорение, а не единственный путь.",
-    "Words remain the content": "Слова остаются содержанием",
-    "Text uses Dynamic Type and layouts are designed to grow rather than hide essential actions. Spoken controls use localized names and values. Live transcription is optional, and a voice recording remains safe when speech recognition is unavailable.": "Текст использует Dynamic Type, а макеты растут, не скрывая важные действия. Голосовые элементы имеют локализованные имена и значения. Живая расшифровка необязательна; запись остаётся в безопасности, когда распознавание недоступно.",
-    "Photos and videos include a place for a person-supplied description. Playback exposes elapsed and total time plus an adjustable progress control.": "Для фото и видео есть описание, добавляемое человеком. Воспроизведение показывает прошедшее и полное время и регулируемый прогресс.",
-    "Movement, contrast, and attention": "Движение, контраст и внимание",
-    "Reduce Motion provides a composed static experience. Important state uses text and shape as well as colour, and the interface responds to stronger contrast and colour-differentiation settings. Atmospheric movement pauses when it is not useful.": "Reduce Motion даёт цельный статичный опыт. Важные состояния используют текст и форму наряду с цветом; интерфейс учитывает усиленный контраст и различение без цвета. Необязательное фоновое движение останавливается.",
-    "How we qualify a release": "Как мы допускаем выпуск",
-    "Automated checks cover enlarged text, deliberately expanded copy, Arabic right-to-left layout, every supported interface language, and primary navigation on iPhone and iPad. Physical-device testing then covers complete tasks with assistive technologies, recording, permissions, widgets, and Live Activities.": "Автоматические проверки охватывают увеличенный текст, намеренно расширенные фразы, арабский макет справа налево, все языки и основную навигацию на iPhone и iPad. Затем реальные устройства проверяют полные задачи с технологиями доступности, записью, разрешениями, виджетами и Live Activities.",
-    "We publish an App Store accessibility label only after every common task included in Apple’s criteria has been verified for that device family. We would rather leave a claim unpublished than overstate what has been proven.": "Метка доступности App Store публикуется только после проверки всех обычных задач из критериев Apple для семейства устройств. Мы лучше не заявим о возможности, чем преувеличим доказанное.",
-    "Tell us where access breaks": "Сообщите, где доступ прерывается",
-    "An accessibility failure is a product failure. If anything stands between you and capturing, finding, reading, hearing, editing, exporting, or deleting a thought, email": "Сбой доступности — сбой продукта. Если что-то мешает записать, найти, прочитать, услышать, изменить, экспортировать или удалить мысль, напишите:",
-    ". Tell us the device, iOS or iPadOS version, access feature, and task. Please do not include a private thought unless you deliberately want us to see it.": ". Укажите устройство, версию iOS или iPadOS, функцию доступа и задачу. Не включайте личную мысль, если намеренно не хотите показать её нам.",
-    "Privacy Policy — Inner Thought": "Политика конфиденциальности — Inner Thought",
-    "Inner Thought privacy policy. Your thoughts stay yours, encrypted on your device.": "Политика Inner Thought. Ваши мысли остаются вашими и шифруются на устройстве.",
-    "no account, no advertising, no third-party analytics, no sale of data, and no cloud service operated by Moving Truth.": "Без аккаунта, рекламы, сторонней аналитики, продажи данных и облачного сервиса Moving Truth.",
-    "Privacy Policy": "Политика конфиденциальности",
-    "Your thoughts are not the product. Inner Thought is built to keep the inner world you capture under your control.": "Ваши мысли — не товар. Inner Thought сохраняет захваченный внутренний мир под вашим контролем.",
-    "In plain language:": "Простыми словами:",
-    "What Inner Thought stores": "Что хранит Inner Thought",
-    "Only what you choose to create: titles, typed or dictated text, voice recordings, optional one-time locations, tags, photos, videos, favorites, and the dates needed to organize or recover a thought.": "Только созданное вами: названия, введённый или продиктованный текст, записи, необязательные разовые места, теги, фото, видео, избранное и даты для организации или восстановления.",
-    "Location is never a movement history. Inner Thought requests one location fix for a thought only when you have enabled location for that capture.": "Место никогда не становится историей перемещений. Одна точка запрашивается только при включении места для этой записи.",
-    "How your thoughts are protected": "Как защищены мысли",
-    "Saved titles, transcripts, location details, custom tag names, recording references, media descriptions, audio, photos, and videos are encrypted on your device. Inner Thought uses AES-256-GCM authenticated encryption and keeps its encryption key in iOS Keychain.": "Заголовки, расшифровки, места, имена тегов, ссылки на записи, описания медиа, аудио, фото и видео шифруются на устройстве. Используется AES-256-GCM, ключ хранится в iOS Keychain.",
-    "Large recordings and videos are encrypted in authenticated chunks. When you play, view, export, or share an item, the app may create a short-lived clear copy protected by iOS complete file protection. Those working copies are removed when the app leaves the foreground and during storage maintenance.": "Большие записи и видео шифруются аутентифицированными частями. При просмотре, воспроизведении, экспорте или отправке может создаваться краткосрочная открытая копия под полной защитой файлов iOS. Она удаляется при уходе приложения с переднего плана и обслуживании хранилища.",
-    "An in-progress recording must briefly exist as an iOS-protected working file while Apple’s audio system writes it. It is encrypted immediately when the thought is saved.": "Во время записи данные кратко существуют как защищённый iOS рабочий файл, пока звуковая система Apple пишет его. При сохранении мысли файл сразу шифруется.",
-    "Permissions are choices": "Разрешения — ваш выбор",
-    "Microphone and transcription": "Микрофон и расшифровка",
-    "Microphone access is used only while you record or dictate. Inner Thought requires Apple’s on-device speech recognition for live transcription. You can disable transcription globally or for an individual voice thought.": "Микрофон используется только при записи или диктовке. Живая расшифровка требует распознавания Apple на устройстве. Её можно отключить полностью или для отдельной голосовой мысли.",
-    "Location": "Место",
-    "Location is optional, can be changed per thought, and can be disabled in Settings. Inner Thought does not track you in the background.": "Место необязательно, меняется для каждой мысли и отключается в Settings. Inner Thought не отслеживает вас в фоне.",
-    "Photos and camera": "Фото и камера",
-    "The system photo picker lets you select particular items without giving Inner Thought broad access to your library. Camera access is used only when you open the camera. New media stays inside Inner Thought by default; a copy is added to Photos only when you choose that option.": "Системный выбор фото позволяет выбрать отдельные элементы без доступа ко всей библиотеке. Камера используется только при её открытии. Новые медиа остаются в Inner Thought; копия попадает в Photos лишь по вашему выбору.",
-    "Sharing and export": "Отправка и экспорт",
-    "Nothing is sent to Moving Truth. If you use Share, Save to Photos, email, or another export destination, you are choosing to give a decrypted copy to that destination. Its privacy practices then apply.": "В Moving Truth ничего не отправляется. При использовании Share, Save to Photos, почты или другого назначения вы передаёте ему расшифрованную копию; далее действует его политика.",
-    "Analytics, advertising, and accounts": "Аналитика, реклама и аккаунты",
-    "Inner Thought has no user account, in-app advertising, tracking SDK, or third-party analytics. Diagnostic logs are designed not to include thought text, transcripts, filenames, or coordinates.": "В Inner Thought нет аккаунта, рекламы, SDK отслеживания и сторонней аналитики. Диагностические журналы не включают текст мыслей, расшифровки, имена файлов и координаты.",
-    "Deletion and retention": "Удаление и хранение",
-    "Deleted thoughts remain in Recently Deleted for 30 days so you can recover them. Deleting forever—or expiration after 30 days—removes their database record and managed audio, photo, and video files. Device backups are governed by the backup choices and protections you configure with Apple.": "Удалённые мысли остаются в Recently Deleted 30 дней для восстановления. Delete Forever или истечение срока удаляет запись базы и управляемые аудио, фото и видео. Резервные копии зависят от настроек защиты Apple.",
-    "Children’s privacy": "Приватность детей",
-    "Inner Thought does not knowingly collect personal information from anyone, including children, because Moving Truth operates no account, analytics, advertising, or content-collection service for the app.": "Inner Thought сознательно не собирает личные данные ни у кого, включая детей: Moving Truth не ведёт аккаунты, аналитику, рекламу или сбор содержимого.",
-    "Changes to this policy": "Изменения политики",
-    "If Inner Thought’s data practices change, this page will be updated before the changed behavior is released. Material changes will be explained clearly rather than hidden in legal language.": "Если обращение с данными изменится, страница обновится до выпуска нового поведения. Существенные изменения будут объяснены ясно, а не спрятаны в юридическом тексте.",
-    "Contact": "Контакты",
-    "Questions about privacy are welcome at": "Вопросы о приватности приветствуются по адресу",
-    "or through the": "или через",
-    "Inner Thought support page": "страницу поддержки Inner Thought",
-    "Effective:": "Действует с:",
-    "July 22, 2026": "22 июля 2026 года",
-    "Developer:": "Разработчик:",
-    "Moving Truth / Skylaur Roe": "Moving Truth / Skylaur Roe",
-    "© 2026 Inner Thought by Moving Truth.": "© 2026 Inner Thought by Moving Truth.",
-    "Support — Inner Thought": "Поддержка — Inner Thought",
-    "Help and direct support for Inner Thought by Moving Truth.": "Помощь и прямая поддержка Inner Thought от Moving Truth.",
-    "Common help topics": "Частые темы помощи",
-    "Here when you need us": "Мы рядом, когда нужны",
-    "Inner Thought Support": "Поддержка Inner Thought",
-    "The app is meant to feel immediate and quiet. If anything gets between you and the thought, tell us.": "Приложение должно быть непосредственным и тихим. Если что-то встаёт между вами и мыслью, расскажите.",
-    "Recording & playback": "Запись и воспроизведение",
-    "Microphone access, audio output, pauses, and appending more voice.": "Доступ к микрофону, вывод звука, паузы и продолжение записи.",
-    "Transcription": "Расшифровка",
-    "On-device availability, complete text, and per-thought controls.": "Доступность на устройстве, полный текст и настройки каждой мысли.",
-    "Location & media": "Место и медиа",
-    "Optional location, camera, Photos picker, and exporting.": "Необязательное место, камера, выбор Photos и экспорт.",
-    "Privacy & deletion": "Приватность и удаление",
-    "Encryption, Recently Deleted, and permanent removal.": "Шифрование, Recently Deleted и полное удаление.",
-    "Recording and playback": "Запись и воспроизведение",
-    "Allow microphone access in iPhone Settings > Privacy & Security > Microphone. A new voice thought can begin automatically only when that option is enabled in Inner Thought Settings.": "Разрешите микрофон в iPhone Settings > Privacy & Security > Microphone. Новая голосовая мысль может начаться автоматически только при включении опции в Inner Thought Settings.",
-    "If playback is silent, check the iPhone volume, Control Center audio destination, and connected Bluetooth devices. Inner Thought asks iOS to play through the speaker when no other destination is selected.": "Если звука нет, проверьте громкость iPhone, назначение звука в Control Center и Bluetooth-устройства. Inner Thought просит iOS включить динамик, если другое назначение не выбрано.",
-    "Transcription is optional and uses Apple’s on-device recognition. Availability can depend on the selected language and whether its on-device speech model is installed. All recognized passages are accumulated with the thought; natural pauses should not erase earlier words.": "Расшифровка необязательна и использует распознавание Apple на устройстве. Доступность зависит от языка и установленной модели. Все распознанные фрагменты накапливаются; естественные паузы не стирают прежние слова.",
-    "You can keep voice with no transcript, dictate text without saving audio, or type directly. The global preference lives in Settings, and voice transcription can be changed for each capture.": "Можно хранить голос без текста, диктовать без аудио или печатать. Общая настройка находится в Settings; расшифровка меняется и для каждой записи.",
-    "Location, photos, and video": "Место, фото и видео",
-    "Location is a single optional point, never a track. If it was omitted, you can add or update it later from the saved thought. Turn the default off in Settings or use the capture-screen control for one thought.": "Место — одна необязательная точка, не маршрут. Его можно добавить или изменить позже. Отключите значение по умолчанию в Settings или используйте настройку экрана записи.",
-    "Photos and videos are stored privately inside Inner Thought by default. Use Save to Photos only when you want an additional copy in Apple Photos.": "Фото и видео по умолчанию приватно хранятся внутри Inner Thought. Используйте Save to Photos, только когда нужна копия в Apple Photos.",
-    "Privacy, storage, and deletion": "Приватность, хранение и удаление",
-    "Saved thought content and media are encrypted on your device. The encryption key is held by iOS Keychain. Read the": "Содержимое и медиа шифруются на устройстве; ключ хранит iOS Keychain. Читайте",
-    "for the precise boundary.": "для точных границ.",
-    "full privacy policy": "полную политику конфиденциальности",
-    "A deleted thought stays recoverable for 30 days in Settings > Recently Deleted. Delete Forever removes it immediately; after 30 days the app removes it automatically.": "Удалённая мысль восстанавливается 30 дней в Settings > Recently Deleted. Delete Forever удаляет сразу; через 30 дней приложение удаляет автоматически.",
-    "Accessibility support": "Поддержка доступности",
-    "Accessibility failures are product failures. If VoiceOver, Voice Control, Switch Control, Larger Text, Reduce Motion, contrast, captions, or another access need is not working gracefully, please contact us and name the task you were trying to complete.": "Сбои доступности — сбои продукта. Если VoiceOver, Voice Control, Switch Control, Larger Text, Reduce Motion, контраст, субтитры или другая потребность работает плохо, сообщите задачу.",
-    "Direct support": "Прямая поддержка",
-    "Email Moving Truth": "Написать Moving Truth",
-    "Include your iPhone or iPad model, iOS or iPadOS version, and what happened. Please do not send a private thought or recording unless you deliberately want us to see it.": "Укажите модель iPhone или iPad, версию iOS или iPadOS и что произошло. Не отправляйте личную мысль или запись, если намеренно не хотите показать её.",
-    "All apps": "Все приложения",
-    "Held with care": "Бережное отношение",
-    "Your inner world deserves both beauty and clarity. Read the full privacy promise, find help, or reach a real person whenever you need us.": "Ваш внутренний мир заслуживает и красоты, и ясности. Прочтите полное обещание о конфиденциальности, найдите помощь или свяжитесь с реальным человеком, когда бы мы вам ни понадобились.",
-    "Technical Craft": "Техническое ремесло",
-    "Privacy policy": "Политика конфиденциальности",
-    "Email support": "Поддержка по электронной почте",
-    "Explore all Moving Truth apps": "Посмотреть все приложения Moving Truth",
-    "Technical Craft — Inner Thought": "Техническое ремесло — Inner Thought",
-    "Built natively. Composed deliberately.": "Создано изначально. Сочинено сознательно.",
-    "For those curious about the work beneath the calm, this is how Inner Thought is made: with native Apple frameworks, clear boundaries, recoverable states, and care for the whole person using it.": "Для тех, кто интересуется работой, лежащей в основе спокойствия, Inner Thought создан именно так: с собственными платформами Apple, четкими границами, восстанавливаемыми состояниями и заботой обо всем, кто его использует.",
-    "Native by design": "Встроенная конструкция",
-    "Inner Thought is written in Swift and SwiftUI, using SwiftData, AVFoundation, Speech, MapKit, PhotosUI, WidgetKit, ActivityKit, App Intents, CryptoKit, and LocalAuthentication. Apple-native frameworks keep the app close to the platform, private by default, and light on dependencies.": "Inner Thought написан на Swift и SwiftUI с использованием SwiftData, AVFoundation, Speech, MapKit, PhotosUI, WidgetKit, ActivityKit, App Intents, CryptoKit и LocalAuthentication. Собственные платформы Apple сохраняют приложение близким к платформе, по умолчанию конфиденциальным и не учитывают зависимостей.",
-    "Small, focused responsibilities": "Небольшие, целенаправленные обязанности",
-    "The interface expresses state; focused controllers and services own recording, transcription, storage, playback, media, location, encryption, and system presentation. Shared coordinators connect those pieces without making a screen responsible for everything.": "Интерфейс выражает состояние; специализированные контроллеры и службы владеют записью, транскрипцией, хранением, воспроизведением, мультимедиа, местоположением, шифрованием и представлением системы. Общие координаторы соединяют эти части, не возлагая ответственность за все на экран.",
-    "The thought comes first": "Мысль на первом месте",
-    "Audio is authoritative and its destination exists before capture begins. Pauses, interruptions, transcription failures, and storage errors are designed as recoverable states. A valid recording is never discarded because speech recognition failed.": "Аудио является авторитетным, и его назначение существует до начала захвата. Паузы, прерывания, сбои транскрипции и ошибки хранения задуманы как восстанавливаемые состояния. Действительная запись никогда не отбрасывается из-за сбоя распознавания речи.",
-    "Private by structure": "Частный по структуре",
-    "Titles, transcripts, locations, custom tags, audio, photos, and videos are encrypted with AES-256-GCM. The key lives in the iOS Keychain; decrypted working files use platform file protection and are purged when the app leaves the foreground. There are no accounts, ads, trackers, or third-party analytics.": "Заголовки, расшифровки, местоположения, пользовательские теги, аудио, фотографии и видео шифруются с помощью AES-256-GCM. Ключ находится в связке ключей iOS; расшифрованные рабочие файлы используют защиту файлов платформы и удаляются, когда приложение покидает передний план. Здесь нет аккаунтов, рекламы, трекеров или сторонней аналитики.",
-    "One app, every way in": "Одно приложение во всех отношениях",
-    "Semantic controls, Dynamic Type, VoiceOver, Voice Control, Switch Control, keyboard access, Reduce Motion, Increase Contrast, and non-colour cues are considered across complete tasks. Accessibility is evaluated as a path someone can finish, not a count of modifiers.": "Семантические элементы управления, динамический тип, VoiceOver, голосовое управление, управление переключателями, доступ с клавиатуры, уменьшение движения, увеличение контрастности и нецветовые сигналы учитываются при выполнении полных задач. Доступность оценивается как путь, который кто-то может пройти, а не количество модификаторов.",
-    "Apple’s Human Interface Guidelines and accessibility principles guide us to put the person—not the feature—at the centre of each decision. Inner Thought considers people with visual, hearing, mobility, speech, and cognitive disabilities, along with temporary and situational limitations. Meaning never depends on colour, motion, sound, or gesture alone; enhancements remain optional; privacy and dignity are preserved. Automated evidence supports this work, and release claims wait for physical assistive-technology verification.": "Рекомендации Apple по созданию пользовательского интерфейса и принципы доступности побуждают нас ставить человека, а не функцию, в центр каждого решения. Inner Thought учитывает людей с нарушениями зрения, слуха, подвижности, речи и когнитивных функций, а также временными и ситуативными ограничениями. Значение никогда не зависит только от цвета, движения, звука или жеста; улучшения остаются необязательными; конфиденциальность и достоинство сохранены. Автоматизированные доказательства подтверждают эту работу, а заявления о выпуске ждут проверки с помощью физических вспомогательных технологий.",
-    "Language in the architecture": "Язык в архитектуре",
-    "Every visible and spoken interface string lives in String Catalogs. Layouts are bidirectional, user-authored words keep their language, and dates, times, and numbers follow the active locale. Fourteen launch languages are built in; draft translations still require fluent human review before release.": "Каждая видимая и произносимая строка интерфейса находится в каталогах строк. Макеты являются двунаправленными, слова, написанные пользователем, сохраняют свой язык, а даты, время и числа следуют за активным языковым стандартом. Встроено четырнадцать языков запуска; черновые переводы по-прежнему требуют тщательной проверки человеком перед выпуском.",
-    "Native beyond the app": "Нативное за пределами приложения",
-    "Home and Lock Screen widgets, Live Activities, the Dynamic Island, and App Intents share a deliberately small command layer and capture coordinator. Private thought text stays out of system surfaces; only the state needed to control an active capture leaves the app interface.": "Виджеты «Домой» и «Экран блокировки», «Живые действия», «Динамический остров» и «Намерения приложения» имеют намеренно небольшой командный уровень и координатор захвата. Текст личных мыслей не попадает на поверхности системы; из интерфейса приложения выходит только состояние, необходимое для управления активным захватом.",
-    "Evidence, not confidence": "Доказательства, а не уверенность",
-    "Deterministic unit tests exercise persistence, encryption, recovery, media, mapping, and capture state. UI tests cover navigation, expanded text, and right-to-left layout. Automated checks support the work; physical iPhone and assistive-technology testing remain release gates.": "Детерминированные модульные тесты проверяют сохранение, шифрование, восстановление, носитель, сопоставление и захват состояния. Тесты пользовательского интерфейса охватывают навигацию, расширенный текст и расположение справа налево. Автоматические проверки поддерживают работу; Физический iPhone и тестирование вспомогательных технологий остаются воротами к выпуску.",
-    "Engineering in service of calm": "Инженерия на службе спокойствия",
-    "Grace was not painted over function at the end. Progressive disclosure, semantic typography, stable layout space, restrained motion, and quiet materials let substantial capability remain calm and understandable.": "Функция Грейс не была закрашена в конце. Прогрессивное раскрытие, семантическая типографика, стабильное пространство макета, сдержанное движение и тихие материалы позволяют существенным возможностям оставаться спокойными и понятными.",
-    "The result is meant to feel simple because the complexity has been carried carefully underneath.": "Результат должен казаться простым, потому что сложность тщательно проработана."
-  },
-  "scriptTranslations": {
-    "Close navigation": "Закрыть навигацию",
-    "Open navigation": "Открыть навигацию"
-  },
-  "contextualTranslations": {
-    "technical_craft.html": {
-      "The person comes first": {
-        "1": "Человек на первом месте"
-      }
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-thought.index.text.0001": {
+      "value": "Inner Thought — от Moving Truth",
+      "sourceSha256": "c062f75f837d27a069aca4303772d1a126d505da520e63ca021b9bb68ac3ff70"
+    },
+    "inner-thought.index.text.0002": {
+      "value": "Перейти к основному содержанию",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-thought.index.text.0003": {
+      "value": "Открыть навигацию",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.index.text.0004": {
+      "value": "Возможности",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-thought.index.text.0005": {
+      "value": "Доступность",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.index.text.0006": {
+      "value": "Приватность",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.index.text.0007": {
+      "value": "Поддержка",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.index.text.0008": {
+      "value": "Доступность",
+      "sourceSha256": "12f67f8539c46701e62d1c50254cf025c22a992b06fea6d4c0e19705f21f4cac"
+    },
+    "inner-thought.index.text.0009": {
+      "value": "Все приложения",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.index.text.0010": {
+      "value": "Одно движение. Скажите, что внутри. Сохраните это надёжно.",
+      "sourceSha256": "41d1d45dce382ab16e909b47fe43c4430f56bd48dce3dfdf961e87444cadef53"
+    },
+    "inner-thought.index.text.0011": {
+      "value": "Загрузить Inner Thought в App Store",
+      "sourceSha256": "55384cf91c27972055904ad17f36e2bf2797f7aaacc12268fad3b0379f76ba7c"
+    },
+    "inner-thought.index.text.0012": {
+      "value": "Зачем оно существует",
+      "sourceSha256": "77890c5d4168a3af5e9a2611921690bb9f2f6c2a02e7269ab9b268f2f1bbed00"
+    },
+    "inner-thought.index.text.0013": {
+      "value": "прокрутите, чтобы принять",
+      "sourceSha256": "ef2e2dd538a01860c597ce63e3a8e6d1f6cdb5523005a9733f342694b5706145"
+    },
+    "inner-thought.index.text.0014": {
+      "value": "Место, где можно удержать то, что иначе исчезнет.",
+      "sourceSha256": "bfaaf37bac046c5c313694c43440bc55662ac8a07d15bd777b674c5587e87be9"
+    },
+    "inner-thought.index.text.0015": {
+      "value": "Inner Thought помогает удержать творческий импульс до того, как он исчезнет,— с приватностью, достоинством и мягкостью. Скажите, напечатайте, сфотографируйте или снимите. Организуйте позже или вовсе не организуйте.",
+      "sourceSha256": "8acbd9a140589616006e2468c1039b6c98077eb35dd0bc40f4e52856f3569cba"
+    },
+    "inner-thought.index.text.0016": {
+      "value": "Готово, когда приходит мысль. Тихо, когда её нет.",
+      "sourceSha256": "7906c0841af84d1273e3967685e20d53531e0402a5198e7490d3baa7335a5090"
+    },
+    "inner-thought.index.text.0017": {
+      "value": "Сказать",
+      "sourceSha256": "b0a422a0de4af8203cfaa0ba6a5780c3e2d53d7df1f91b9022cd0cd7288ae0b1"
+    },
+    "inner-thought.index.text.0018": {
+      "value": "Написать",
+      "sourceSha256": "4c6031d1d40cc16e9c579a3a56e8a51dfbbd439367e311d241b32afd845538d5"
+    },
+    "inner-thought.index.text.0019": {
+      "value": "Увидеть",
+      "sourceSha256": "8894cf30aed05a787922b8da70ce6ec4e86879ac21f97fbf78a2da27bdae2b20"
+    },
+    "inner-thought.index.text.0020": {
+      "value": "Привязать к месту",
+      "sourceSha256": "cfa70d64a48226d4b667f0a25442e3ab81b6195268ad85acec3f6e909669394f"
+    },
+    "inner-thought.index.text.0021": {
+      "value": "Сохранить приватно",
+      "sourceSha256": "187c44112cef269684fa358a68cefa913e3d18f55b0936b55f56dbbb2ec7d43d"
+    },
+    "inner-thought.index.text.0022": {
+      "value": "Сначала — запись",
+      "sourceSha256": "f16972c086c637774011108f9fe5433d983d07feb9ab6bd5f28f22bb590ed900"
+    },
+    "inner-thought.index.text.0023": {
+      "value": "Мысль не обязана быть готовой.",
+      "sourceSha256": "5933bf308d531fafaedd4fc58f77ede50cd6808d63223112d0cf9ff14c072114"
+    },
+    "inner-thought.index.text.0024": {
+      "value": "Название подождёт. Категория подождёт. Идея — нет. Inner Thought сокращает расстояние между её появлением и безопасным сохранением.",
+      "sourceSha256": "c989b3bf634933cecb098efba74950e9ab79afe16a148f2f520aeac08ce6fbd2"
+    },
+    "inner-thought.index.text.0025": {
+      "value": "Голос",
+      "sourceSha256": "87bf2bc08589f0bd4a078db145c34ad5e14b8fda53c3ae65b78601294913df95"
+    },
+    "inner-thought.index.text.0026": {
+      "value": "Храните исходную запись и, по выбору, полную расшифровку.",
+      "sourceSha256": "556be93771b4491c87edf67be68c65d1cfb43a3b690856b41ea2b37cae4bd968"
+    },
+    "inner-thought.index.text.0027": {
+      "value": "Текст",
+      "sourceSha256": "71988c4d8e0803ba4519f0b2864c1331c14a1890bf8694e251379177bfedb5c3"
+    },
+    "inner-thought.index.text.0028": {
+      "value": "Диктуйте без сохранения аудио или просто напечатайте мысль.",
+      "sourceSha256": "f6eb4c685dfb281de73346b9f37de2b980f5a1deaf49b4be674279ea32277683"
+    },
+    "inner-thought.index.text.0029": {
+      "value": "Место",
+      "sourceSha256": "e9463dccf0541a9778589691543fd69249759d5de6a97cd57d6420c3e5d92baa"
+    },
+    "inner-thought.index.text.0030": {
+      "value": "Добавьте одну точку лишь тогда, когда контекст места принадлежит мысли.",
+      "sourceSha256": "e24ad3c02ca97336c235261dffbf5461a75b3fcf5d96c6802fef156120b7dedb"
+    },
+    "inner-thought.index.text.0031": {
+      "value": "Медиа",
+      "sourceSha256": "d357175cfe8978d39b0f86552dcd9404973493e2816101d9ff6c05ee248ef6bd"
+    },
+    "inner-thought.index.text.0032": {
+      "value": "Храните фотографии и видео приватно внутри воспоминания.",
+      "sourceSha256": "058fdd98be1df198fa2683ca95126bab4df5fffcc0dac1730ec14f456bfe3e31"
+    },
+    "inner-thought.index.text.0033": {
+      "value": "Доступность с первого дня",
+      "sourceSha256": "523236e02a3c796e9d1432cb6356540f02c00f3167026ffed00ad19306752450"
+    },
+    "inner-thought.index.text.0034": {
+      "value": "Один Inner Thought. Для всех.",
+      "sourceSha256": "e30293184fd82ba5ce5679071bef41a886e47f675796f0713af59591704b0355"
+    },
+    "inner-thought.index.text.0035": {
+      "value": "Доступность — часть истинности обещания, а не отдельная версия и не последняя отделка. Каждая обычная задача проектируется и проверяется для разных способов видеть, слышать, двигаться, читать и взаимодействовать.",
+      "sourceSha256": "5d2d5cb0d4cd9fd66df8d5b3bb2d3b21de730f977762c82736556e19764cbace"
+    },
+    "inner-thought.index.text.0036": {
+      "value": "VoiceOver, Voice Control, Switch Control, Larger Text, Reduce Motion, контраст, клавиатура и ясные состояния без зависимости от звука — условия выпуска.",
+      "sourceSha256": "19f3e593ab5dbd81aac36991f9e7522d63ab8af8af51834c3d4013e04d957516"
+    },
+    "inner-thought.index.text.0037": {
+      "value": "Приватность заложена в дизайн",
+      "sourceSha256": "485ca594ccc9003ba4908cc7f0024a92ce2a89f2e3e49fb4acbc61770eff6580"
+    },
+    "inner-thought.index.text.0038": {
+      "value": "Ваши мысли — не товар.",
+      "sourceSha256": "fb52f79a1c0928f1448819f734433dc29a0dbbd5cfe5cc801b7be45c9afb0d18"
+    },
+    "inner-thought.index.text.0039": {
+      "value": "Inner Thought не требует аккаунта и не содержит рекламы или сторонней аналитики. Заголовки, слова, места, теги, записи, фото и видео шифруются на устройстве ключом из iOS Keychain.",
+      "sourceSha256": "634169d1efd8fdbab9d5b610c6e5d6607047db018f62eeca7eaa92ecdd253dc5"
+    },
+    "inner-thought.index.text.0040": {
+      "value": "Без фонового отслеживания места.",
+      "sourceSha256": "7fd95729ad05600e66ac921277613ac2223d21daa64d8decbb8fe4fb87a4b87d"
+    },
+    "inner-thought.index.text.0041": {
+      "value": "Без просмотра всей фототеки.",
+      "sourceSha256": "0e165b2540bfc5ab53b700dff47d990e9e57ffc805477cfa29ce3a5274b65d56"
+    },
+    "inner-thought.index.text.0042": {
+      "value": "Расшифровка на устройстве; по умолчанию её текста нет в виджетах и журналах.",
+      "sourceSha256": "54b39488b88b221016fb48ff9c5c1842fdb65b90b43c9d9bb4f281a0d4c9bb42"
+    },
+    "inner-thought.index.text.0043": {
+      "value": "Без подписки рядом с вашими личными мыслями.",
+      "sourceSha256": "6b323a77bc4a88d70cb184dc74b19da36be509b1b2c135b6e07bf7c212880de6"
+    },
+    "inner-thought.index.text.0044": {
+      "value": "Читать полную политику конфиденциальности",
+      "sourceSha256": "58db9d103eec30212473637b05e70be90814d2cdc04e34fe2199eaab708cf619"
+    },
+    "inner-thought.index.text.0045": {
+      "value": "Благословение этой работе",
+      "sourceSha256": "dbd179de3df4dd7951205dda69e22dd6ac2e447dfbf8df318ef08d46926f4b78"
+    },
+    "inner-thought.index.text.0046": {
+      "value": "Пусть приложение помогает людям сохранять своё творчество.",
+      "sourceSha256": "d358f76aab28b9f1cbe6db954bb8eca12f911f882ed96b53fad6aafd435db23a"
+    },
+    "inner-thought.index.text.0047": {
+      "value": "Пусть оно будет красивым, полезным, плодотворным и нужным.",
+      "sourceSha256": "1467b24d2ac915df42a189eb0228d706873cae17975af213c4c6ae1a600e42a7"
+    },
+    "inner-thought.index.text.0048": {
+      "value": "Пусть оно достигнет тех, чьим мыслям нужно место.",
+      "sourceSha256": "f1b28d494f8ebbdbbdceae6e87bf694e8a5eff4af92a2b82d4a01be147419adc"
+    },
+    "inner-thought.index.text.0049": {
+      "value": "Бережное отношение",
+      "sourceSha256": "93bf5cb9ace257f1586c526a925ad13ca1135511cfc6ffb96cd4245f396fd870"
+    },
+    "inner-thought.index.text.0050": {
+      "value": "Ваш внутренний мир заслуживает и красоты, и ясности. Прочтите полное обещание о конфиденциальности, найдите помощь или свяжитесь с реальным человеком, когда бы мы вам ни понадобились.",
+      "sourceSha256": "f0dfb02b9e5215f69c3eff154df9d41ac8a1541ddd9f0087ed5181eaf0cd4890"
+    },
+    "inner-thought.index.text.0051": {
+      "value": "Техническое ремесло",
+      "sourceSha256": "ed7b84a2eb484c5b73f39e114cd551a47e8e1b764b945ccfaa1c98280fc3439b"
+    },
+    "inner-thought.index.text.0052": {
+      "value": "Политика конфиденциальности",
+      "sourceSha256": "ba445cff3898a3f24f415f90fbef1c8169ea21949a40680c5e1c5975843d1b5e"
+    },
+    "inner-thought.index.text.0053": {
+      "value": "Поддержка",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.index.text.0054": {
+      "value": "Поддержка по электронной почте",
+      "sourceSha256": "403151089cb1cbbd1fb0698b2815cafd80199a7a702afdf2a0421656e4232090"
+    },
+    "inner-thought.index.text.0055": {
+      "value": "от Moving Truth",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-thought.index.text.0056": {
+      "value": "Создано с любовью Skylaur Roe",
+      "sourceSha256": "8973d1d4a4d34a688cb6e6d9080ec19b076e65b44fac74776e850e1cfb0f6562"
+    },
+    "inner-thought.index.text.0057": {
+      "value": "Посмотреть все приложения Moving Truth",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-thought.index.text.0058": {
+      "value": "Уже доступно",
+      "sourceSha256": "2a4729fa7647b090374ca25dd057f5e604682b9ff1867b029c5afe3479183fcd"
+    },
+    "inner-thought.index.text.0059": {
+      "value": "Дайте мысли место, где она сможет остаться.",
+      "sourceSha256": "f347dab84ef30cbb69f5f9f62efff780085d543a93811a3f18b3ca786b11d96b"
+    },
+    "inner-thought.index.text.0060": {
+      "value": "Inner Thought доступно для iPhone и iPad как одно полное приложение: небольшая разовая цена, без подписки и уровней функций.",
+      "sourceSha256": "bc1664396b7ccdd19fcf2a9a4620bce4b79d1c3daa9cdfd946c90ee38776916b"
+    },
+    "inner-thought.index.text.0061": {
+      "value": "Загрузить Inner Thought в App Store",
+      "sourceSha256": "55384cf91c27972055904ad17f36e2bf2797f7aaacc12268fad3b0379f76ba7c"
+    },
+    "inner-thought.index.text.0062": {
+      "value": "Возможности",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-thought.index.text.0063": {
+      "value": "Доступность",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.index.text.0064": {
+      "value": "Приватность",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.index.text.0065": {
+      "value": "Поддержка",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.index.text.0066": {
+      "value": "Все приложения",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.index.text.0067": {
+      "value": "© 2026 Inner Thought by Moving Truth. Создано для iPhone и iPad.",
+      "sourceSha256": "6372e4faf277e9b3451e29693bbfb3cedc081475f9268c2a1e870226bdb52499"
+    },
+    "inner-thought.index.attribute.0001": {
+      "value": "Inner Thought удерживает идеи, которые иначе исчезли бы,— сказанные, написанные, снятые на фото или видео. Приватность заложена в дизайн. Уже доступно в App Store для iPhone и iPad.",
+      "sourceSha256": "a9e32c2522849fc1fd6cde71e99c83da6ed35673f74d06a67aabc513d824e9c8"
+    },
+    "inner-thought.index.attribute.0002": {
+      "value": "Inner Thought — от Moving Truth",
+      "sourceSha256": "c062f75f837d27a069aca4303772d1a126d505da520e63ca021b9bb68ac3ff70"
+    },
+    "inner-thought.index.attribute.0003": {
+      "value": "Одно движение. Скажите, что внутри. Сохраните это надёжно.",
+      "sourceSha256": "41d1d45dce382ab16e909b47fe43c4430f56bd48dce3dfdf961e87444cadef53"
+    },
+    "inner-thought.index.attribute.0004": {
+      "value": "Главная Inner Thought",
+      "sourceSha256": "23d91187961439354f1e8399a6d26c7d146b7ff0437fe3b71aea38babfdfed01"
+    },
+    "inner-thought.index.attribute.0005": {
+      "value": "Основная навигация",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-thought.index.attribute.0006": {
+      "value": "Значок Inner Thought: золотая волна, переходящая в спираль",
+      "sourceSha256": "e8c797dfb6f58044206c8568f6e2c49ba0ac0ffd1f27bae0f55b15eaa5730e7c"
+    },
+    "inner-thought.index.attribute.0007": {
+      "value": "Способы сохранить мысль",
+      "sourceSha256": "23e4184f082bac69bd1552f0e56d6bb3ff8ce1da83db804f2face549c4dd4a18"
+    },
+    "inner-thought.index.attribute.0008": {
+      "value": "О Moving Truth",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-thought.index.attribute.0009": {
+      "value": "Moving Truth. Открывает movingtruth.com",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-thought.index.attribute.0010": {
+      "value": "Логотип Moving Truth",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-thought.index.attribute.0011": {
+      "value": "Навигация в подвале",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-thought.index.script.0001": {
+      "value": "Открыть навигацию",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.privacy-policy.text.0001": {
+      "value": "Политика конфиденциальности — Inner Thought",
+      "sourceSha256": "2852466862b7fa4bbae84db3d8c954966e6ee4ff0176e3352304b76d5fc0527f"
+    },
+    "inner-thought.privacy-policy.text.0002": {
+      "value": "Перейти к основному содержанию",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-thought.privacy-policy.text.0003": {
+      "value": "Открыть навигацию",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.privacy-policy.text.0004": {
+      "value": "Главная",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.privacy-policy.text.0005": {
+      "value": "Приватность",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.privacy-policy.text.0006": {
+      "value": "Доступность",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.privacy-policy.text.0007": {
+      "value": "Поддержка",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.privacy-policy.text.0008": {
+      "value": "Все приложения",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.privacy-policy.text.0009": {
+      "value": "Приватность заложена в дизайн",
+      "sourceSha256": "485ca594ccc9003ba4908cc7f0024a92ce2a89f2e3e49fb4acbc61770eff6580"
+    },
+    "inner-thought.privacy-policy.text.0010": {
+      "value": "Политика конфиденциальности",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    "inner-thought.privacy-policy.text.0011": {
+      "value": "Ваши мысли — не товар. Inner Thought сохраняет захваченный внутренний мир под вашим контролем.",
+      "sourceSha256": "28e7d8519b81fe16000ab67d5ce524aa1d568ede8e2efff8c7e8e36e61146243"
+    },
+    "inner-thought.privacy-policy.text.0012": {
+      "value": "Простыми словами:",
+      "sourceSha256": "fb3329ada8900b811d5a90803c261195b66db525684c23faa14914e53c147a94"
+    },
+    "inner-thought.privacy-policy.text.0013": {
+      "value": "Без аккаунта, рекламы, сторонней аналитики, продажи данных и облачного сервиса Moving Truth.",
+      "sourceSha256": "203e580cafd769beea889525196a4fe1168eafb3a7d51e77a5424f1c3e016160"
+    },
+    "inner-thought.privacy-policy.text.0014": {
+      "value": "Что хранит Inner Thought",
+      "sourceSha256": "afd76c04fe44ab8e068c329c69caf93e59cfe5914c69ec43241f1f3d6d0b4a63"
+    },
+    "inner-thought.privacy-policy.text.0015": {
+      "value": "Только созданное вами: названия, введённый или продиктованный текст, записи, необязательные разовые места, теги, фото, видео, избранное и даты для организации или восстановления.",
+      "sourceSha256": "2599051440e0c9851bc4a2b4da2b4874c0a21f0eaca6a4727bddb0756fe3678f"
+    },
+    "inner-thought.privacy-policy.text.0016": {
+      "value": "Место никогда не становится историей перемещений. Одна точка запрашивается только при включении места для этой записи.",
+      "sourceSha256": "1d6271e6ec01d83b21fd0dbf069cd44be64da8f66cdd27b68ce0bb4308de3321"
+    },
+    "inner-thought.privacy-policy.text.0017": {
+      "value": "Как защищены мысли",
+      "sourceSha256": "deae090bef87448892ef7a3754689358eba4547cc59788990adbd1165d77b098"
+    },
+    "inner-thought.privacy-policy.text.0018": {
+      "value": "Заголовки, расшифровки, места, имена тегов, ссылки на записи, описания медиа, аудио, фото и видео шифруются на устройстве. Используется AES-256-GCM, ключ хранится в iOS Keychain.",
+      "sourceSha256": "d92c0751946471d52ffaa57d3568f0701ce3a681c3f6ae84ec47afc3e0ac1720"
+    },
+    "inner-thought.privacy-policy.text.0019": {
+      "value": "Большие записи и видео шифруются аутентифицированными частями. При просмотре, воспроизведении, экспорте или отправке может создаваться краткосрочная открытая копия под полной защитой файлов iOS. Она удаляется при уходе приложения с переднего плана и обслуживании хранилища.",
+      "sourceSha256": "69da5ab8e69b523ac6b5bafc97693093a29dc9ed14d2fe2b95e0231d48af4e63"
+    },
+    "inner-thought.privacy-policy.text.0020": {
+      "value": "Во время записи данные кратко существуют как защищённый iOS рабочий файл, пока звуковая система Apple пишет его. При сохранении мысли файл сразу шифруется.",
+      "sourceSha256": "621395d84ef48f42b0b56b3385b30a1bed2f8c667861747115aeab2feb6a9836"
+    },
+    "inner-thought.privacy-policy.text.0021": {
+      "value": "Разрешения — ваш выбор",
+      "sourceSha256": "d810c266485273ed27867e80dfedfa2357145f0808e92cdf714151383c35400e"
+    },
+    "inner-thought.privacy-policy.text.0022": {
+      "value": "Микрофон и расшифровка",
+      "sourceSha256": "c0b5612806df11ef7715995c5dc9e20a2c65cd713e0acf90c5448ed2e0f1f30c"
+    },
+    "inner-thought.privacy-policy.text.0023": {
+      "value": "Микрофон используется только при записи или диктовке. Живая расшифровка требует распознавания Apple на устройстве. Её можно отключить полностью или для отдельной голосовой мысли.",
+      "sourceSha256": "53a1be370adb40f67b529654cd561e1e8e9631d5e83dcbbe977aa73243aa451f"
+    },
+    "inner-thought.privacy-policy.text.0024": {
+      "value": "Место",
+      "sourceSha256": "15b61974b2707a7b3d4201385e0f01f4ff5eb1f17c5639d98788ee5add2025cd"
+    },
+    "inner-thought.privacy-policy.text.0025": {
+      "value": "Место необязательно, меняется для каждой мысли и отключается в Settings. Inner Thought не отслеживает вас в фоне.",
+      "sourceSha256": "f7092f0dc4d21539d9b9621a15585f23aebfcedf374e0e498a4534efdfde8323"
+    },
+    "inner-thought.privacy-policy.text.0026": {
+      "value": "Фото и камера",
+      "sourceSha256": "5f30103c80199e6da86be9da99a41542b5701c88bb0f5ca46b335bf277541b3e"
+    },
+    "inner-thought.privacy-policy.text.0027": {
+      "value": "Системный выбор фото позволяет выбрать отдельные элементы без доступа ко всей библиотеке. Камера используется только при её открытии. Новые медиа остаются в Inner Thought; копия попадает в Photos лишь по вашему выбору.",
+      "sourceSha256": "8543895ed7ade4c866498ade59c003cf647721c821bd6f1684c8f3bf9d53d403"
+    },
+    "inner-thought.privacy-policy.text.0028": {
+      "value": "Отправка и экспорт",
+      "sourceSha256": "9e5a4a9e0f30637b305e72c06528c82384651d2f894965181121ccb3e98acfcf"
+    },
+    "inner-thought.privacy-policy.text.0029": {
+      "value": "В Moving Truth ничего не отправляется. При использовании Share, Save to Photos, почты или другого назначения вы передаёте ему расшифрованную копию; далее действует его политика.",
+      "sourceSha256": "18d324809509f30a32e3c3deb68d3a36108b4b94ab45e6c54a3ae1acd65ea6db"
+    },
+    "inner-thought.privacy-policy.text.0030": {
+      "value": "Аналитика, реклама и аккаунты",
+      "sourceSha256": "6e90d2c7c7e7d161bb42a723133e5761fc1eaeadd03d5bfa8318b6bcbded31c4"
+    },
+    "inner-thought.privacy-policy.text.0031": {
+      "value": "В Inner Thought нет аккаунта, рекламы, SDK отслеживания и сторонней аналитики. Диагностические журналы не включают текст мыслей, расшифровки, имена файлов и координаты.",
+      "sourceSha256": "950ab66e12f7e8dcc95e8928c5e2eccf8bfcf8eeb3505a706b9c942e066e8a0c"
+    },
+    "inner-thought.privacy-policy.text.0032": {
+      "value": "Удаление и хранение",
+      "sourceSha256": "b36c8ce6b02f45535ac757b4eba1e440ae9ecaaa126490ec2703e0965908e01f"
+    },
+    "inner-thought.privacy-policy.text.0033": {
+      "value": "Удалённые мысли остаются в Recently Deleted 30 дней для восстановления. Delete Forever или истечение срока удаляет запись базы и управляемые аудио, фото и видео. Резервные копии зависят от настроек защиты Apple.",
+      "sourceSha256": "096e882b061c0e0e4a8ddcd155d573c28b880b03a1dc845b74a70bc1c100921d"
+    },
+    "inner-thought.privacy-policy.text.0034": {
+      "value": "Приватность детей",
+      "sourceSha256": "740155cb51d893d9714ebf29691abe68055cb9a3d33f41df4af6d570b7634f67"
+    },
+    "inner-thought.privacy-policy.text.0035": {
+      "value": "Inner Thought сознательно не собирает личные данные ни у кого, включая детей: Moving Truth не ведёт аккаунты, аналитику, рекламу или сбор содержимого.",
+      "sourceSha256": "fd7fb3f554559d20cad6fb6426f8e31b494e50532051a58512593e7cbe075c4b"
+    },
+    "inner-thought.privacy-policy.text.0036": {
+      "value": "Изменения политики",
+      "sourceSha256": "86cb08a84ff4d12d0d7e1741c28362b6c4923971cd8eb2b4bf0b7a9e5277534f"
+    },
+    "inner-thought.privacy-policy.text.0037": {
+      "value": "Если обращение с данными изменится, страница обновится до выпуска нового поведения. Существенные изменения будут объяснены ясно, а не спрятаны в юридическом тексте.",
+      "sourceSha256": "972c141fb0957bc901691b6bd7b1387ceb321f1dfba261b0c93401d5907263cd"
+    },
+    "inner-thought.privacy-policy.text.0038": {
+      "value": "Контакты",
+      "sourceSha256": "2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e"
+    },
+    "inner-thought.privacy-policy.text.0039": {
+      "value": "Вопросы о приватности приветствуются по адресу",
+      "sourceSha256": "61ec12a4abb796599b38bb81bc67184504295ef842dcfc01c8c46b0be3b99ca9"
+    },
+    "inner-thought.privacy-policy.text.0040": {
+      "value": "или через",
+      "sourceSha256": "74446f7fc1ff18b5d8d617a79db67bbe24dd09d2f7df32f4e25e1f0e46dffb96"
+    },
+    "inner-thought.privacy-policy.text.0041": {
+      "value": "страницу поддержки Inner Thought",
+      "sourceSha256": "52b6e67f9dc029da1a987da3bfd8be77881adda51dae72619575294a83116a98"
+    },
+    "inner-thought.privacy-policy.text.0042": {
+      "value": "Действует с:",
+      "sourceSha256": "def8b4f11c2023a57a1e3858dc6b83cbd37f4051856048f1597b475c0ae2f584"
+    },
+    "inner-thought.privacy-policy.text.0043": {
+      "value": "22 июля 2026 года",
+      "sourceSha256": "3143cb6a63aa8eb942e92ea5ff58a62fc70e677956abff3b28bfedc8fea26401"
+    },
+    "inner-thought.privacy-policy.text.0044": {
+      "value": "Разработчик:",
+      "sourceSha256": "462a98fa6385344adbe31dcd45af4b2596d585478e8cef41495fc4367d2e38cc"
+    },
+    "inner-thought.privacy-policy.text.0045": {
+      "value": "Moving Truth / Skylaur Roe",
+      "sourceSha256": "00facd11825f5142aae1842065e58cde5047cace2d1e1d5d84a750a72c724dd1"
+    },
+    "inner-thought.privacy-policy.text.0046": {
+      "value": "Главная",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.privacy-policy.text.0047": {
+      "value": "Приватность",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.privacy-policy.text.0048": {
+      "value": "Доступность",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.privacy-policy.text.0049": {
+      "value": "Поддержка",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.privacy-policy.text.0050": {
+      "value": "Все приложения",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.privacy-policy.text.0051": {
+      "value": "© 2026 Inner Thought by Moving Truth.",
+      "sourceSha256": "9027597546fb0a235f37f5b2aa53c4b68e303520c01fdbac2ee9a7f1a8abd76f"
+    },
+    "inner-thought.privacy-policy.attribute.0001": {
+      "value": "Политика Inner Thought. Ваши мысли остаются вашими и шифруются на устройстве.",
+      "sourceSha256": "a6afe4e458d91ce73d948329fe9c0169424f11970dd82e8b62eca7c7cedc0d0b"
+    },
+    "inner-thought.privacy-policy.attribute.0002": {
+      "value": "Главная Inner Thought",
+      "sourceSha256": "23d91187961439354f1e8399a6d26c7d146b7ff0437fe3b71aea38babfdfed01"
+    },
+    "inner-thought.privacy-policy.attribute.0003": {
+      "value": "Основная навигация",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-thought.privacy-policy.attribute.0004": {
+      "value": "Навигация в подвале",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-thought.privacy-policy.script.0001": {
+      "value": "Открыть навигацию",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.accessibility.text.0001": {
+      "value": "Доступность — Inner Thought",
+      "sourceSha256": "938bfa839edfe3c006d997e5f432bc403ca1fc16a2272bc21528fb817d2b47aa"
+    },
+    "inner-thought.accessibility.text.0002": {
+      "value": "Перейти к основному содержанию",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-thought.accessibility.text.0003": {
+      "value": "Открыть навигацию",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.accessibility.text.0004": {
+      "value": "Главная",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.accessibility.text.0005": {
+      "value": "Приватность",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.accessibility.text.0006": {
+      "value": "Доступность",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.accessibility.text.0007": {
+      "value": "Поддержка",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.accessibility.text.0008": {
+      "value": "Все приложения",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.accessibility.text.0009": {
+      "value": "Сначала человек",
+      "sourceSha256": "5b4f83fad5351a96eec969e4432b2a69d920d2e0d5742025d353b8f763e3934e"
+    },
+    "inner-thought.accessibility.text.0010": {
+      "value": "Доступность",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.accessibility.text.0011": {
+      "value": "Inner Thought один — без доступной и обычной версий. Возможность пользоваться им определяет истинность обещания.",
+      "sourceSha256": "4ede492487faf0eab8c9aecc8e3a0733c88359019897c205b8ccdd339230462b"
+    },
+    "inner-thought.accessibility.text.0012": {
+      "value": "Наш стандарт:",
+      "sourceSha256": "0e64506db1c7683c9d308cc3a87238a5de38dec5fae890562d8ab77c6c3e669c"
+    },
+    "inner-thought.accessibility.text.0013": {
+      "value": "функция не готова лишь потому, что элементы подписаны. Она готова, когда всю задачу можно понять и завершить способом доступа, которым пользуется человек.",
+      "sourceSha256": "dd24f66cc1341d769d382fb7e6cebeef27ad635ffdb1f168f5015bcda6992d56"
+    },
+    "inner-thought.accessibility.text.0014": {
+      "value": "Разные способы взаимодействия в основе",
+      "sourceSha256": "1eae579a7d9838a1a7eeddb474951ec44f1b1a0481c0bfa2da1b9819731c831f"
+    },
+    "inner-thought.accessibility.text.0015": {
+      "value": "Inner Thought поддерживает VoiceOver, Voice Control, Switch Control, аппаратные клавиатуры, Larger Text, Bold Text, Increase Contrast, Differentiate Without Color, Reduce Motion, светлое и тёмное оформление.",
+      "sourceSha256": "74e357b51792194c326d2538c17dbc4660010c74a589ce419522257abe1043a1"
+    },
+    "inner-thought.accessibility.text.0016": {
+      "value": "Запись, воспроизведение, сохранение, ошибки и состояние места никогда не передаются только цветом, звуком, движением или откликом. Жесты — ускорение, а не единственный путь.",
+      "sourceSha256": "bbf762cb51222f75dc01b06cc706005f9ac08a3fb33be1331aebdc62acdacb62"
+    },
+    "inner-thought.accessibility.text.0017": {
+      "value": "Слова остаются содержанием",
+      "sourceSha256": "9b1a239e4ec8a299508551528fb4a6c7c13f0bc62d4180e447807b189c8cad3b"
+    },
+    "inner-thought.accessibility.text.0018": {
+      "value": "Текст использует Dynamic Type, а макеты растут, не скрывая важные действия. Голосовые элементы имеют локализованные имена и значения. Живая расшифровка необязательна; запись остаётся в безопасности, когда распознавание недоступно.",
+      "sourceSha256": "5ce97173cc824c088f210a32e110309baba4abf0a6e32f37cb51b5348d10a75e"
+    },
+    "inner-thought.accessibility.text.0019": {
+      "value": "Для фото и видео есть описание, добавляемое человеком. Воспроизведение показывает прошедшее и полное время и регулируемый прогресс.",
+      "sourceSha256": "141236135d21c802a6556469b7e88ca536623cac357267aac9f3083896080311"
+    },
+    "inner-thought.accessibility.text.0020": {
+      "value": "Движение, контраст и внимание",
+      "sourceSha256": "1d9f454f3f80509a3924bce206d4f99995fa62a829d98297029ffc165c835a0e"
+    },
+    "inner-thought.accessibility.text.0021": {
+      "value": "Reduce Motion даёт цельный статичный опыт. Важные состояния используют текст и форму наряду с цветом; интерфейс учитывает усиленный контраст и различение без цвета. Необязательное фоновое движение останавливается.",
+      "sourceSha256": "a9370a5b43c854442cb8989330125bfb4430b53819f7d4de62c3d727a96b71e5"
+    },
+    "inner-thought.accessibility.text.0022": {
+      "value": "Как мы допускаем выпуск",
+      "sourceSha256": "2ad2a6f772f3daaee77a52fe1ede6209240c259121bc859877cb27d281347fdf"
+    },
+    "inner-thought.accessibility.text.0023": {
+      "value": "Автоматические проверки охватывают увеличенный текст, намеренно расширенные фразы, арабский макет справа налево, все языки и основную навигацию на iPhone и iPad. Затем реальные устройства проверяют полные задачи с технологиями доступности, записью, разрешениями, виджетами и Live Activities.",
+      "sourceSha256": "10f7761355dc694602cb37e0b2552e8d42d8c55db8d22a2c967a1b6be3b73c6f"
+    },
+    "inner-thought.accessibility.text.0024": {
+      "value": "Метка доступности App Store публикуется только после проверки всех обычных задач из критериев Apple для семейства устройств. Мы лучше не заявим о возможности, чем преувеличим доказанное.",
+      "sourceSha256": "69f307857a25d6fa055b677b5430a562189075775dda22a5005401091ecdf9df"
+    },
+    "inner-thought.accessibility.text.0025": {
+      "value": "Сообщите, где доступ прерывается",
+      "sourceSha256": "4d0b87e904dd32d34e91a432a3affcdc3664927b4b126d5c80b54af0426b4965"
+    },
+    "inner-thought.accessibility.text.0026": {
+      "value": "Сбой доступности — сбой продукта. Если что-то мешает записать, найти, прочитать, услышать, изменить, экспортировать или удалить мысль, напишите:",
+      "sourceSha256": "e2a4c8e4d558cb85fe3e051bda22a08064132825f724834d08792e7e8a5b3a01"
+    },
+    "inner-thought.accessibility.text.0027": {
+      "value": ". Укажите устройство, версию iOS или iPadOS, функцию доступа и задачу. Не включайте личную мысль, если намеренно не хотите показать её нам.",
+      "sourceSha256": "427838a4a7c1e2fc02ee90f9d2c632d196974236b7768ea3d3b5ccaaf200aa11"
+    },
+    "inner-thought.accessibility.text.0028": {
+      "value": "Главная",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.accessibility.text.0029": {
+      "value": "Приватность",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.accessibility.text.0030": {
+      "value": "Доступность",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.accessibility.text.0031": {
+      "value": "Поддержка",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.accessibility.text.0032": {
+      "value": "Все приложения",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.accessibility.text.0033": {
+      "value": "© 2026 Inner Thought by Moving Truth.",
+      "sourceSha256": "9027597546fb0a235f37f5b2aa53c4b68e303520c01fdbac2ee9a7f1a8abd76f"
+    },
+    "inner-thought.accessibility.attribute.0001": {
+      "value": "Заявление о доступности Inner Thought, обязательства дизайна, стандарты тестирования и прямая поддержка.",
+      "sourceSha256": "c5f79da7318b6e2812473435345fb8bbafde34334d23bef63f2898887fc63060"
+    },
+    "inner-thought.accessibility.attribute.0002": {
+      "value": "Главная Inner Thought",
+      "sourceSha256": "23d91187961439354f1e8399a6d26c7d146b7ff0437fe3b71aea38babfdfed01"
+    },
+    "inner-thought.accessibility.attribute.0003": {
+      "value": "Основная навигация",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-thought.accessibility.attribute.0004": {
+      "value": "Навигация в подвале",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-thought.accessibility.script.0001": {
+      "value": "Открыть навигацию",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.support.text.0001": {
+      "value": "Поддержка — Inner Thought",
+      "sourceSha256": "c72f35d21063cea4b67cca1176e81aded10c03c4f83e290f237e4d7d7a97f183"
+    },
+    "inner-thought.support.text.0002": {
+      "value": "Перейти к основному содержанию",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-thought.support.text.0003": {
+      "value": "Открыть навигацию",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.support.text.0004": {
+      "value": "Главная",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.support.text.0005": {
+      "value": "Приватность",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.support.text.0006": {
+      "value": "Доступность",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.support.text.0007": {
+      "value": "Поддержка",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.support.text.0008": {
+      "value": "Все приложения",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.support.text.0009": {
+      "value": "Мы рядом, когда нужны",
+      "sourceSha256": "2574ac6c6f3869a4bd129369d14d021b7473554a9f54debc61207b86c99b04a1"
+    },
+    "inner-thought.support.text.0010": {
+      "value": "Поддержка Inner Thought",
+      "sourceSha256": "22c7a35f4f4a9baea0187555393f2bfae4849b1aae6e9844ffa6b4da2f12e83a"
+    },
+    "inner-thought.support.text.0011": {
+      "value": "Приложение должно быть непосредственным и тихим. Если что-то встаёт между вами и мыслью, расскажите.",
+      "sourceSha256": "3e3ce55f0785b32e715adbd963589e1539a045e3237662854f4c26d0cbe9f251"
+    },
+    "inner-thought.support.text.0012": {
+      "value": "Запись и воспроизведение",
+      "sourceSha256": "c6df95991418858e2e800d726838e036e8826e889b2ef5f319192a48049387e7"
+    },
+    "inner-thought.support.text.0013": {
+      "value": "Доступ к микрофону, вывод звука, паузы и продолжение записи.",
+      "sourceSha256": "b6aa0ac18e56aa9c01ac5d0ea92dfbd8253895c48866e2dd44cfc6a4ae0145a9"
+    },
+    "inner-thought.support.text.0014": {
+      "value": "Расшифровка",
+      "sourceSha256": "30bf7b9b9540d4e11819ffbadf3ae6fe4c7ca94c8b433391e50e47e14a9d6cbf"
+    },
+    "inner-thought.support.text.0015": {
+      "value": "Доступность на устройстве, полный текст и настройки каждой мысли.",
+      "sourceSha256": "2c29b6bb95e3a89d8da221ec33ec9646c95329324bc39e9fbc2a561753c74c2a"
+    },
+    "inner-thought.support.text.0016": {
+      "value": "Место и медиа",
+      "sourceSha256": "a859f3de66e48254c7dd3435c59fb373d2368b33e96d7dbb73f3eb190d795ad5"
+    },
+    "inner-thought.support.text.0017": {
+      "value": "Необязательное место, камера, выбор Photos и экспорт.",
+      "sourceSha256": "4c5bdda2a86327375f1e5aeb5abf46772494f7890c99c84377d3aa8ace17bbca"
+    },
+    "inner-thought.support.text.0018": {
+      "value": "Приватность и удаление",
+      "sourceSha256": "15576efa7d0c8874df23d30eb226581a1769e56d2a7831dde382aa5261a6bf7d"
+    },
+    "inner-thought.support.text.0019": {
+      "value": "Шифрование, Recently Deleted и полное удаление.",
+      "sourceSha256": "9176f0088e7ccbf3f6ba11f9addf21549ae6edb76e189182b4df3c576e9d1d90"
+    },
+    "inner-thought.support.text.0020": {
+      "value": "Запись и воспроизведение",
+      "sourceSha256": "66b933593a7a9bf778cc4c0449d8d220af32b6cb032cacf2be54cc7f87dce7a6"
+    },
+    "inner-thought.support.text.0021": {
+      "value": "Разрешите микрофон в iPhone Settings > Privacy & Security > Microphone. Новая голосовая мысль может начаться автоматически только при включении опции в Inner Thought Settings.",
+      "sourceSha256": "c3a5fc315167be524901cf26e16da7e8f74c5085f9da1c45de15a5569a8d4288"
+    },
+    "inner-thought.support.text.0022": {
+      "value": "Если звука нет, проверьте громкость iPhone, назначение звука в Control Center и Bluetooth-устройства. Inner Thought просит iOS включить динамик, если другое назначение не выбрано.",
+      "sourceSha256": "bc74b6543e50baa7fac9a1e4593ea1afa30bcdb8dbb2966201ef721e675d2c6b"
+    },
+    "inner-thought.support.text.0023": {
+      "value": "Расшифровка",
+      "sourceSha256": "30bf7b9b9540d4e11819ffbadf3ae6fe4c7ca94c8b433391e50e47e14a9d6cbf"
+    },
+    "inner-thought.support.text.0024": {
+      "value": "Расшифровка необязательна и использует распознавание Apple на устройстве. Доступность зависит от языка и установленной модели. Все распознанные фрагменты накапливаются; естественные паузы не стирают прежние слова.",
+      "sourceSha256": "710df7da2d741b0ca1732ce809e1c21cf847422940044984fd893f14ab0d9495"
+    },
+    "inner-thought.support.text.0025": {
+      "value": "Можно хранить голос без текста, диктовать без аудио или печатать. Общая настройка находится в Settings; расшифровка меняется и для каждой записи.",
+      "sourceSha256": "dd83c23e7f9fa54df0cb88721c4f58ed4fb932f2fc0025d582ba8fd820c9193f"
+    },
+    "inner-thought.support.text.0026": {
+      "value": "Место, фото и видео",
+      "sourceSha256": "872971b981f9b2726026a2df69b51ec14f800216ecd91229008684dd7426e630"
+    },
+    "inner-thought.support.text.0027": {
+      "value": "Место — одна необязательная точка, не маршрут. Его можно добавить или изменить позже. Отключите значение по умолчанию в Settings или используйте настройку экрана записи.",
+      "sourceSha256": "c5d5d44a76ffac66a11efbd1c80a7a62b78eacf37a057f188f783106d0bf0293"
+    },
+    "inner-thought.support.text.0028": {
+      "value": "Фото и видео по умолчанию приватно хранятся внутри Inner Thought. Используйте Save to Photos, только когда нужна копия в Apple Photos.",
+      "sourceSha256": "22bcd1a59fcf3e2204a6a2ad6405c7e62f48aa535a9d50d07cf768110c8dafe4"
+    },
+    "inner-thought.support.text.0029": {
+      "value": "Приватность, хранение и удаление",
+      "sourceSha256": "d494f0570107f582b67ba50fb22bc359f4c88e0d71f2fcaa5045e471cbe223c6"
+    },
+    "inner-thought.support.text.0030": {
+      "value": "Содержимое и медиа шифруются на устройстве; ключ хранит iOS Keychain. Читайте",
+      "sourceSha256": "6488f1a3749dba4c705123c25e7b175df0fa34a59c864ba4f81716596e3a769b"
+    },
+    "inner-thought.support.text.0031": {
+      "value": "полную политику конфиденциальности",
+      "sourceSha256": "93e08bc863f1ef264a3940738b7b65dd84073a2d4c0e448045ac5b42ea49fd32"
+    },
+    "inner-thought.support.text.0032": {
+      "value": "для точных границ.",
+      "sourceSha256": "a8e45fe5ae377eed4a2dba1eec4a4d0c20dbde12270dd9a4f49b5ae099f7b27e"
+    },
+    "inner-thought.support.text.0033": {
+      "value": "Удалённая мысль восстанавливается 30 дней в Settings > Recently Deleted. Delete Forever удаляет сразу; через 30 дней приложение удаляет автоматически.",
+      "sourceSha256": "92992a360ee7c74cbbe035f7da26fb2823917b08947d348d784087ab235a9568"
+    },
+    "inner-thought.support.text.0034": {
+      "value": "Поддержка доступности",
+      "sourceSha256": "429f5d39ccc2f70ddc86028c1b7db989938503ce0e3b61415fbd86bdef7b11b2"
+    },
+    "inner-thought.support.text.0035": {
+      "value": "Сбои доступности — сбои продукта. Если VoiceOver, Voice Control, Switch Control, Larger Text, Reduce Motion, контраст, субтитры или другая потребность работает плохо, сообщите задачу.",
+      "sourceSha256": "5ba72ac4015e8ad0d98c67f7d9a29296b54de5de96d7c10a8e947ef0fc6b6501"
+    },
+    "inner-thought.support.text.0036": {
+      "value": "Прямая поддержка",
+      "sourceSha256": "f2b2278e512eb9efaeb22b6481e0f588c3d7f183b1a8c250e60d08a74e9eb05f"
+    },
+    "inner-thought.support.text.0037": {
+      "value": "Написать Moving Truth",
+      "sourceSha256": "8d419c582e4a3c2533d874feb8855c30f4d1dcd4ff4be9ae6f1a353a5f190224"
+    },
+    "inner-thought.support.text.0038": {
+      "value": "Укажите модель iPhone или iPad, версию iOS или iPadOS и что произошло. Не отправляйте личную мысль или запись, если намеренно не хотите показать её.",
+      "sourceSha256": "fca91076af2ebdd7e6b4858eaa0ea87dea519826afcdb7c73321a088254080ba"
+    },
+    "inner-thought.support.text.0039": {
+      "value": "Главная",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.support.text.0040": {
+      "value": "Приватность",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.support.text.0041": {
+      "value": "Доступность",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.support.text.0042": {
+      "value": "Поддержка",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.support.text.0043": {
+      "value": "Все приложения",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.support.text.0044": {
+      "value": "© 2026 Inner Thought by Moving Truth.",
+      "sourceSha256": "9027597546fb0a235f37f5b2aa53c4b68e303520c01fdbac2ee9a7f1a8abd76f"
+    },
+    "inner-thought.support.attribute.0001": {
+      "value": "Помощь и прямая поддержка Inner Thought от Moving Truth.",
+      "sourceSha256": "6377fd36900110de759c424e889d22e64cd08a3de99979876f3916fadb97a67d"
+    },
+    "inner-thought.support.attribute.0002": {
+      "value": "Главная Inner Thought",
+      "sourceSha256": "23d91187961439354f1e8399a6d26c7d146b7ff0437fe3b71aea38babfdfed01"
+    },
+    "inner-thought.support.attribute.0003": {
+      "value": "Основная навигация",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-thought.support.attribute.0004": {
+      "value": "Частые темы помощи",
+      "sourceSha256": "ebc9d89af05221497a67d69ecd8c7e8a8d473ea6ada9094e5e4921b5e75ebfb7"
+    },
+    "inner-thought.support.attribute.0005": {
+      "value": "Навигация в подвале",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-thought.support.script.0001": {
+      "value": "Открыть навигацию",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.technical-craft.text.0001": {
+      "value": "Техническое ремесло — Inner Thought",
+      "sourceSha256": "386da0356d3e1441418f31c303ae893582bfe23f5facd6344d85894cbf3f32f6"
+    },
+    "inner-thought.technical-craft.text.0002": {
+      "value": "Перейти к основному содержанию",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-thought.technical-craft.text.0003": {
+      "value": "Открыть навигацию",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.technical-craft.text.0004": {
+      "value": "Главная",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.technical-craft.text.0005": {
+      "value": "Приватность",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.technical-craft.text.0006": {
+      "value": "Доступность",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.technical-craft.text.0007": {
+      "value": "Поддержка",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.technical-craft.text.0008": {
+      "value": "Техническое ремесло",
+      "sourceSha256": "ed7b84a2eb484c5b73f39e114cd551a47e8e1b764b945ccfaa1c98280fc3439b"
+    },
+    "inner-thought.technical-craft.text.0009": {
+      "value": "Все приложения",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.technical-craft.text.0010": {
+      "value": "Создано изначально. Сочинено сознательно.",
+      "sourceSha256": "2d06a2ec23c6b4b91864a07beb575ad6959b78483188674038f7f071699cf659"
+    },
+    "inner-thought.technical-craft.text.0011": {
+      "value": "Техническое ремесло",
+      "sourceSha256": "ed7b84a2eb484c5b73f39e114cd551a47e8e1b764b945ccfaa1c98280fc3439b"
+    },
+    "inner-thought.technical-craft.text.0012": {
+      "value": "Для тех, кто интересуется работой, лежащей в основе спокойствия, Inner Thought создан именно так: с собственными платформами Apple, четкими границами, восстанавливаемыми состояниями и заботой обо всем, кто его использует.",
+      "sourceSha256": "06a7f3d4e68b576d92732de44ef16e19d796e17d607f8a0559a5d5b655b4e83a"
+    },
+    "inner-thought.technical-craft.text.0013": {
+      "value": "Встроенная конструкция",
+      "sourceSha256": "025f6a9359f5cf5490690f057d9dc62fbcf59ebb98970452e8f272348a43c1d4"
+    },
+    "inner-thought.technical-craft.text.0014": {
+      "value": "Inner Thought написан на Swift и SwiftUI с использованием SwiftData, AVFoundation, Speech, MapKit, PhotosUI, WidgetKit, ActivityKit, App Intents, CryptoKit и LocalAuthentication. Собственные платформы Apple сохраняют приложение близким к платформе, по умолчанию конфиденциальным и не учитывают зависимостей.",
+      "sourceSha256": "ecfcc54ddad7693e41f7f7763651f68e99d2006f1a08fc2b4d8eb3c2068e965b"
+    },
+    "inner-thought.technical-craft.text.0015": {
+      "value": "Небольшие, целенаправленные обязанности",
+      "sourceSha256": "0295714bf22c45d23a8814732ec2358d2604853872ffdd0988df561d89a4fa26"
+    },
+    "inner-thought.technical-craft.text.0016": {
+      "value": "Интерфейс выражает состояние; специализированные контроллеры и службы владеют записью, транскрипцией, хранением, воспроизведением, мультимедиа, местоположением, шифрованием и представлением системы. Общие координаторы соединяют эти части, не возлагая ответственность за все на экран.",
+      "sourceSha256": "ce605123ff13e9bbbef07aa9dd4502159632042f1a3020d7c415545dbef6a5ac"
+    },
+    "inner-thought.technical-craft.text.0017": {
+      "value": "Мысль на первом месте",
+      "sourceSha256": "c4d083d63d69e39646b8ba58f719d16ea075977f82ff81f0d4414370b7432c4a"
+    },
+    "inner-thought.technical-craft.text.0018": {
+      "value": "Аудио является авторитетным, и его назначение существует до начала захвата. Паузы, прерывания, сбои транскрипции и ошибки хранения задуманы как восстанавливаемые состояния. Действительная запись никогда не отбрасывается из-за сбоя распознавания речи.",
+      "sourceSha256": "1428a99e7c1306247eeee0b4852bf2ad788cbd6fc87974073f1652684ff31463"
+    },
+    "inner-thought.technical-craft.text.0019": {
+      "value": "Частный по структуре",
+      "sourceSha256": "22fd7b42a3583a9e98aba945ffe50311b21ce5c603743236e0bbb725db5aebd9"
+    },
+    "inner-thought.technical-craft.text.0020": {
+      "value": "Заголовки, расшифровки, местоположения, пользовательские теги, аудио, фотографии и видео шифруются с помощью AES-256-GCM. Ключ находится в связке ключей iOS; расшифрованные рабочие файлы используют защиту файлов платформы и удаляются, когда приложение покидает передний план. Здесь нет аккаунтов, рекламы, трекеров или сторонней аналитики.",
+      "sourceSha256": "50cf8bf868693f773af89f9015bd50ca77db4022b9b2b898de289dc2dfb12f11"
+    },
+    "inner-thought.technical-craft.text.0021": {
+      "value": "Одно приложение во всех отношениях",
+      "sourceSha256": "6c2987ec157dc878bef005a22bd76b7241f2ed5325c4fc3ddce8e21eadd760dd"
+    },
+    "inner-thought.technical-craft.text.0022": {
+      "value": "Семантические элементы управления, динамический тип, VoiceOver, голосовое управление, управление переключателями, доступ с клавиатуры, уменьшение движения, увеличение контрастности и нецветовые сигналы учитываются при выполнении полных задач. Доступность оценивается как путь, который кто-то может пройти, а не количество модификаторов.",
+      "sourceSha256": "f2a84810ec40bb52a980e8ff44f6b2793d2b61fa5d47b26d0c0d920004ecbe30"
+    },
+    "inner-thought.technical-craft.text.0023": {
+      "value": "Человек на первом месте",
+      "sourceSha256": "5b4f83fad5351a96eec969e4432b2a69d920d2e0d5742025d353b8f763e3934e"
+    },
+    "inner-thought.technical-craft.text.0024": {
+      "value": "Рекомендации Apple по созданию пользовательского интерфейса и принципы доступности побуждают нас ставить человека, а не функцию, в центр каждого решения. Inner Thought учитывает людей с нарушениями зрения, слуха, подвижности, речи и когнитивных функций, а также временными и ситуативными ограничениями. Значение никогда не зависит только от цвета, движения, звука или жеста; улучшения остаются необязательными; конфиденциальность и достоинство сохранены. Автоматизированные доказательства подтверждают эту работу, а заявления о выпуске ждут проверки с помощью физических вспомогательных технологий.",
+      "sourceSha256": "09954e9f9cf1a48bfa71d76252ac307112bbc544bc56f47474f8fe384e622991"
+    },
+    "inner-thought.technical-craft.text.0025": {
+      "value": "Язык в архитектуре",
+      "sourceSha256": "4e22fc997ce11765697d9ff8a17972019e7db5b14cf4ee1d3cef498bef8e1113"
+    },
+    "inner-thought.technical-craft.text.0026": {
+      "value": "Каждая видимая и произносимая строка интерфейса находится в каталогах строк. Макеты являются двунаправленными, слова, написанные пользователем, сохраняют свой язык, а даты, время и числа следуют за активным языковым стандартом. Встроено четырнадцать языков запуска; черновые переводы по-прежнему требуют тщательной проверки человеком перед выпуском.",
+      "sourceSha256": "6271558bbc0fd84c255bed48929ac8c648a81c9204b7b2ba93c9a9119f750cbf"
+    },
+    "inner-thought.technical-craft.text.0027": {
+      "value": "Нативное за пределами приложения",
+      "sourceSha256": "9bde744943c3ce21d087cae665744616d6fedb1dddbae6a0d524ac99674b8144"
+    },
+    "inner-thought.technical-craft.text.0028": {
+      "value": "Виджеты «Домой» и «Экран блокировки», «Живые действия», «Динамический остров» и «Намерения приложения» имеют намеренно небольшой командный уровень и координатор захвата. Текст личных мыслей не попадает на поверхности системы; из интерфейса приложения выходит только состояние, необходимое для управления активным захватом.",
+      "sourceSha256": "13317985baaaa892e6fbdf4fa62d35aba83f5e3ec5e29d628e8e75cd538d25eb"
+    },
+    "inner-thought.technical-craft.text.0029": {
+      "value": "Доказательства, а не уверенность",
+      "sourceSha256": "1fab7bb5cb4d67127ed654d8c6afdbd8079748238acdaf8ff369d92e1931facd"
+    },
+    "inner-thought.technical-craft.text.0030": {
+      "value": "Детерминированные модульные тесты проверяют сохранение, шифрование, восстановление, носитель, сопоставление и захват состояния. Тесты пользовательского интерфейса охватывают навигацию, расширенный текст и расположение справа налево. Автоматические проверки поддерживают работу; Физический iPhone и тестирование вспомогательных технологий остаются воротами к выпуску.",
+      "sourceSha256": "2fa1f74972451a7855d8ac94679268420cc0edc7d15fee03bf82f72f0b530661"
+    },
+    "inner-thought.technical-craft.text.0031": {
+      "value": "Инженерия на службе спокойствия",
+      "sourceSha256": "b75cd8fb45d52c793bd8fcd107d101102992dc5c708ebed02bef2f8dd3281be5"
+    },
+    "inner-thought.technical-craft.text.0032": {
+      "value": "Функция Грейс не была закрашена в конце. Прогрессивное раскрытие, семантическая типографика, стабильное пространство макета, сдержанное движение и тихие материалы позволяют существенным возможностям оставаться спокойными и понятными.",
+      "sourceSha256": "15a009d9533bd3f75a77b5e75c80587dd63c4f01128bcb1d0a57d4861dda89eb"
+    },
+    "inner-thought.technical-craft.text.0033": {
+      "value": "Результат должен казаться простым, потому что сложность тщательно проработана.",
+      "sourceSha256": "c6ab85229e334e4a21de7f828211d60f8a871dee3581b8c664e7e37b3eeef256"
+    },
+    "inner-thought.technical-craft.text.0034": {
+      "value": "Главная",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.technical-craft.text.0035": {
+      "value": "Приватность",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.technical-craft.text.0036": {
+      "value": "Доступность",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.technical-craft.text.0037": {
+      "value": "Поддержка",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.technical-craft.text.0038": {
+      "value": "Техническое ремесло",
+      "sourceSha256": "ed7b84a2eb484c5b73f39e114cd551a47e8e1b764b945ccfaa1c98280fc3439b"
+    },
+    "inner-thought.technical-craft.text.0039": {
+      "value": "Все приложения",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.technical-craft.text.0040": {
+      "value": "© 2026 Inner Thought by Moving Truth.",
+      "sourceSha256": "9027597546fb0a235f37f5b2aa53c4b68e303520c01fdbac2ee9a7f1a8abd76f"
+    },
+    "inner-thought.technical-craft.attribute.0001": {
+      "value": "Для тех, кто интересуется работой, лежащей в основе спокойствия, Inner Thought создан именно так: с собственными платформами Apple, четкими границами, восстанавливаемыми состояниями и заботой обо всем, кто его использует.",
+      "sourceSha256": "06a7f3d4e68b576d92732de44ef16e19d796e17d607f8a0559a5d5b655b4e83a"
+    },
+    "inner-thought.technical-craft.attribute.0002": {
+      "value": "Главная Inner Thought",
+      "sourceSha256": "23d91187961439354f1e8399a6d26c7d146b7ff0437fe3b71aea38babfdfed01"
+    },
+    "inner-thought.technical-craft.attribute.0003": {
+      "value": "Основная навигация",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-thought.technical-craft.attribute.0004": {
+      "value": "Навигация в подвале",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-thought.technical-craft.script.0001": {
+      "value": "Открыть навигацию",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.site-js.script.0001": {
+      "value": "Закрыть навигацию",
+      "sourceSha256": "99904db30de4a2a32ee6672a99e77e79c482d4e188860695723d3dd306749879"
+    },
+    "inner-thought.site-js.script.0002": {
+      "value": "Открыть навигацию",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
     }
   }
 }

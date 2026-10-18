@@ -1,204 +1,1085 @@
 {
-  "translations": {
-    "Inner Thought catches the ideas that would otherwise vanish—spoken, written, photographed, or filmed. Private by design. Available now on the App Store for iPhone and iPad.": "Inner Thought उन विचारों को सहेजता है जो वरना खो जाते — बोले, लिखे, फ़ोटो या वीडियो में। डिज़ाइन से ही निजी। अब iPhone और iPad के लिए App Store पर उपलब्ध।",
-    "Inner Thought — by Moving Truth": "Inner Thought — Moving Truth द्वारा",
-    "Skip to main content": "मुख्य सामग्री पर जाएँ",
-    "Inner Thought home": "Inner Thought का होम पेज",
-    "Open navigation": "नेविगेशन खोलें",
-    "Main navigation": "मुख्य नेविगेशन",
-    "Home": "होम",
-    "Features": "सुविधाएँ",
-    "Accessibility": "सुगम्यता",
-    "Privacy": "गोपनीयता",
-    "Support": "सहायता",
-    "Availability": "उपलब्धता",
-    "Inner Thought app icon: a golden waveform flowing into a spiral": "Inner Thought ऐप आइकन: सर्पिल में बहती सुनहरी तरंग",
-    "One gesture. Say what’s inside. Keep it safely.": "एक इशारा। भीतर की बात कहें। उसे सुरक्षित रखें।",
-    "Get Inner Thought on the App Store": "App Store पर Inner Thought पाएँ",
-    "Why it exists": "यह क्यों है",
-    "scroll to receive": "प्राप्त करने के लिए स्क्रॉल करें",
-    "A place to catch what would otherwise vanish.": "जो वरना खो जाता, उसे सहेजने की जगह।",
-    "Inner Thought exists to help people catch their creativity before it disappears—and to do so with privacy, dignity, and grace. Speak it, type it, photograph it, or film it. Organize it later, or not at all.": "Inner Thought लोगों को उनकी रचनात्मकता खोने से पहले सहेजने में मदद करता है — गोपनीयता, गरिमा और सहजता के साथ। उसे बोलें, टाइप करें, फ़ोटो लें या फ़िल्माएँ। बाद में व्यवस्थित करें, या बिल्कुल नहीं।",
-    "Ready when thought arrives. Quiet when it doesn’t.": "विचार आते ही तैयार। न आए तो शांत।",
-    "Ways to capture a thought": "विचार सहेजने के तरीके",
-    "Spoken": "बोला हुआ",
-    "Written": "लिखा हुआ",
-    "Seen": "देखा हुआ",
-    "Placed": "स्थान सहित",
-    "Kept private": "निजी रखा गया",
-    "Capture comes first": "पहले सहेजें",
-    "The thought does not need to be ready.": "विचार का पूरा होना ज़रूरी नहीं।",
-    "A title can wait. A category can wait. The idea cannot. Inner Thought shortens the distance between the moment something arrives and the moment it is safe.": "शीर्षक इंतज़ार कर सकता है। श्रेणी इंतज़ार कर सकती है। विचार नहीं। Inner Thought किसी बात के आने और सुरक्षित होने के बीच की दूरी घटाता है।",
-    "Voice": "आवाज़",
-    "Keep the original recording and, when you choose, its complete transcript.": "मूल रिकॉर्डिंग और चाहें तो उसकी पूरी प्रतिलिपि रखें।",
-    "Text": "टेक्स्ट",
-    "Dictate without keeping audio, or simply type what came to you.": "ऑडियो रखे बिना बोलकर लिखें या जो मन में आया उसे सीधे टाइप करें।",
-    "Place": "स्थान",
-    "Add a one-time location only when that context belongs to the thought.": "एक बार का स्थान तभी जोड़ें जब वह संदर्भ विचार का हिस्सा हो।",
-    "Media": "मीडिया",
-    "Hold photographs and video privately inside the memory.": "फ़ोटो और वीडियो को स्मृति के भीतर निजी रखें।",
-    "Accessibility from day one": "पहले दिन से सुगम्यता",
-    "One Inner Thought. For everyone.": "एक Inner Thought। सभी के लिए।",
-    "Accessibility is part of whether the promise is true—not a separate edition and not a final polish pass. Every common task is being designed and tested across different ways of seeing, hearing, moving, reading, and interacting.": "सुगम्यता तय करती है कि वादा सच है या नहीं। यह अलग संस्करण या आख़िरी सजावट नहीं है। हर सामान्य काम को देखने, सुनने, चलने, पढ़ने और बातचीत करने के अलग-अलग तरीकों के लिए डिज़ाइन और जाँचा जा रहा है।",
-    "VoiceOver, Voice Control, Switch Control, Larger Text, Reduce Motion, contrast, keyboard access, and clear non-audio state are release requirements.": "VoiceOver, Voice Control, Switch Control, बड़ा टेक्स्ट, गति कम करें, कंट्रास्ट, कीबोर्ड पहुँच और बिना ध्वनि के स्पष्ट अवस्थाएँ रिलीज़ की अनिवार्य शर्तें हैं।",
-    "Private by design": "डिज़ाइन से ही निजी",
-    "Your thoughts are not the product.": "आपके विचार उत्पाद नहीं हैं।",
-    "Inner Thought requires no account and contains no in-app advertising or third-party analytics. Saved titles, words, locations, custom tags, recordings, photos, and videos are encrypted on your device with a key held by iOS Keychain.": "Inner Thought को खाते की ज़रूरत नहीं और इसमें ऐप के भीतर विज्ञापन या तीसरे पक्ष का विश्लेषण नहीं है। सहेजे गए शीर्षक, शब्द, स्थान, निजी टैग, रिकॉर्डिंग, फ़ोटो और वीडियो आपके डिवाइस पर iOS Keychain में रखी कुंजी से एन्क्रिप्ट होते हैं।",
-    "No background location tracking.": "पृष्ठभूमि में स्थान ट्रैकिंग नहीं।",
-    "No broad photo-library crawl.": "आपकी पूरी फ़ोटो लाइब्रेरी की व्यापक जाँच नहीं।",
-    "On-device transcription; no transcript content in widgets or logs by default.": "डिवाइस पर प्रतिलिपि; डिफ़ॉल्ट रूप से विजेट या लॉग में प्रतिलिपि की सामग्री नहीं।",
-    "No subscription beside your private thoughts.": "आपके निजी विचारों के साथ कोई सदस्यता नहीं।",
-    "Read the full privacy policy": "पूरी गोपनीयता नीति पढ़ें",
-    "A blessing for this work": "इस कार्य के लिए एक आशीष",
-    "May this app help people capture their own creativity.": "यह ऐप लोगों को अपनी रचनात्मकता सहेजने में मदद करे।",
-    "May it be beautiful, helpful, fruitful, and useful.": "यह सुंदर, सहायक, फलदायी और उपयोगी हो।",
-    "May it reach the people whose thoughts need somewhere to land.": "यह उन लोगों तक पहुँचे जिनके विचारों को उतरने की जगह चाहिए।",
-    "About Moving Truth": "Moving Truth के बारे में",
-    "Moving Truth. Opens movingtruth.com": "Moving Truth। movingtruth.com खोलता है",
-    "Moving Truth logo": "Moving Truth का लोगो",
-    "by Moving Truth": "Moving Truth द्वारा",
-    "Made with love by Skylaur Roe": "Skylaur Roe द्वारा प्यार से बनाया गया",
-    "Available now": "अब उपलब्ध",
-    "Give the thought somewhere to land.": "विचार को उतरने की जगह दें।",
-    "Inner Thought is available for iPhone and iPad as one complete app: a small one-time price, no subscription, and no feature tier.": "Inner Thought iPhone और iPad के लिए एक पूर्ण ऐप के रूप में उपलब्ध है: छोटी एकमुश्त कीमत, कोई सदस्यता नहीं और सुविधाओं के स्तर नहीं।",
-    "Footer navigation": "फ़ुटर नेविगेशन",
-    "© 2026 Inner Thought by Moving Truth. Made for iPhone and iPad.": "© 2026 Inner Thought, Moving Truth द्वारा। iPhone और iPad के लिए बनाया गया।",
-    "Inner Thought accessibility statement, design commitments, testing standards, and direct support.": "Inner Thought का सुगम्यता वक्तव्य, डिज़ाइन प्रतिबद्धताएँ, परीक्षण मानक और सीधी सहायता।",
-    "Accessibility — Inner Thought": "सुगम्यता — Inner Thought",
-    "The person comes first": "व्यक्ति पहले",
-    "There is one Inner Thought—not an accessible edition and a default edition. Access is part of whether the promise is true.": "Inner Thought एक ही है — अलग सुगम और सामान्य संस्करण नहीं। पहुँच तय करती है कि वादा सच है या नहीं।",
-    "Our standard:": "हमारा मानक:",
-    "a feature is not complete when its controls have labels. It is complete when the whole task can be understood and finished using the access method a person relies on.": "किसी सुविधा के नियंत्रणों पर लेबल लग जाने से वह पूरी नहीं होती। वह तब पूरी होती है जब व्यक्ति जिस पहुँच विधि पर निर्भर है, उससे पूरा काम समझ और समाप्त कर सके।",
-    "Designed around different ways of interacting": "बातचीत के अलग-अलग तरीकों के लिए डिज़ाइन",
-    "Inner Thought is built to support VoiceOver, Voice Control, Switch Control, hardware keyboards, Larger Text, Bold Text, Increase Contrast, Differentiate Without Color, Reduce Motion, and light and dark appearances.": "Inner Thought को VoiceOver, Voice Control, Switch Control, हार्डवेयर कीबोर्ड, बड़ा टेक्स्ट, बोल्ड टेक्स्ट, कंट्रास्ट बढ़ाएँ, रंग के बिना अंतर, गति कम करें और हल्के व गहरे रूपों के लिए बनाया गया है।",
-    "Recording, playback, saving, errors, and location state are never communicated through colour, sound, motion, or haptics alone. Gestures are accelerators rather than the only available path.": "रिकॉर्डिंग, प्लेबैक, सहेजना, त्रुटि और स्थान की अवस्था कभी केवल रंग, ध्वनि, गति या स्पर्श से नहीं बताई जाती। इशारे काम को तेज़ करते हैं, वे अकेला रास्ता नहीं हैं।",
-    "Words remain the content": "शब्द ही सामग्री रहते हैं",
-    "Text uses Dynamic Type and layouts are designed to grow rather than hide essential actions. Spoken controls use localized names and values. Live transcription is optional, and a voice recording remains safe when speech recognition is unavailable.": "टेक्स्ट Dynamic Type का उपयोग करता है और लेआउट आवश्यक क्रियाएँ छिपाने के बजाय बढ़ने के लिए बनाए गए हैं। बोले गए नियंत्रण स्थानीय नाम और मान इस्तेमाल करते हैं। लाइव प्रतिलिपि वैकल्पिक है और वाक् पहचान उपलब्ध न होने पर भी आवाज़ की रिकॉर्डिंग सुरक्षित रहती है।",
-    "Photos and videos include a place for a person-supplied description. Playback exposes elapsed and total time plus an adjustable progress control.": "फ़ोटो और वीडियो में व्यक्ति द्वारा विवरण जोड़ने की जगह है। प्लेबैक बीता और कुल समय तथा समायोज्य प्रगति नियंत्रण दिखाता है।",
-    "Movement, contrast, and attention": "गति, कंट्रास्ट और ध्यान",
-    "Reduce Motion provides a composed static experience. Important state uses text and shape as well as colour, and the interface responds to stronger contrast and colour-differentiation settings. Atmospheric movement pauses when it is not useful.": "गति कम करें एक पूर्ण और शांत स्थिर अनुभव देता है। महत्वपूर्ण अवस्थाएँ रंग के साथ टेक्स्ट और आकार भी इस्तेमाल करती हैं, और इंटरफ़ेस अधिक कंट्रास्ट व रंग के बिना अंतर की सेटिंग का सम्मान करता है। वातावरण की गति उपयोगी न होने पर रुक जाती है।",
-    "How we qualify a release": "हम किसी रिलीज़ को कैसे स्वीकृत करते हैं",
-    "Automated checks cover enlarged text, deliberately expanded copy, Arabic right-to-left layout, every supported interface language, and primary navigation on iPhone and iPad. Physical-device testing then covers complete tasks with assistive technologies, recording, permissions, widgets, and Live Activities.": "स्वचालित जाँच में बड़ा टेक्स्ट, जानबूझकर लंबा किया गया पाठ, अरबी का दाएँ-से-बाएँ लेआउट, हर समर्थित इंटरफ़ेस भाषा और iPhone व iPad का मुख्य नेविगेशन शामिल है। फिर वास्तविक डिवाइस पर सहायक तकनीकों, रिकॉर्डिंग, अनुमतियों, विजेट और Live Activities के साथ पूरे काम जाँचे जाते हैं।",
-    "We publish an App Store accessibility label only after every common task included in Apple’s criteria has been verified for that device family. We would rather leave a claim unpublished than overstate what has been proven.": "हम App Store का सुगम्यता लेबल तभी प्रकाशित करते हैं जब Apple के मापदंड में शामिल हर सामान्य काम उस डिवाइस परिवार के लिए सत्यापित हो। जो साबित हुआ है उससे अधिक कहने के बजाय हम दावा प्रकाशित न करना पसंद करेंगे।",
-    "Tell us where access breaks": "बताएँ कि पहुँच कहाँ टूटती है",
-    "An accessibility failure is a product failure. If anything stands between you and capturing, finding, reading, hearing, editing, exporting, or deleting a thought, email": "सुगम्यता की विफलता उत्पाद की विफलता है। यदि कोई चीज़ विचार को सहेजने, खोजने, पढ़ने, सुनने, संपादित, निर्यात या हटाने में बाधा बने, तो ईमेल करें",
-    ". Tell us the device, iOS or iPadOS version, access feature, and task. Please do not include a private thought unless you deliberately want us to see it.": "। डिवाइस, iOS या iPadOS संस्करण, पहुँच सुविधा और काम बताएँ। कोई निजी विचार तभी भेजें जब आप जानबूझकर हमें दिखाना चाहते हों।",
-    "Privacy Policy — Inner Thought": "गोपनीयता नीति — Inner Thought",
-    "Inner Thought privacy policy. Your thoughts stay yours, encrypted on your device.": "Inner Thought की गोपनीयता नीति। आपके विचार आपके रहते हैं, आपके डिवाइस पर एन्क्रिप्ट किए हुए।",
-    "no account, no advertising, no third-party analytics, no sale of data, and no cloud service operated by Moving Truth.": "कोई खाता नहीं, विज्ञापन नहीं, तीसरे पक्ष का विश्लेषण नहीं, डेटा की बिक्री नहीं और Moving Truth द्वारा चलाया क्लाउड सेवा नहीं।",
-    "Privacy Policy": "गोपनीयता नीति",
-    "Your thoughts are not the product. Inner Thought is built to keep the inner world you capture under your control.": "आपके विचार उत्पाद नहीं हैं। Inner Thought ऐसा बनाया गया है कि आपके द्वारा सहेजी गई आंतरिक दुनिया आपके नियंत्रण में रहे।",
-    "In plain language:": "सरल भाषा में:",
-    "What Inner Thought stores": "Inner Thought क्या सहेजता है",
-    "Only what you choose to create: titles, typed or dictated text, voice recordings, optional one-time locations, tags, photos, videos, favorites, and the dates needed to organize or recover a thought.": "केवल वह जो आप बनाना चुनते हैं: शीर्षक, टाइप या बोलकर लिखा टेक्स्ट, आवाज़ की रिकॉर्डिंग, वैकल्पिक एकबारगी स्थान, टैग, फ़ोटो, वीडियो, पसंदीदा और विचार व्यवस्थित या वापस पाने के लिए आवश्यक तारीखें।",
-    "Location is never a movement history. Inner Thought requests one location fix for a thought only when you have enabled location for that capture.": "स्थान कभी आपकी आवाजाही का इतिहास नहीं होता। Inner Thought किसी विचार के लिए केवल एक स्थान बिंदु तभी माँगता है जब आपने उस संग्रह के लिए स्थान चालू किया हो।",
-    "How your thoughts are protected": "आपके विचार कैसे सुरक्षित हैं",
-    "Saved titles, transcripts, location details, custom tag names, recording references, media descriptions, audio, photos, and videos are encrypted on your device. Inner Thought uses AES-256-GCM authenticated encryption and keeps its encryption key in iOS Keychain.": "सहेजे गए शीर्षक, प्रतिलिपियाँ, स्थान विवरण, निजी टैग नाम, रिकॉर्डिंग संदर्भ, मीडिया विवरण, ऑडियो, फ़ोटो और वीडियो डिवाइस पर एन्क्रिप्ट होते हैं। Inner Thought प्रमाणित AES-256-GCM एन्क्रिप्शन इस्तेमाल करता है और कुंजी iOS Keychain में रखता है।",
-    "Large recordings and videos are encrypted in authenticated chunks. When you play, view, export, or share an item, the app may create a short-lived clear copy protected by iOS complete file protection. Those working copies are removed when the app leaves the foreground and during storage maintenance.": "बड़ी रिकॉर्डिंग और वीडियो प्रमाणित हिस्सों में एन्क्रिप्ट होते हैं। किसी सामग्री को चलाने, देखने, निर्यात या साझा करने पर ऐप थोड़े समय के लिए स्पष्ट प्रति बना सकता है, जिसे iOS की पूर्ण फ़ाइल सुरक्षा बचाती है। ऐप के अग्रभूमि से हटने और स्टोरेज रखरखाव के दौरान ये कार्य प्रतियाँ हटा दी जाती हैं।",
-    "An in-progress recording must briefly exist as an iOS-protected working file while Apple’s audio system writes it. It is encrypted immediately when the thought is saved.": "Apple का ऑडियो सिस्टम लिखते समय चल रही रिकॉर्डिंग थोड़े समय के लिए iOS-सुरक्षित कार्य फ़ाइल के रूप में रहती है। विचार सहेजते ही वह एन्क्रिप्ट हो जाती है।",
-    "Permissions are choices": "अनुमतियाँ आपके चुनाव हैं",
-    "Microphone and transcription": "माइक्रोफ़ोन और प्रतिलिपि",
-    "Microphone access is used only while you record or dictate. Inner Thought requires Apple’s on-device speech recognition for live transcription. You can disable transcription globally or for an individual voice thought.": "माइक्रोफ़ोन का उपयोग केवल रिकॉर्डिंग या बोलकर लिखते समय होता है। लाइव प्रतिलिपि के लिए Inner Thought को Apple की डिवाइस पर वाक् पहचान चाहिए। आप प्रतिलिपि को पूरी तरह या किसी एक आवाज़-विचार के लिए बंद कर सकते हैं।",
-    "Location": "स्थान",
-    "Location is optional, can be changed per thought, and can be disabled in Settings. Inner Thought does not track you in the background.": "स्थान वैकल्पिक है, हर विचार के लिए बदला जा सकता है और सेटिंग्स में बंद किया जा सकता है। Inner Thought पृष्ठभूमि में आपको ट्रैक नहीं करता।",
-    "Photos and camera": "फ़ोटो और कैमरा",
-    "The system photo picker lets you select particular items without giving Inner Thought broad access to your library. Camera access is used only when you open the camera. New media stays inside Inner Thought by default; a copy is added to Photos only when you choose that option.": "सिस्टम फ़ोटो पिकर आपको Inner Thought को पूरी लाइब्रेरी की पहुँच दिए बिना चुनी हुई सामग्री लेने देता है। कैमरा केवल उसे खोलने पर इस्तेमाल होता है। नया मीडिया डिफ़ॉल्ट रूप से Inner Thought में रहता है; आपकी पसंद पर ही उसकी प्रति Photos में जुड़ती है।",
-    "Sharing and export": "साझा करना और निर्यात",
-    "Nothing is sent to Moving Truth. If you use Share, Save to Photos, email, or another export destination, you are choosing to give a decrypted copy to that destination. Its privacy practices then apply.": "Moving Truth को कुछ नहीं भेजा जाता। Share, Save to Photos, ईमेल या अन्य निर्यात स्थान का उपयोग करने पर आप उस स्थान को डिक्रिप्ट की गई प्रति देना चुनते हैं। फिर उसकी गोपनीयता प्रथाएँ लागू होती हैं।",
-    "Analytics, advertising, and accounts": "विश्लेषण, विज्ञापन और खाते",
-    "Inner Thought has no user account, in-app advertising, tracking SDK, or third-party analytics. Diagnostic logs are designed not to include thought text, transcripts, filenames, or coordinates.": "Inner Thought में उपयोगकर्ता खाता, ऐप विज्ञापन, ट्रैकिंग SDK या तीसरे पक्ष का विश्लेषण नहीं है। निदान लॉग में विचार का टेक्स्ट, प्रतिलिपि, फ़ाइल नाम या निर्देशांक शामिल न हों, ऐसा डिज़ाइन किया गया है।",
-    "Deletion and retention": "हटाना और रखना",
-    "Deleted thoughts remain in Recently Deleted for 30 days so you can recover them. Deleting forever—or expiration after 30 days—removes their database record and managed audio, photo, and video files. Device backups are governed by the backup choices and protections you configure with Apple.": "हटाए गए विचार 30 दिन Recently Deleted में रहते हैं ताकि आप उन्हें वापस पा सकें। हमेशा के लिए हटाना — या 30 दिन पूरे होना — उनका डेटाबेस रिकॉर्ड और प्रबंधित ऑडियो, फ़ोटो व वीडियो फ़ाइलें हटा देता है। डिवाइस बैकअप Apple के साथ चुनी गई आपकी बैकअप सेटिंग और सुरक्षा पर निर्भर हैं।",
-    "Children’s privacy": "बच्चों की गोपनीयता",
-    "Inner Thought does not knowingly collect personal information from anyone, including children, because Moving Truth operates no account, analytics, advertising, or content-collection service for the app.": "Inner Thought जानबूझकर किसी से, बच्चों सहित, व्यक्तिगत जानकारी एकत्र नहीं करता, क्योंकि Moving Truth ऐप के लिए खाता, विश्लेषण, विज्ञापन या सामग्री-संग्रह सेवा नहीं चलाता।",
-    "Changes to this policy": "इस नीति में बदलाव",
-    "If Inner Thought’s data practices change, this page will be updated before the changed behavior is released. Material changes will be explained clearly rather than hidden in legal language.": "Inner Thought की डेटा प्रथाएँ बदलने पर नया व्यवहार जारी होने से पहले यह पेज अपडेट होगा। महत्वपूर्ण बदलाव कानूनी भाषा में छिपाने के बजाय साफ़ समझाए जाएँगे।",
-    "Contact": "संपर्क",
-    "Questions about privacy are welcome at": "गोपनीयता से जुड़े प्रश्न भेजें",
-    "or through the": "या",
-    "Inner Thought support page": "Inner Thought सहायता पेज",
-    "Effective:": "प्रभावी:",
-    "July 22, 2026": "22 जुलाई 2026",
-    "Developer:": "डेवलपर:",
-    "Moving Truth / Skylaur Roe": "Moving Truth / Skylaur Roe",
-    "© 2026 Inner Thought by Moving Truth.": "© 2026 Inner Thought, Moving Truth द्वारा।",
-    "Support — Inner Thought": "सहायता — Inner Thought",
-    "Help and direct support for Inner Thought by Moving Truth.": "Moving Truth द्वारा Inner Thought के लिए सहायता और सीधा समर्थन।",
-    "Common help topics": "सामान्य सहायता विषय",
-    "Here when you need us": "जब ज़रूरत हो, हम यहाँ हैं",
-    "Inner Thought Support": "Inner Thought सहायता",
-    "The app is meant to feel immediate and quiet. If anything gets between you and the thought, tell us.": "ऐप को तत्काल और शांत महसूस होना चाहिए। यदि कोई चीज़ आपके और विचार के बीच आए, तो हमें बताएँ।",
-    "Recording & playback": "रिकॉर्डिंग और प्लेबैक",
-    "Microphone access, audio output, pauses, and appending more voice.": "माइक्रोफ़ोन पहुँच, ऑडियो आउटपुट, विराम और अधिक आवाज़ जोड़ना।",
-    "Transcription": "प्रतिलिपि",
-    "On-device availability, complete text, and per-thought controls.": "डिवाइस पर उपलब्धता, पूरा टेक्स्ट और हर विचार के नियंत्रण।",
-    "Location & media": "स्थान और मीडिया",
-    "Optional location, camera, Photos picker, and exporting.": "वैकल्पिक स्थान, कैमरा, Photos पिकर और निर्यात।",
-    "Privacy & deletion": "गोपनीयता और हटाना",
-    "Encryption, Recently Deleted, and permanent removal.": "एन्क्रिप्शन, Recently Deleted और स्थायी रूप से हटाना।",
-    "Recording and playback": "रिकॉर्डिंग और प्लेबैक",
-    "Allow microphone access in iPhone Settings > Privacy & Security > Microphone. A new voice thought can begin automatically only when that option is enabled in Inner Thought Settings.": "iPhone Settings > Privacy & Security > Microphone में माइक्रोफ़ोन की अनुमति दें। नया आवाज़-विचार तभी अपने आप शुरू हो सकता है जब Inner Thought Settings में वह विकल्प चालू हो।",
-    "If playback is silent, check the iPhone volume, Control Center audio destination, and connected Bluetooth devices. Inner Thought asks iOS to play through the speaker when no other destination is selected.": "प्लेबैक में आवाज़ न हो तो iPhone की आवाज़, Control Center का ऑडियो स्थान और जुड़े Bluetooth डिवाइस जाँचें। कोई दूसरा स्थान न चुना हो तो Inner Thought iOS से स्पीकर पर चलाने को कहता है।",
-    "Transcription is optional and uses Apple’s on-device recognition. Availability can depend on the selected language and whether its on-device speech model is installed. All recognized passages are accumulated with the thought; natural pauses should not erase earlier words.": "प्रतिलिपि वैकल्पिक है और Apple की डिवाइस पर पहचान इस्तेमाल करती है। उपलब्धता चुनी भाषा और उसके वाक् मॉडल के इंस्टॉल होने पर निर्भर हो सकती है। सभी पहचाने हिस्से विचार में जुड़ते हैं; स्वाभाविक विराम पहले के शब्दों को नहीं मिटाते।",
-    "You can keep voice with no transcript, dictate text without saving audio, or type directly. The global preference lives in Settings, and voice transcription can be changed for each capture.": "आप बिना प्रतिलिपि आवाज़ रख सकते हैं, ऑडियो सहेजे बिना बोलकर टेक्स्ट लिख सकते हैं या सीधे टाइप कर सकते हैं। सामान्य पसंद Settings में है और हर संग्रह के लिए आवाज़ की प्रतिलिपि बदली जा सकती है।",
-    "Location, photos, and video": "स्थान, फ़ोटो और वीडियो",
-    "Location is a single optional point, never a track. If it was omitted, you can add or update it later from the saved thought. Turn the default off in Settings or use the capture-screen control for one thought.": "स्थान एक वैकल्पिक बिंदु है, कभी रास्ता नहीं। छूट गया हो तो सहेजे विचार से बाद में जोड़ या बदल सकते हैं। Settings में डिफ़ॉल्ट बंद करें या एक विचार के लिए संग्रह स्क्रीन का नियंत्रण इस्तेमाल करें।",
-    "Photos and videos are stored privately inside Inner Thought by default. Use Save to Photos only when you want an additional copy in Apple Photos.": "फ़ोटो और वीडियो डिफ़ॉल्ट रूप से Inner Thought में निजी रखे जाते हैं। Apple Photos में अतिरिक्त प्रति चाहिए तभी Save to Photos इस्तेमाल करें।",
-    "Privacy, storage, and deletion": "गोपनीयता, स्टोरेज और हटाना",
-    "Saved thought content and media are encrypted on your device. The encryption key is held by iOS Keychain. Read the": "सहेजे विचार की सामग्री और मीडिया डिवाइस पर एन्क्रिप्ट होते हैं। कुंजी iOS Keychain में रखी जाती है। पढ़ें",
-    "for the precise boundary.": "सटीक सीमाएँ जानने के लिए।",
-    "full privacy policy": "पूरी गोपनीयता नीति",
-    "A deleted thought stays recoverable for 30 days in Settings > Recently Deleted. Delete Forever removes it immediately; after 30 days the app removes it automatically.": "हटाया विचार Settings > Recently Deleted में 30 दिन वापस पाया जा सकता है। Delete Forever उसे तुरंत हटाता है; 30 दिन बाद ऐप अपने आप हटा देता है।",
-    "Accessibility support": "सुगम्यता सहायता",
-    "Accessibility failures are product failures. If VoiceOver, Voice Control, Switch Control, Larger Text, Reduce Motion, contrast, captions, or another access need is not working gracefully, please contact us and name the task you were trying to complete.": "सुगम्यता की विफलता उत्पाद की विफलता है। VoiceOver, Voice Control, Switch Control, बड़ा टेक्स्ट, गति कम करें, कंट्रास्ट, कैप्शन या अन्य पहुँच आवश्यकता ठीक न चले तो संपर्क करें और बताएँ कि कौन-सा काम पूरा करना चाहते थे।",
-    "Direct support": "सीधी सहायता",
-    "Email Moving Truth": "Moving Truth को ईमेल करें",
-    "Include your iPhone or iPad model, iOS or iPadOS version, and what happened. Please do not send a private thought or recording unless you deliberately want us to see it.": "अपना iPhone या iPad मॉडल, iOS या iPadOS संस्करण और क्या हुआ बताएँ। कोई निजी विचार या रिकॉर्डिंग तभी भेजें जब आप जानबूझकर हमें दिखाना चाहते हों।",
-    "All apps": "सभी ऐप्स",
-    "Held with care": "सावधानी से रखा गया",
-    "Your inner world deserves both beauty and clarity. Read the full privacy promise, find help, or reach a real person whenever you need us.": "आपकी आंतरिक दुनिया सुंदरता और स्पष्टता दोनों की हकदार है। पूर्ण गोपनीयता वादा पढ़ें, सहायता ढूंढें, या जब भी आपको हमारी आवश्यकता हो तो किसी वास्तविक व्यक्ति तक पहुंचें।",
-    "Technical Craft": "तकनीकी शिल्प",
-    "Privacy policy": "गोपनीयता नीति",
-    "Email support": "ईमेल समर्थन",
-    "Explore all Moving Truth apps": "सभी Moving Truth ऐप्स देखें",
-    "Technical Craft — Inner Thought": "तकनीकी शिल्प — Inner Thought",
-    "Built natively. Composed deliberately.": "मूल रूप से निर्मित। जानबूझकर रचा गया.",
-    "For those curious about the work beneath the calm, this is how Inner Thought is made: with native Apple frameworks, clear boundaries, recoverable states, and care for the whole person using it.": "शांति के नीचे काम के बारे में उत्सुक लोगों के लिए, Inner Thought इस प्रकार बनाया गया है: देशी ऐप्पल फ्रेमवर्क, स्पष्ट सीमाएं, पुनर्प्राप्ति योग्य स्थिति और इसका उपयोग करने वाले पूरे व्यक्ति की देखभाल के साथ।",
-    "Native by design": "डिज़ाइन द्वारा मूल निवासी",
-    "Inner Thought is written in Swift and SwiftUI, using SwiftData, AVFoundation, Speech, MapKit, PhotosUI, WidgetKit, ActivityKit, App Intents, CryptoKit, and LocalAuthentication. Apple-native frameworks keep the app close to the platform, private by default, and light on dependencies.": "Inner Thought स्विफ्टडाटा, एवीफाउंडेशन, स्पीच, मैपकिट, फोटोयूआई, विजेटकिट, एक्टिविटीकिट, ऐप इंटेंट्स, क्रिप्टोकिट और लोकलऑथेंटिकेशन का उपयोग करके स्विफ्ट और स्विफ्टयूआई में लिखा गया है। ऐप्पल-नेटिव फ्रेमवर्क ऐप को प्लेटफ़ॉर्म के करीब रखता है, डिफ़ॉल्ट रूप से निजी रखता है, और निर्भरता पर प्रकाश डालता है।",
-    "Small, focused responsibilities": "छोटी, केंद्रित जिम्मेदारियां",
-    "The interface expresses state; focused controllers and services own recording, transcription, storage, playback, media, location, encryption, and system presentation. Shared coordinators connect those pieces without making a screen responsible for everything.": "इंटरफ़ेस स्थिति को व्यक्त करता है; केंद्रित नियंत्रकों और सेवाओं की अपनी रिकॉर्डिंग, ट्रांसक्रिप्शन, भंडारण, प्लेबैक, मीडिया, स्थान, एन्क्रिप्शन और सिस्टम प्रस्तुति है। साझा समन्वयक हर चीज़ के लिए स्क्रीन को ज़िम्मेदार बनाए बिना उन टुकड़ों को जोड़ते हैं।",
-    "The thought comes first": "विचार सबसे पहले आता है",
-    "Audio is authoritative and its destination exists before capture begins. Pauses, interruptions, transcription failures, and storage errors are designed as recoverable states. A valid recording is never discarded because speech recognition failed.": "ऑडियो आधिकारिक है और इसका गंतव्य कैप्चर शुरू होने से पहले मौजूद है। विराम, रुकावट, प्रतिलेखन विफलता और भंडारण त्रुटियाँ पुनर्प्राप्ति योग्य स्थितियों के रूप में डिज़ाइन की गई हैं। वाक् पहचान विफल होने के कारण वैध रिकॉर्डिंग को कभी भी खारिज नहीं किया जाता है।",
-    "Private by structure": "संरचना द्वारा निजी",
-    "Titles, transcripts, locations, custom tags, audio, photos, and videos are encrypted with AES-256-GCM. The key lives in the iOS Keychain; decrypted working files use platform file protection and are purged when the app leaves the foreground. There are no accounts, ads, trackers, or third-party analytics.": "शीर्षक, प्रतिलेख, स्थान, कस्टम टैग, ऑडियो, फ़ोटो और वीडियो AES-256-GCM के साथ एन्क्रिप्ट किए गए हैं। कुंजी iOS किचेन में रहती है; डिक्रिप्ट की गई कार्यशील फ़ाइलें प्लेटफ़ॉर्म फ़ाइल सुरक्षा का उपयोग करती हैं और जब ऐप अग्रभूमि छोड़ देता है तो उन्हें शुद्ध कर दिया जाता है। कोई खाता, विज्ञापन, ट्रैकर या तृतीय-पक्ष विश्लेषण नहीं है।",
-    "One app, every way in": "एक ऐप, हर तरह से",
-    "Semantic controls, Dynamic Type, VoiceOver, Voice Control, Switch Control, keyboard access, Reduce Motion, Increase Contrast, and non-colour cues are considered across complete tasks. Accessibility is evaluated as a path someone can finish, not a count of modifiers.": "सिमेंटिक नियंत्रण, डायनामिक प्रकार, वॉयसओवर, वॉयस कंट्रोल, स्विच कंट्रोल, कीबोर्ड एक्सेस, मोशन कम करें, कंट्रास्ट बढ़ाएं, और गैर-रंग संकेतों को संपूर्ण कार्यों में माना जाता है। अभिगम्यता का मूल्यांकन उस पथ के रूप में किया जाता है जिसे कोई व्यक्ति पूरा कर सकता है, संशोधकों की गिनती के रूप में नहीं।",
-    "Apple’s Human Interface Guidelines and accessibility principles guide us to put the person—not the feature—at the centre of each decision. Inner Thought considers people with visual, hearing, mobility, speech, and cognitive disabilities, along with temporary and situational limitations. Meaning never depends on colour, motion, sound, or gesture alone; enhancements remain optional; privacy and dignity are preserved. Automated evidence supports this work, and release claims wait for physical assistive-technology verification.": "ऐप्पल के मानव इंटरफ़ेस दिशानिर्देश और पहुंच सिद्धांत हमें प्रत्येक निर्णय के केंद्र में व्यक्ति को रखने के लिए मार्गदर्शन करते हैं - सुविधा को नहीं। Inner Thought अस्थायी और स्थितिजन्य सीमाओं के साथ-साथ दृश्य, श्रवण, गतिशीलता, भाषण और संज्ञानात्मक विकलांगता वाले लोगों पर विचार करता है। अर्थ कभी भी केवल रंग, गति, ध्वनि या हावभाव पर निर्भर नहीं करता; संवर्द्धन वैकल्पिक रहेगा; गोपनीयता और गरिमा संरक्षित है. स्वचालित साक्ष्य इस कार्य का समर्थन करते हैं, और जारी दावे भौतिक सहायक-प्रौद्योगिकी सत्यापन की प्रतीक्षा करते हैं।",
-    "Language in the architecture": "वास्तुकला में भाषा",
-    "Every visible and spoken interface string lives in String Catalogs. Layouts are bidirectional, user-authored words keep their language, and dates, times, and numbers follow the active locale. Fourteen launch languages are built in; draft translations still require fluent human review before release.": "प्रत्येक दृश्य और बोली जाने वाली इंटरफ़ेस स्ट्रिंग स्ट्रिंग कैटलॉग में रहती है। लेआउट द्विदिश हैं, उपयोगकर्ता द्वारा लिखे गए शब्द अपनी भाषा रखते हैं, और तिथियां, समय और संख्याएं सक्रिय स्थान का अनुसरण करती हैं। चौदह लॉन्च भाषाएँ निर्मित हैं; ड्राफ्ट अनुवादों को अभी भी रिलीज़ से पहले धाराप्रवाह मानवीय समीक्षा की आवश्यकता है।",
-    "Native beyond the app": "ऐप से परे मूल निवासी",
-    "Home and Lock Screen widgets, Live Activities, the Dynamic Island, and App Intents share a deliberately small command layer and capture coordinator. Private thought text stays out of system surfaces; only the state needed to control an active capture leaves the app interface.": "होम और लॉक स्क्रीन विजेट, लाइव एक्टिविटीज, डायनेमिक आइलैंड और ऐप इंटेंट्स जानबूझकर छोटी कमांड लेयर और कैप्चर कोऑर्डिनेटर साझा करते हैं। निजी विचार पाठ सिस्टम सतहों से बाहर रहता है; केवल सक्रिय कैप्चर को नियंत्रित करने के लिए आवश्यक स्थिति ही ऐप इंटरफ़ेस छोड़ती है।",
-    "Evidence, not confidence": "सबूत, भरोसा नहीं",
-    "Deterministic unit tests exercise persistence, encryption, recovery, media, mapping, and capture state. UI tests cover navigation, expanded text, and right-to-left layout. Automated checks support the work; physical iPhone and assistive-technology testing remain release gates.": "नियतात्मक इकाई परीक्षण दृढ़ता, एन्क्रिप्शन, पुनर्प्राप्ति, मीडिया, मैपिंग और कैप्चर स्थिति का अभ्यास करते हैं। यूआई परीक्षण नेविगेशन, विस्तारित टेक्स्ट और दाएं से बाएं लेआउट को कवर करते हैं। स्वचालित जाँच कार्य का समर्थन करती है; भौतिक iPhone और सहायक-प्रौद्योगिकी परीक्षण रिलीज़ गेट बने हुए हैं।",
-    "Engineering in service of calm": "शांति की सेवा में इंजीनियरिंग",
-    "Grace was not painted over function at the end. Progressive disclosure, semantic typography, stable layout space, restrained motion, and quiet materials let substantial capability remain calm and understandable.": "अंत में फ़ंक्शन पर ग्रेस चित्रित नहीं किया गया था। प्रगतिशील प्रकटीकरण, सिमेंटिक टाइपोग्राफी, स्थिर लेआउट स्थान, संयमित गति और शांत सामग्री पर्याप्त क्षमता को शांत और समझने योग्य बनाती है।",
-    "The result is meant to feel simple because the complexity has been carried carefully underneath.": "परिणाम सरल महसूस करने के लिए है क्योंकि जटिलता को सावधानीपूर्वक नीचे लाया गया है।"
-  },
-  "scriptTranslations": {
-    "Close navigation": "नेविगेशन बंद करें",
-    "Open navigation": "नेविगेशन खोलें"
-  },
-  "contextualTranslations": {
-    "index.html": {
-      "Support": {
-        "2": "समर्थन"
-      }
+  "schema": "release-fabric/catalog@2",
+  "messages": {
+    "inner-thought.index.text.0001": {
+      "value": "Inner Thought — Moving Truth द्वारा",
+      "sourceSha256": "c062f75f837d27a069aca4303772d1a126d505da520e63ca021b9bb68ac3ff70"
     },
-    "technical_craft.html": {
-      "The person comes first": {
-        "1": "व्यक्ति सबसे पहले आता है"
-      }
+    "inner-thought.index.text.0002": {
+      "value": "मुख्य सामग्री पर जाएँ",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-thought.index.text.0003": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.index.text.0004": {
+      "value": "सुविधाएँ",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-thought.index.text.0005": {
+      "value": "सुगम्यता",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.index.text.0006": {
+      "value": "गोपनीयता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.index.text.0007": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.index.text.0008": {
+      "value": "उपलब्धता",
+      "sourceSha256": "12f67f8539c46701e62d1c50254cf025c22a992b06fea6d4c0e19705f21f4cac"
+    },
+    "inner-thought.index.text.0009": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.index.text.0010": {
+      "value": "एक इशारा। भीतर की बात कहें। उसे सुरक्षित रखें।",
+      "sourceSha256": "41d1d45dce382ab16e909b47fe43c4430f56bd48dce3dfdf961e87444cadef53"
+    },
+    "inner-thought.index.text.0011": {
+      "value": "App Store पर Inner Thought पाएँ",
+      "sourceSha256": "55384cf91c27972055904ad17f36e2bf2797f7aaacc12268fad3b0379f76ba7c"
+    },
+    "inner-thought.index.text.0012": {
+      "value": "यह क्यों है",
+      "sourceSha256": "77890c5d4168a3af5e9a2611921690bb9f2f6c2a02e7269ab9b268f2f1bbed00"
+    },
+    "inner-thought.index.text.0013": {
+      "value": "प्राप्त करने के लिए स्क्रॉल करें",
+      "sourceSha256": "ef2e2dd538a01860c597ce63e3a8e6d1f6cdb5523005a9733f342694b5706145"
+    },
+    "inner-thought.index.text.0014": {
+      "value": "जो वरना खो जाता, उसे सहेजने की जगह।",
+      "sourceSha256": "bfaaf37bac046c5c313694c43440bc55662ac8a07d15bd777b674c5587e87be9"
+    },
+    "inner-thought.index.text.0015": {
+      "value": "Inner Thought लोगों को उनकी रचनात्मकता खोने से पहले सहेजने में मदद करता है — गोपनीयता, गरिमा और सहजता के साथ। उसे बोलें, टाइप करें, फ़ोटो लें या फ़िल्माएँ। बाद में व्यवस्थित करें, या बिल्कुल नहीं।",
+      "sourceSha256": "8acbd9a140589616006e2468c1039b6c98077eb35dd0bc40f4e52856f3569cba"
+    },
+    "inner-thought.index.text.0016": {
+      "value": "विचार आते ही तैयार। न आए तो शांत।",
+      "sourceSha256": "7906c0841af84d1273e3967685e20d53531e0402a5198e7490d3baa7335a5090"
+    },
+    "inner-thought.index.text.0017": {
+      "value": "बोला हुआ",
+      "sourceSha256": "b0a422a0de4af8203cfaa0ba6a5780c3e2d53d7df1f91b9022cd0cd7288ae0b1"
+    },
+    "inner-thought.index.text.0018": {
+      "value": "लिखा हुआ",
+      "sourceSha256": "4c6031d1d40cc16e9c579a3a56e8a51dfbbd439367e311d241b32afd845538d5"
+    },
+    "inner-thought.index.text.0019": {
+      "value": "देखा हुआ",
+      "sourceSha256": "8894cf30aed05a787922b8da70ce6ec4e86879ac21f97fbf78a2da27bdae2b20"
+    },
+    "inner-thought.index.text.0020": {
+      "value": "स्थान सहित",
+      "sourceSha256": "cfa70d64a48226d4b667f0a25442e3ab81b6195268ad85acec3f6e909669394f"
+    },
+    "inner-thought.index.text.0021": {
+      "value": "निजी रखा गया",
+      "sourceSha256": "187c44112cef269684fa358a68cefa913e3d18f55b0936b55f56dbbb2ec7d43d"
+    },
+    "inner-thought.index.text.0022": {
+      "value": "पहले सहेजें",
+      "sourceSha256": "f16972c086c637774011108f9fe5433d983d07feb9ab6bd5f28f22bb590ed900"
+    },
+    "inner-thought.index.text.0023": {
+      "value": "विचार का पूरा होना ज़रूरी नहीं।",
+      "sourceSha256": "5933bf308d531fafaedd4fc58f77ede50cd6808d63223112d0cf9ff14c072114"
+    },
+    "inner-thought.index.text.0024": {
+      "value": "शीर्षक इंतज़ार कर सकता है। श्रेणी इंतज़ार कर सकती है। विचार नहीं। Inner Thought किसी बात के आने और सुरक्षित होने के बीच की दूरी घटाता है।",
+      "sourceSha256": "c989b3bf634933cecb098efba74950e9ab79afe16a148f2f520aeac08ce6fbd2"
+    },
+    "inner-thought.index.text.0025": {
+      "value": "आवाज़",
+      "sourceSha256": "87bf2bc08589f0bd4a078db145c34ad5e14b8fda53c3ae65b78601294913df95"
+    },
+    "inner-thought.index.text.0026": {
+      "value": "मूल रिकॉर्डिंग और चाहें तो उसकी पूरी प्रतिलिपि रखें।",
+      "sourceSha256": "556be93771b4491c87edf67be68c65d1cfb43a3b690856b41ea2b37cae4bd968"
+    },
+    "inner-thought.index.text.0027": {
+      "value": "टेक्स्ट",
+      "sourceSha256": "71988c4d8e0803ba4519f0b2864c1331c14a1890bf8694e251379177bfedb5c3"
+    },
+    "inner-thought.index.text.0028": {
+      "value": "ऑडियो रखे बिना बोलकर लिखें या जो मन में आया उसे सीधे टाइप करें।",
+      "sourceSha256": "f6eb4c685dfb281de73346b9f37de2b980f5a1deaf49b4be674279ea32277683"
+    },
+    "inner-thought.index.text.0029": {
+      "value": "स्थान",
+      "sourceSha256": "e9463dccf0541a9778589691543fd69249759d5de6a97cd57d6420c3e5d92baa"
+    },
+    "inner-thought.index.text.0030": {
+      "value": "एक बार का स्थान तभी जोड़ें जब वह संदर्भ विचार का हिस्सा हो।",
+      "sourceSha256": "e24ad3c02ca97336c235261dffbf5461a75b3fcf5d96c6802fef156120b7dedb"
+    },
+    "inner-thought.index.text.0031": {
+      "value": "मीडिया",
+      "sourceSha256": "d357175cfe8978d39b0f86552dcd9404973493e2816101d9ff6c05ee248ef6bd"
+    },
+    "inner-thought.index.text.0032": {
+      "value": "फ़ोटो और वीडियो को स्मृति के भीतर निजी रखें।",
+      "sourceSha256": "058fdd98be1df198fa2683ca95126bab4df5fffcc0dac1730ec14f456bfe3e31"
+    },
+    "inner-thought.index.text.0033": {
+      "value": "पहले दिन से सुगम्यता",
+      "sourceSha256": "523236e02a3c796e9d1432cb6356540f02c00f3167026ffed00ad19306752450"
+    },
+    "inner-thought.index.text.0034": {
+      "value": "एक Inner Thought। सभी के लिए।",
+      "sourceSha256": "e30293184fd82ba5ce5679071bef41a886e47f675796f0713af59591704b0355"
+    },
+    "inner-thought.index.text.0035": {
+      "value": "सुगम्यता तय करती है कि वादा सच है या नहीं। यह अलग संस्करण या आख़िरी सजावट नहीं है। हर सामान्य काम को देखने, सुनने, चलने, पढ़ने और बातचीत करने के अलग-अलग तरीकों के लिए डिज़ाइन और जाँचा जा रहा है।",
+      "sourceSha256": "5d2d5cb0d4cd9fd66df8d5b3bb2d3b21de730f977762c82736556e19764cbace"
+    },
+    "inner-thought.index.text.0036": {
+      "value": "VoiceOver, Voice Control, Switch Control, बड़ा टेक्स्ट, गति कम करें, कंट्रास्ट, कीबोर्ड पहुँच और बिना ध्वनि के स्पष्ट अवस्थाएँ रिलीज़ की अनिवार्य शर्तें हैं।",
+      "sourceSha256": "19f3e593ab5dbd81aac36991f9e7522d63ab8af8af51834c3d4013e04d957516"
+    },
+    "inner-thought.index.text.0037": {
+      "value": "डिज़ाइन से ही निजी",
+      "sourceSha256": "485ca594ccc9003ba4908cc7f0024a92ce2a89f2e3e49fb4acbc61770eff6580"
+    },
+    "inner-thought.index.text.0038": {
+      "value": "आपके विचार उत्पाद नहीं हैं।",
+      "sourceSha256": "fb52f79a1c0928f1448819f734433dc29a0dbbd5cfe5cc801b7be45c9afb0d18"
+    },
+    "inner-thought.index.text.0039": {
+      "value": "Inner Thought को खाते की ज़रूरत नहीं और इसमें ऐप के भीतर विज्ञापन या तीसरे पक्ष का विश्लेषण नहीं है। सहेजे गए शीर्षक, शब्द, स्थान, निजी टैग, रिकॉर्डिंग, फ़ोटो और वीडियो आपके डिवाइस पर iOS Keychain में रखी कुंजी से एन्क्रिप्ट होते हैं।",
+      "sourceSha256": "634169d1efd8fdbab9d5b610c6e5d6607047db018f62eeca7eaa92ecdd253dc5"
+    },
+    "inner-thought.index.text.0040": {
+      "value": "पृष्ठभूमि में स्थान ट्रैकिंग नहीं।",
+      "sourceSha256": "7fd95729ad05600e66ac921277613ac2223d21daa64d8decbb8fe4fb87a4b87d"
+    },
+    "inner-thought.index.text.0041": {
+      "value": "आपकी पूरी फ़ोटो लाइब्रेरी की व्यापक जाँच नहीं।",
+      "sourceSha256": "0e165b2540bfc5ab53b700dff47d990e9e57ffc805477cfa29ce3a5274b65d56"
+    },
+    "inner-thought.index.text.0042": {
+      "value": "डिवाइस पर प्रतिलिपि; डिफ़ॉल्ट रूप से विजेट या लॉग में प्रतिलिपि की सामग्री नहीं।",
+      "sourceSha256": "54b39488b88b221016fb48ff9c5c1842fdb65b90b43c9d9bb4f281a0d4c9bb42"
+    },
+    "inner-thought.index.text.0043": {
+      "value": "आपके निजी विचारों के साथ कोई सदस्यता नहीं।",
+      "sourceSha256": "6b323a77bc4a88d70cb184dc74b19da36be509b1b2c135b6e07bf7c212880de6"
+    },
+    "inner-thought.index.text.0044": {
+      "value": "पूरी गोपनीयता नीति पढ़ें",
+      "sourceSha256": "58db9d103eec30212473637b05e70be90814d2cdc04e34fe2199eaab708cf619"
+    },
+    "inner-thought.index.text.0045": {
+      "value": "इस कार्य के लिए एक आशीष",
+      "sourceSha256": "dbd179de3df4dd7951205dda69e22dd6ac2e447dfbf8df318ef08d46926f4b78"
+    },
+    "inner-thought.index.text.0046": {
+      "value": "यह ऐप लोगों को अपनी रचनात्मकता सहेजने में मदद करे।",
+      "sourceSha256": "d358f76aab28b9f1cbe6db954bb8eca12f911f882ed96b53fad6aafd435db23a"
+    },
+    "inner-thought.index.text.0047": {
+      "value": "यह सुंदर, सहायक, फलदायी और उपयोगी हो।",
+      "sourceSha256": "1467b24d2ac915df42a189eb0228d706873cae17975af213c4c6ae1a600e42a7"
+    },
+    "inner-thought.index.text.0048": {
+      "value": "यह उन लोगों तक पहुँचे जिनके विचारों को उतरने की जगह चाहिए।",
+      "sourceSha256": "f1b28d494f8ebbdbbdceae6e87bf694e8a5eff4af92a2b82d4a01be147419adc"
+    },
+    "inner-thought.index.text.0049": {
+      "value": "सावधानी से रखा गया",
+      "sourceSha256": "93bf5cb9ace257f1586c526a925ad13ca1135511cfc6ffb96cd4245f396fd870"
+    },
+    "inner-thought.index.text.0050": {
+      "value": "आपकी आंतरिक दुनिया सुंदरता और स्पष्टता दोनों की हकदार है। पूर्ण गोपनीयता वादा पढ़ें, सहायता ढूंढें, या जब भी आपको हमारी आवश्यकता हो तो किसी वास्तविक व्यक्ति तक पहुंचें।",
+      "sourceSha256": "f0dfb02b9e5215f69c3eff154df9d41ac8a1541ddd9f0087ed5181eaf0cd4890"
+    },
+    "inner-thought.index.text.0051": {
+      "value": "तकनीकी शिल्प",
+      "sourceSha256": "ed7b84a2eb484c5b73f39e114cd551a47e8e1b764b945ccfaa1c98280fc3439b"
+    },
+    "inner-thought.index.text.0052": {
+      "value": "गोपनीयता नीति",
+      "sourceSha256": "ba445cff3898a3f24f415f90fbef1c8169ea21949a40680c5e1c5975843d1b5e"
+    },
+    "inner-thought.index.text.0053": {
+      "value": "समर्थन",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.index.text.0054": {
+      "value": "ईमेल समर्थन",
+      "sourceSha256": "403151089cb1cbbd1fb0698b2815cafd80199a7a702afdf2a0421656e4232090"
+    },
+    "inner-thought.index.text.0055": {
+      "value": "Moving Truth द्वारा",
+      "sourceSha256": "3daa3456fa0b55162e7c72b8d69a3fff181d034edf3423bcf3ce5a972cf2aab4"
+    },
+    "inner-thought.index.text.0056": {
+      "value": "Skylaur Roe द्वारा प्यार से बनाया गया",
+      "sourceSha256": "8973d1d4a4d34a688cb6e6d9080ec19b076e65b44fac74776e850e1cfb0f6562"
+    },
+    "inner-thought.index.text.0057": {
+      "value": "सभी Moving Truth ऐप्स देखें",
+      "sourceSha256": "1a8f383841d7faff0dd5d4232e122c1fc9c9cd70a6081e1df6caffd492edc277"
+    },
+    "inner-thought.index.text.0058": {
+      "value": "अब उपलब्ध",
+      "sourceSha256": "2a4729fa7647b090374ca25dd057f5e604682b9ff1867b029c5afe3479183fcd"
+    },
+    "inner-thought.index.text.0059": {
+      "value": "विचार को उतरने की जगह दें।",
+      "sourceSha256": "f347dab84ef30cbb69f5f9f62efff780085d543a93811a3f18b3ca786b11d96b"
+    },
+    "inner-thought.index.text.0060": {
+      "value": "Inner Thought iPhone और iPad के लिए एक पूर्ण ऐप के रूप में उपलब्ध है: छोटी एकमुश्त कीमत, कोई सदस्यता नहीं और सुविधाओं के स्तर नहीं।",
+      "sourceSha256": "bc1664396b7ccdd19fcf2a9a4620bce4b79d1c3daa9cdfd946c90ee38776916b"
+    },
+    "inner-thought.index.text.0061": {
+      "value": "App Store पर Inner Thought पाएँ",
+      "sourceSha256": "55384cf91c27972055904ad17f36e2bf2797f7aaacc12268fad3b0379f76ba7c"
+    },
+    "inner-thought.index.text.0062": {
+      "value": "सुविधाएँ",
+      "sourceSha256": "5697d03daef4de9cf8db7cb11755f71358a32b4acca94909a9d449f71040d2dd"
+    },
+    "inner-thought.index.text.0063": {
+      "value": "सुगम्यता",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.index.text.0064": {
+      "value": "गोपनीयता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.index.text.0065": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.index.text.0066": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.index.text.0067": {
+      "value": "© 2026 Inner Thought, Moving Truth द्वारा। iPhone और iPad के लिए बनाया गया।",
+      "sourceSha256": "6372e4faf277e9b3451e29693bbfb3cedc081475f9268c2a1e870226bdb52499"
+    },
+    "inner-thought.index.attribute.0001": {
+      "value": "Inner Thought उन विचारों को सहेजता है जो वरना खो जाते — बोले, लिखे, फ़ोटो या वीडियो में। डिज़ाइन से ही निजी। अब iPhone और iPad के लिए App Store पर उपलब्ध।",
+      "sourceSha256": "a9e32c2522849fc1fd6cde71e99c83da6ed35673f74d06a67aabc513d824e9c8"
+    },
+    "inner-thought.index.attribute.0002": {
+      "value": "Inner Thought — Moving Truth द्वारा",
+      "sourceSha256": "c062f75f837d27a069aca4303772d1a126d505da520e63ca021b9bb68ac3ff70"
+    },
+    "inner-thought.index.attribute.0003": {
+      "value": "एक इशारा। भीतर की बात कहें। उसे सुरक्षित रखें।",
+      "sourceSha256": "41d1d45dce382ab16e909b47fe43c4430f56bd48dce3dfdf961e87444cadef53"
+    },
+    "inner-thought.index.attribute.0004": {
+      "value": "Inner Thought का होम पेज",
+      "sourceSha256": "23d91187961439354f1e8399a6d26c7d146b7ff0437fe3b71aea38babfdfed01"
+    },
+    "inner-thought.index.attribute.0005": {
+      "value": "मुख्य नेविगेशन",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-thought.index.attribute.0006": {
+      "value": "Inner Thought ऐप आइकन: सर्पिल में बहती सुनहरी तरंग",
+      "sourceSha256": "e8c797dfb6f58044206c8568f6e2c49ba0ac0ffd1f27bae0f55b15eaa5730e7c"
+    },
+    "inner-thought.index.attribute.0007": {
+      "value": "विचार सहेजने के तरीके",
+      "sourceSha256": "23e4184f082bac69bd1552f0e56d6bb3ff8ce1da83db804f2face549c4dd4a18"
+    },
+    "inner-thought.index.attribute.0008": {
+      "value": "Moving Truth के बारे में",
+      "sourceSha256": "9e010112763306f8c869449c867a0a6e7bd9a0f2207e01ee92965346f2bf5cbe"
+    },
+    "inner-thought.index.attribute.0009": {
+      "value": "Moving Truth। movingtruth.com खोलता है",
+      "sourceSha256": "5b7032d6f78452d2eb6600a557b42ecdf67966e8dc057586856fb65f9f1aaa08"
+    },
+    "inner-thought.index.attribute.0010": {
+      "value": "Moving Truth का लोगो",
+      "sourceSha256": "3c19c00420a1f78422a5cdb3fe3d6d00e2c33c24e5cb83ec54b8459b70b8fbb7"
+    },
+    "inner-thought.index.attribute.0011": {
+      "value": "फ़ुटर नेविगेशन",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-thought.index.script.0001": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.privacy-policy.text.0001": {
+      "value": "गोपनीयता नीति — Inner Thought",
+      "sourceSha256": "2852466862b7fa4bbae84db3d8c954966e6ee4ff0176e3352304b76d5fc0527f"
+    },
+    "inner-thought.privacy-policy.text.0002": {
+      "value": "मुख्य सामग्री पर जाएँ",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-thought.privacy-policy.text.0003": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.privacy-policy.text.0004": {
+      "value": "होम",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.privacy-policy.text.0005": {
+      "value": "गोपनीयता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.privacy-policy.text.0006": {
+      "value": "सुगम्यता",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.privacy-policy.text.0007": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.privacy-policy.text.0008": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.privacy-policy.text.0009": {
+      "value": "डिज़ाइन से ही निजी",
+      "sourceSha256": "485ca594ccc9003ba4908cc7f0024a92ce2a89f2e3e49fb4acbc61770eff6580"
+    },
+    "inner-thought.privacy-policy.text.0010": {
+      "value": "गोपनीयता नीति",
+      "sourceSha256": "506ff394621596dd88138642eddfc1e41833b3ae92d95e5c77c94327098abd9a"
+    },
+    "inner-thought.privacy-policy.text.0011": {
+      "value": "आपके विचार उत्पाद नहीं हैं। Inner Thought ऐसा बनाया गया है कि आपके द्वारा सहेजी गई आंतरिक दुनिया आपके नियंत्रण में रहे।",
+      "sourceSha256": "28e7d8519b81fe16000ab67d5ce524aa1d568ede8e2efff8c7e8e36e61146243"
+    },
+    "inner-thought.privacy-policy.text.0012": {
+      "value": "सरल भाषा में:",
+      "sourceSha256": "fb3329ada8900b811d5a90803c261195b66db525684c23faa14914e53c147a94"
+    },
+    "inner-thought.privacy-policy.text.0013": {
+      "value": "कोई खाता नहीं, विज्ञापन नहीं, तीसरे पक्ष का विश्लेषण नहीं, डेटा की बिक्री नहीं और Moving Truth द्वारा चलाया क्लाउड सेवा नहीं।",
+      "sourceSha256": "203e580cafd769beea889525196a4fe1168eafb3a7d51e77a5424f1c3e016160"
+    },
+    "inner-thought.privacy-policy.text.0014": {
+      "value": "Inner Thought क्या सहेजता है",
+      "sourceSha256": "afd76c04fe44ab8e068c329c69caf93e59cfe5914c69ec43241f1f3d6d0b4a63"
+    },
+    "inner-thought.privacy-policy.text.0015": {
+      "value": "केवल वह जो आप बनाना चुनते हैं: शीर्षक, टाइप या बोलकर लिखा टेक्स्ट, आवाज़ की रिकॉर्डिंग, वैकल्पिक एकबारगी स्थान, टैग, फ़ोटो, वीडियो, पसंदीदा और विचार व्यवस्थित या वापस पाने के लिए आवश्यक तारीखें।",
+      "sourceSha256": "2599051440e0c9851bc4a2b4da2b4874c0a21f0eaca6a4727bddb0756fe3678f"
+    },
+    "inner-thought.privacy-policy.text.0016": {
+      "value": "स्थान कभी आपकी आवाजाही का इतिहास नहीं होता। Inner Thought किसी विचार के लिए केवल एक स्थान बिंदु तभी माँगता है जब आपने उस संग्रह के लिए स्थान चालू किया हो।",
+      "sourceSha256": "1d6271e6ec01d83b21fd0dbf069cd44be64da8f66cdd27b68ce0bb4308de3321"
+    },
+    "inner-thought.privacy-policy.text.0017": {
+      "value": "आपके विचार कैसे सुरक्षित हैं",
+      "sourceSha256": "deae090bef87448892ef7a3754689358eba4547cc59788990adbd1165d77b098"
+    },
+    "inner-thought.privacy-policy.text.0018": {
+      "value": "सहेजे गए शीर्षक, प्रतिलिपियाँ, स्थान विवरण, निजी टैग नाम, रिकॉर्डिंग संदर्भ, मीडिया विवरण, ऑडियो, फ़ोटो और वीडियो डिवाइस पर एन्क्रिप्ट होते हैं। Inner Thought प्रमाणित AES-256-GCM एन्क्रिप्शन इस्तेमाल करता है और कुंजी iOS Keychain में रखता है।",
+      "sourceSha256": "d92c0751946471d52ffaa57d3568f0701ce3a681c3f6ae84ec47afc3e0ac1720"
+    },
+    "inner-thought.privacy-policy.text.0019": {
+      "value": "बड़ी रिकॉर्डिंग और वीडियो प्रमाणित हिस्सों में एन्क्रिप्ट होते हैं। किसी सामग्री को चलाने, देखने, निर्यात या साझा करने पर ऐप थोड़े समय के लिए स्पष्ट प्रति बना सकता है, जिसे iOS की पूर्ण फ़ाइल सुरक्षा बचाती है। ऐप के अग्रभूमि से हटने और स्टोरेज रखरखाव के दौरान ये कार्य प्रतियाँ हटा दी जाती हैं।",
+      "sourceSha256": "69da5ab8e69b523ac6b5bafc97693093a29dc9ed14d2fe2b95e0231d48af4e63"
+    },
+    "inner-thought.privacy-policy.text.0020": {
+      "value": "Apple का ऑडियो सिस्टम लिखते समय चल रही रिकॉर्डिंग थोड़े समय के लिए iOS-सुरक्षित कार्य फ़ाइल के रूप में रहती है। विचार सहेजते ही वह एन्क्रिप्ट हो जाती है।",
+      "sourceSha256": "621395d84ef48f42b0b56b3385b30a1bed2f8c667861747115aeab2feb6a9836"
+    },
+    "inner-thought.privacy-policy.text.0021": {
+      "value": "अनुमतियाँ आपके चुनाव हैं",
+      "sourceSha256": "d810c266485273ed27867e80dfedfa2357145f0808e92cdf714151383c35400e"
+    },
+    "inner-thought.privacy-policy.text.0022": {
+      "value": "माइक्रोफ़ोन और प्रतिलिपि",
+      "sourceSha256": "c0b5612806df11ef7715995c5dc9e20a2c65cd713e0acf90c5448ed2e0f1f30c"
+    },
+    "inner-thought.privacy-policy.text.0023": {
+      "value": "माइक्रोफ़ोन का उपयोग केवल रिकॉर्डिंग या बोलकर लिखते समय होता है। लाइव प्रतिलिपि के लिए Inner Thought को Apple की डिवाइस पर वाक् पहचान चाहिए। आप प्रतिलिपि को पूरी तरह या किसी एक आवाज़-विचार के लिए बंद कर सकते हैं।",
+      "sourceSha256": "53a1be370adb40f67b529654cd561e1e8e9631d5e83dcbbe977aa73243aa451f"
+    },
+    "inner-thought.privacy-policy.text.0024": {
+      "value": "स्थान",
+      "sourceSha256": "15b61974b2707a7b3d4201385e0f01f4ff5eb1f17c5639d98788ee5add2025cd"
+    },
+    "inner-thought.privacy-policy.text.0025": {
+      "value": "स्थान वैकल्पिक है, हर विचार के लिए बदला जा सकता है और सेटिंग्स में बंद किया जा सकता है। Inner Thought पृष्ठभूमि में आपको ट्रैक नहीं करता।",
+      "sourceSha256": "f7092f0dc4d21539d9b9621a15585f23aebfcedf374e0e498a4534efdfde8323"
+    },
+    "inner-thought.privacy-policy.text.0026": {
+      "value": "फ़ोटो और कैमरा",
+      "sourceSha256": "5f30103c80199e6da86be9da99a41542b5701c88bb0f5ca46b335bf277541b3e"
+    },
+    "inner-thought.privacy-policy.text.0027": {
+      "value": "सिस्टम फ़ोटो पिकर आपको Inner Thought को पूरी लाइब्रेरी की पहुँच दिए बिना चुनी हुई सामग्री लेने देता है। कैमरा केवल उसे खोलने पर इस्तेमाल होता है। नया मीडिया डिफ़ॉल्ट रूप से Inner Thought में रहता है; आपकी पसंद पर ही उसकी प्रति Photos में जुड़ती है।",
+      "sourceSha256": "8543895ed7ade4c866498ade59c003cf647721c821bd6f1684c8f3bf9d53d403"
+    },
+    "inner-thought.privacy-policy.text.0028": {
+      "value": "साझा करना और निर्यात",
+      "sourceSha256": "9e5a4a9e0f30637b305e72c06528c82384651d2f894965181121ccb3e98acfcf"
+    },
+    "inner-thought.privacy-policy.text.0029": {
+      "value": "Moving Truth को कुछ नहीं भेजा जाता। Share, Save to Photos, ईमेल या अन्य निर्यात स्थान का उपयोग करने पर आप उस स्थान को डिक्रिप्ट की गई प्रति देना चुनते हैं। फिर उसकी गोपनीयता प्रथाएँ लागू होती हैं।",
+      "sourceSha256": "18d324809509f30a32e3c3deb68d3a36108b4b94ab45e6c54a3ae1acd65ea6db"
+    },
+    "inner-thought.privacy-policy.text.0030": {
+      "value": "विश्लेषण, विज्ञापन और खाते",
+      "sourceSha256": "6e90d2c7c7e7d161bb42a723133e5761fc1eaeadd03d5bfa8318b6bcbded31c4"
+    },
+    "inner-thought.privacy-policy.text.0031": {
+      "value": "Inner Thought में उपयोगकर्ता खाता, ऐप विज्ञापन, ट्रैकिंग SDK या तीसरे पक्ष का विश्लेषण नहीं है। निदान लॉग में विचार का टेक्स्ट, प्रतिलिपि, फ़ाइल नाम या निर्देशांक शामिल न हों, ऐसा डिज़ाइन किया गया है।",
+      "sourceSha256": "950ab66e12f7e8dcc95e8928c5e2eccf8bfcf8eeb3505a706b9c942e066e8a0c"
+    },
+    "inner-thought.privacy-policy.text.0032": {
+      "value": "हटाना और रखना",
+      "sourceSha256": "b36c8ce6b02f45535ac757b4eba1e440ae9ecaaa126490ec2703e0965908e01f"
+    },
+    "inner-thought.privacy-policy.text.0033": {
+      "value": "हटाए गए विचार 30 दिन Recently Deleted में रहते हैं ताकि आप उन्हें वापस पा सकें। हमेशा के लिए हटाना — या 30 दिन पूरे होना — उनका डेटाबेस रिकॉर्ड और प्रबंधित ऑडियो, फ़ोटो व वीडियो फ़ाइलें हटा देता है। डिवाइस बैकअप Apple के साथ चुनी गई आपकी बैकअप सेटिंग और सुरक्षा पर निर्भर हैं।",
+      "sourceSha256": "096e882b061c0e0e4a8ddcd155d573c28b880b03a1dc845b74a70bc1c100921d"
+    },
+    "inner-thought.privacy-policy.text.0034": {
+      "value": "बच्चों की गोपनीयता",
+      "sourceSha256": "740155cb51d893d9714ebf29691abe68055cb9a3d33f41df4af6d570b7634f67"
+    },
+    "inner-thought.privacy-policy.text.0035": {
+      "value": "Inner Thought जानबूझकर किसी से, बच्चों सहित, व्यक्तिगत जानकारी एकत्र नहीं करता, क्योंकि Moving Truth ऐप के लिए खाता, विश्लेषण, विज्ञापन या सामग्री-संग्रह सेवा नहीं चलाता।",
+      "sourceSha256": "fd7fb3f554559d20cad6fb6426f8e31b494e50532051a58512593e7cbe075c4b"
+    },
+    "inner-thought.privacy-policy.text.0036": {
+      "value": "इस नीति में बदलाव",
+      "sourceSha256": "86cb08a84ff4d12d0d7e1741c28362b6c4923971cd8eb2b4bf0b7a9e5277534f"
+    },
+    "inner-thought.privacy-policy.text.0037": {
+      "value": "Inner Thought की डेटा प्रथाएँ बदलने पर नया व्यवहार जारी होने से पहले यह पेज अपडेट होगा। महत्वपूर्ण बदलाव कानूनी भाषा में छिपाने के बजाय साफ़ समझाए जाएँगे।",
+      "sourceSha256": "972c141fb0957bc901691b6bd7b1387ceb321f1dfba261b0c93401d5907263cd"
+    },
+    "inner-thought.privacy-policy.text.0038": {
+      "value": "संपर्क",
+      "sourceSha256": "2b5c3d26721ae9c350cf3009318b626f0fc8a90b4a2ac0ca8099c05aa849282e"
+    },
+    "inner-thought.privacy-policy.text.0039": {
+      "value": "गोपनीयता से जुड़े प्रश्न भेजें",
+      "sourceSha256": "61ec12a4abb796599b38bb81bc67184504295ef842dcfc01c8c46b0be3b99ca9"
+    },
+    "inner-thought.privacy-policy.text.0040": {
+      "value": "या",
+      "sourceSha256": "74446f7fc1ff18b5d8d617a79db67bbe24dd09d2f7df32f4e25e1f0e46dffb96"
+    },
+    "inner-thought.privacy-policy.text.0041": {
+      "value": "Inner Thought सहायता पेज",
+      "sourceSha256": "52b6e67f9dc029da1a987da3bfd8be77881adda51dae72619575294a83116a98"
+    },
+    "inner-thought.privacy-policy.text.0042": {
+      "value": "प्रभावी:",
+      "sourceSha256": "def8b4f11c2023a57a1e3858dc6b83cbd37f4051856048f1597b475c0ae2f584"
+    },
+    "inner-thought.privacy-policy.text.0043": {
+      "value": "22 जुलाई 2026",
+      "sourceSha256": "3143cb6a63aa8eb942e92ea5ff58a62fc70e677956abff3b28bfedc8fea26401"
+    },
+    "inner-thought.privacy-policy.text.0044": {
+      "value": "डेवलपर:",
+      "sourceSha256": "462a98fa6385344adbe31dcd45af4b2596d585478e8cef41495fc4367d2e38cc"
+    },
+    "inner-thought.privacy-policy.text.0045": {
+      "value": "Moving Truth / Skylaur Roe",
+      "sourceSha256": "00facd11825f5142aae1842065e58cde5047cace2d1e1d5d84a750a72c724dd1"
+    },
+    "inner-thought.privacy-policy.text.0046": {
+      "value": "होम",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.privacy-policy.text.0047": {
+      "value": "गोपनीयता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.privacy-policy.text.0048": {
+      "value": "सुगम्यता",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.privacy-policy.text.0049": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.privacy-policy.text.0050": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.privacy-policy.text.0051": {
+      "value": "© 2026 Inner Thought, Moving Truth द्वारा।",
+      "sourceSha256": "9027597546fb0a235f37f5b2aa53c4b68e303520c01fdbac2ee9a7f1a8abd76f"
+    },
+    "inner-thought.privacy-policy.attribute.0001": {
+      "value": "Inner Thought की गोपनीयता नीति। आपके विचार आपके रहते हैं, आपके डिवाइस पर एन्क्रिप्ट किए हुए।",
+      "sourceSha256": "a6afe4e458d91ce73d948329fe9c0169424f11970dd82e8b62eca7c7cedc0d0b"
+    },
+    "inner-thought.privacy-policy.attribute.0002": {
+      "value": "Inner Thought का होम पेज",
+      "sourceSha256": "23d91187961439354f1e8399a6d26c7d146b7ff0437fe3b71aea38babfdfed01"
+    },
+    "inner-thought.privacy-policy.attribute.0003": {
+      "value": "मुख्य नेविगेशन",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-thought.privacy-policy.attribute.0004": {
+      "value": "फ़ुटर नेविगेशन",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-thought.privacy-policy.script.0001": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.accessibility.text.0001": {
+      "value": "सुगम्यता — Inner Thought",
+      "sourceSha256": "938bfa839edfe3c006d997e5f432bc403ca1fc16a2272bc21528fb817d2b47aa"
+    },
+    "inner-thought.accessibility.text.0002": {
+      "value": "मुख्य सामग्री पर जाएँ",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-thought.accessibility.text.0003": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.accessibility.text.0004": {
+      "value": "होम",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.accessibility.text.0005": {
+      "value": "गोपनीयता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.accessibility.text.0006": {
+      "value": "सुगम्यता",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.accessibility.text.0007": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.accessibility.text.0008": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.accessibility.text.0009": {
+      "value": "व्यक्ति पहले",
+      "sourceSha256": "5b4f83fad5351a96eec969e4432b2a69d920d2e0d5742025d353b8f763e3934e"
+    },
+    "inner-thought.accessibility.text.0010": {
+      "value": "सुगम्यता",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.accessibility.text.0011": {
+      "value": "Inner Thought एक ही है — अलग सुगम और सामान्य संस्करण नहीं। पहुँच तय करती है कि वादा सच है या नहीं।",
+      "sourceSha256": "4ede492487faf0eab8c9aecc8e3a0733c88359019897c205b8ccdd339230462b"
+    },
+    "inner-thought.accessibility.text.0012": {
+      "value": "हमारा मानक:",
+      "sourceSha256": "0e64506db1c7683c9d308cc3a87238a5de38dec5fae890562d8ab77c6c3e669c"
+    },
+    "inner-thought.accessibility.text.0013": {
+      "value": "किसी सुविधा के नियंत्रणों पर लेबल लग जाने से वह पूरी नहीं होती। वह तब पूरी होती है जब व्यक्ति जिस पहुँच विधि पर निर्भर है, उससे पूरा काम समझ और समाप्त कर सके।",
+      "sourceSha256": "dd24f66cc1341d769d382fb7e6cebeef27ad635ffdb1f168f5015bcda6992d56"
+    },
+    "inner-thought.accessibility.text.0014": {
+      "value": "बातचीत के अलग-अलग तरीकों के लिए डिज़ाइन",
+      "sourceSha256": "1eae579a7d9838a1a7eeddb474951ec44f1b1a0481c0bfa2da1b9819731c831f"
+    },
+    "inner-thought.accessibility.text.0015": {
+      "value": "Inner Thought को VoiceOver, Voice Control, Switch Control, हार्डवेयर कीबोर्ड, बड़ा टेक्स्ट, बोल्ड टेक्स्ट, कंट्रास्ट बढ़ाएँ, रंग के बिना अंतर, गति कम करें और हल्के व गहरे रूपों के लिए बनाया गया है।",
+      "sourceSha256": "74e357b51792194c326d2538c17dbc4660010c74a589ce419522257abe1043a1"
+    },
+    "inner-thought.accessibility.text.0016": {
+      "value": "रिकॉर्डिंग, प्लेबैक, सहेजना, त्रुटि और स्थान की अवस्था कभी केवल रंग, ध्वनि, गति या स्पर्श से नहीं बताई जाती। इशारे काम को तेज़ करते हैं, वे अकेला रास्ता नहीं हैं।",
+      "sourceSha256": "bbf762cb51222f75dc01b06cc706005f9ac08a3fb33be1331aebdc62acdacb62"
+    },
+    "inner-thought.accessibility.text.0017": {
+      "value": "शब्द ही सामग्री रहते हैं",
+      "sourceSha256": "9b1a239e4ec8a299508551528fb4a6c7c13f0bc62d4180e447807b189c8cad3b"
+    },
+    "inner-thought.accessibility.text.0018": {
+      "value": "टेक्स्ट Dynamic Type का उपयोग करता है और लेआउट आवश्यक क्रियाएँ छिपाने के बजाय बढ़ने के लिए बनाए गए हैं। बोले गए नियंत्रण स्थानीय नाम और मान इस्तेमाल करते हैं। लाइव प्रतिलिपि वैकल्पिक है और वाक् पहचान उपलब्ध न होने पर भी आवाज़ की रिकॉर्डिंग सुरक्षित रहती है।",
+      "sourceSha256": "5ce97173cc824c088f210a32e110309baba4abf0a6e32f37cb51b5348d10a75e"
+    },
+    "inner-thought.accessibility.text.0019": {
+      "value": "फ़ोटो और वीडियो में व्यक्ति द्वारा विवरण जोड़ने की जगह है। प्लेबैक बीता और कुल समय तथा समायोज्य प्रगति नियंत्रण दिखाता है।",
+      "sourceSha256": "141236135d21c802a6556469b7e88ca536623cac357267aac9f3083896080311"
+    },
+    "inner-thought.accessibility.text.0020": {
+      "value": "गति, कंट्रास्ट और ध्यान",
+      "sourceSha256": "1d9f454f3f80509a3924bce206d4f99995fa62a829d98297029ffc165c835a0e"
+    },
+    "inner-thought.accessibility.text.0021": {
+      "value": "गति कम करें एक पूर्ण और शांत स्थिर अनुभव देता है। महत्वपूर्ण अवस्थाएँ रंग के साथ टेक्स्ट और आकार भी इस्तेमाल करती हैं, और इंटरफ़ेस अधिक कंट्रास्ट व रंग के बिना अंतर की सेटिंग का सम्मान करता है। वातावरण की गति उपयोगी न होने पर रुक जाती है।",
+      "sourceSha256": "a9370a5b43c854442cb8989330125bfb4430b53819f7d4de62c3d727a96b71e5"
+    },
+    "inner-thought.accessibility.text.0022": {
+      "value": "हम किसी रिलीज़ को कैसे स्वीकृत करते हैं",
+      "sourceSha256": "2ad2a6f772f3daaee77a52fe1ede6209240c259121bc859877cb27d281347fdf"
+    },
+    "inner-thought.accessibility.text.0023": {
+      "value": "स्वचालित जाँच में बड़ा टेक्स्ट, जानबूझकर लंबा किया गया पाठ, अरबी का दाएँ-से-बाएँ लेआउट, हर समर्थित इंटरफ़ेस भाषा और iPhone व iPad का मुख्य नेविगेशन शामिल है। फिर वास्तविक डिवाइस पर सहायक तकनीकों, रिकॉर्डिंग, अनुमतियों, विजेट और Live Activities के साथ पूरे काम जाँचे जाते हैं।",
+      "sourceSha256": "10f7761355dc694602cb37e0b2552e8d42d8c55db8d22a2c967a1b6be3b73c6f"
+    },
+    "inner-thought.accessibility.text.0024": {
+      "value": "हम App Store का सुगम्यता लेबल तभी प्रकाशित करते हैं जब Apple के मापदंड में शामिल हर सामान्य काम उस डिवाइस परिवार के लिए सत्यापित हो। जो साबित हुआ है उससे अधिक कहने के बजाय हम दावा प्रकाशित न करना पसंद करेंगे।",
+      "sourceSha256": "69f307857a25d6fa055b677b5430a562189075775dda22a5005401091ecdf9df"
+    },
+    "inner-thought.accessibility.text.0025": {
+      "value": "बताएँ कि पहुँच कहाँ टूटती है",
+      "sourceSha256": "4d0b87e904dd32d34e91a432a3affcdc3664927b4b126d5c80b54af0426b4965"
+    },
+    "inner-thought.accessibility.text.0026": {
+      "value": "सुगम्यता की विफलता उत्पाद की विफलता है। यदि कोई चीज़ विचार को सहेजने, खोजने, पढ़ने, सुनने, संपादित, निर्यात या हटाने में बाधा बने, तो ईमेल करें",
+      "sourceSha256": "e2a4c8e4d558cb85fe3e051bda22a08064132825f724834d08792e7e8a5b3a01"
+    },
+    "inner-thought.accessibility.text.0027": {
+      "value": "। डिवाइस, iOS या iPadOS संस्करण, पहुँच सुविधा और काम बताएँ। कोई निजी विचार तभी भेजें जब आप जानबूझकर हमें दिखाना चाहते हों।",
+      "sourceSha256": "427838a4a7c1e2fc02ee90f9d2c632d196974236b7768ea3d3b5ccaaf200aa11"
+    },
+    "inner-thought.accessibility.text.0028": {
+      "value": "होम",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.accessibility.text.0029": {
+      "value": "गोपनीयता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.accessibility.text.0030": {
+      "value": "सुगम्यता",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.accessibility.text.0031": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.accessibility.text.0032": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.accessibility.text.0033": {
+      "value": "© 2026 Inner Thought, Moving Truth द्वारा।",
+      "sourceSha256": "9027597546fb0a235f37f5b2aa53c4b68e303520c01fdbac2ee9a7f1a8abd76f"
+    },
+    "inner-thought.accessibility.attribute.0001": {
+      "value": "Inner Thought का सुगम्यता वक्तव्य, डिज़ाइन प्रतिबद्धताएँ, परीक्षण मानक और सीधी सहायता।",
+      "sourceSha256": "c5f79da7318b6e2812473435345fb8bbafde34334d23bef63f2898887fc63060"
+    },
+    "inner-thought.accessibility.attribute.0002": {
+      "value": "Inner Thought का होम पेज",
+      "sourceSha256": "23d91187961439354f1e8399a6d26c7d146b7ff0437fe3b71aea38babfdfed01"
+    },
+    "inner-thought.accessibility.attribute.0003": {
+      "value": "मुख्य नेविगेशन",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-thought.accessibility.attribute.0004": {
+      "value": "फ़ुटर नेविगेशन",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-thought.accessibility.script.0001": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.support.text.0001": {
+      "value": "सहायता — Inner Thought",
+      "sourceSha256": "c72f35d21063cea4b67cca1176e81aded10c03c4f83e290f237e4d7d7a97f183"
+    },
+    "inner-thought.support.text.0002": {
+      "value": "मुख्य सामग्री पर जाएँ",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-thought.support.text.0003": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.support.text.0004": {
+      "value": "होम",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.support.text.0005": {
+      "value": "गोपनीयता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.support.text.0006": {
+      "value": "सुगम्यता",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.support.text.0007": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.support.text.0008": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.support.text.0009": {
+      "value": "जब ज़रूरत हो, हम यहाँ हैं",
+      "sourceSha256": "2574ac6c6f3869a4bd129369d14d021b7473554a9f54debc61207b86c99b04a1"
+    },
+    "inner-thought.support.text.0010": {
+      "value": "Inner Thought सहायता",
+      "sourceSha256": "22c7a35f4f4a9baea0187555393f2bfae4849b1aae6e9844ffa6b4da2f12e83a"
+    },
+    "inner-thought.support.text.0011": {
+      "value": "ऐप को तत्काल और शांत महसूस होना चाहिए। यदि कोई चीज़ आपके और विचार के बीच आए, तो हमें बताएँ।",
+      "sourceSha256": "3e3ce55f0785b32e715adbd963589e1539a045e3237662854f4c26d0cbe9f251"
+    },
+    "inner-thought.support.text.0012": {
+      "value": "रिकॉर्डिंग और प्लेबैक",
+      "sourceSha256": "c6df95991418858e2e800d726838e036e8826e889b2ef5f319192a48049387e7"
+    },
+    "inner-thought.support.text.0013": {
+      "value": "माइक्रोफ़ोन पहुँच, ऑडियो आउटपुट, विराम और अधिक आवाज़ जोड़ना।",
+      "sourceSha256": "b6aa0ac18e56aa9c01ac5d0ea92dfbd8253895c48866e2dd44cfc6a4ae0145a9"
+    },
+    "inner-thought.support.text.0014": {
+      "value": "प्रतिलिपि",
+      "sourceSha256": "30bf7b9b9540d4e11819ffbadf3ae6fe4c7ca94c8b433391e50e47e14a9d6cbf"
+    },
+    "inner-thought.support.text.0015": {
+      "value": "डिवाइस पर उपलब्धता, पूरा टेक्स्ट और हर विचार के नियंत्रण।",
+      "sourceSha256": "2c29b6bb95e3a89d8da221ec33ec9646c95329324bc39e9fbc2a561753c74c2a"
+    },
+    "inner-thought.support.text.0016": {
+      "value": "स्थान और मीडिया",
+      "sourceSha256": "a859f3de66e48254c7dd3435c59fb373d2368b33e96d7dbb73f3eb190d795ad5"
+    },
+    "inner-thought.support.text.0017": {
+      "value": "वैकल्पिक स्थान, कैमरा, Photos पिकर और निर्यात।",
+      "sourceSha256": "4c5bdda2a86327375f1e5aeb5abf46772494f7890c99c84377d3aa8ace17bbca"
+    },
+    "inner-thought.support.text.0018": {
+      "value": "गोपनीयता और हटाना",
+      "sourceSha256": "15576efa7d0c8874df23d30eb226581a1769e56d2a7831dde382aa5261a6bf7d"
+    },
+    "inner-thought.support.text.0019": {
+      "value": "एन्क्रिप्शन, Recently Deleted और स्थायी रूप से हटाना।",
+      "sourceSha256": "9176f0088e7ccbf3f6ba11f9addf21549ae6edb76e189182b4df3c576e9d1d90"
+    },
+    "inner-thought.support.text.0020": {
+      "value": "रिकॉर्डिंग और प्लेबैक",
+      "sourceSha256": "66b933593a7a9bf778cc4c0449d8d220af32b6cb032cacf2be54cc7f87dce7a6"
+    },
+    "inner-thought.support.text.0021": {
+      "value": "iPhone Settings > Privacy & Security > Microphone में माइक्रोफ़ोन की अनुमति दें। नया आवाज़-विचार तभी अपने आप शुरू हो सकता है जब Inner Thought Settings में वह विकल्प चालू हो।",
+      "sourceSha256": "c3a5fc315167be524901cf26e16da7e8f74c5085f9da1c45de15a5569a8d4288"
+    },
+    "inner-thought.support.text.0022": {
+      "value": "प्लेबैक में आवाज़ न हो तो iPhone की आवाज़, Control Center का ऑडियो स्थान और जुड़े Bluetooth डिवाइस जाँचें। कोई दूसरा स्थान न चुना हो तो Inner Thought iOS से स्पीकर पर चलाने को कहता है।",
+      "sourceSha256": "bc74b6543e50baa7fac9a1e4593ea1afa30bcdb8dbb2966201ef721e675d2c6b"
+    },
+    "inner-thought.support.text.0023": {
+      "value": "प्रतिलिपि",
+      "sourceSha256": "30bf7b9b9540d4e11819ffbadf3ae6fe4c7ca94c8b433391e50e47e14a9d6cbf"
+    },
+    "inner-thought.support.text.0024": {
+      "value": "प्रतिलिपि वैकल्पिक है और Apple की डिवाइस पर पहचान इस्तेमाल करती है। उपलब्धता चुनी भाषा और उसके वाक् मॉडल के इंस्टॉल होने पर निर्भर हो सकती है। सभी पहचाने हिस्से विचार में जुड़ते हैं; स्वाभाविक विराम पहले के शब्दों को नहीं मिटाते।",
+      "sourceSha256": "710df7da2d741b0ca1732ce809e1c21cf847422940044984fd893f14ab0d9495"
+    },
+    "inner-thought.support.text.0025": {
+      "value": "आप बिना प्रतिलिपि आवाज़ रख सकते हैं, ऑडियो सहेजे बिना बोलकर टेक्स्ट लिख सकते हैं या सीधे टाइप कर सकते हैं। सामान्य पसंद Settings में है और हर संग्रह के लिए आवाज़ की प्रतिलिपि बदली जा सकती है।",
+      "sourceSha256": "dd83c23e7f9fa54df0cb88721c4f58ed4fb932f2fc0025d582ba8fd820c9193f"
+    },
+    "inner-thought.support.text.0026": {
+      "value": "स्थान, फ़ोटो और वीडियो",
+      "sourceSha256": "872971b981f9b2726026a2df69b51ec14f800216ecd91229008684dd7426e630"
+    },
+    "inner-thought.support.text.0027": {
+      "value": "स्थान एक वैकल्पिक बिंदु है, कभी रास्ता नहीं। छूट गया हो तो सहेजे विचार से बाद में जोड़ या बदल सकते हैं। Settings में डिफ़ॉल्ट बंद करें या एक विचार के लिए संग्रह स्क्रीन का नियंत्रण इस्तेमाल करें।",
+      "sourceSha256": "c5d5d44a76ffac66a11efbd1c80a7a62b78eacf37a057f188f783106d0bf0293"
+    },
+    "inner-thought.support.text.0028": {
+      "value": "फ़ोटो और वीडियो डिफ़ॉल्ट रूप से Inner Thought में निजी रखे जाते हैं। Apple Photos में अतिरिक्त प्रति चाहिए तभी Save to Photos इस्तेमाल करें।",
+      "sourceSha256": "22bcd1a59fcf3e2204a6a2ad6405c7e62f48aa535a9d50d07cf768110c8dafe4"
+    },
+    "inner-thought.support.text.0029": {
+      "value": "गोपनीयता, स्टोरेज और हटाना",
+      "sourceSha256": "d494f0570107f582b67ba50fb22bc359f4c88e0d71f2fcaa5045e471cbe223c6"
+    },
+    "inner-thought.support.text.0030": {
+      "value": "सहेजे विचार की सामग्री और मीडिया डिवाइस पर एन्क्रिप्ट होते हैं। कुंजी iOS Keychain में रखी जाती है। पढ़ें",
+      "sourceSha256": "6488f1a3749dba4c705123c25e7b175df0fa34a59c864ba4f81716596e3a769b"
+    },
+    "inner-thought.support.text.0031": {
+      "value": "पूरी गोपनीयता नीति",
+      "sourceSha256": "93e08bc863f1ef264a3940738b7b65dd84073a2d4c0e448045ac5b42ea49fd32"
+    },
+    "inner-thought.support.text.0032": {
+      "value": "सटीक सीमाएँ जानने के लिए।",
+      "sourceSha256": "a8e45fe5ae377eed4a2dba1eec4a4d0c20dbde12270dd9a4f49b5ae099f7b27e"
+    },
+    "inner-thought.support.text.0033": {
+      "value": "हटाया विचार Settings > Recently Deleted में 30 दिन वापस पाया जा सकता है। Delete Forever उसे तुरंत हटाता है; 30 दिन बाद ऐप अपने आप हटा देता है।",
+      "sourceSha256": "92992a360ee7c74cbbe035f7da26fb2823917b08947d348d784087ab235a9568"
+    },
+    "inner-thought.support.text.0034": {
+      "value": "सुगम्यता सहायता",
+      "sourceSha256": "429f5d39ccc2f70ddc86028c1b7db989938503ce0e3b61415fbd86bdef7b11b2"
+    },
+    "inner-thought.support.text.0035": {
+      "value": "सुगम्यता की विफलता उत्पाद की विफलता है। VoiceOver, Voice Control, Switch Control, बड़ा टेक्स्ट, गति कम करें, कंट्रास्ट, कैप्शन या अन्य पहुँच आवश्यकता ठीक न चले तो संपर्क करें और बताएँ कि कौन-सा काम पूरा करना चाहते थे।",
+      "sourceSha256": "5ba72ac4015e8ad0d98c67f7d9a29296b54de5de96d7c10a8e947ef0fc6b6501"
+    },
+    "inner-thought.support.text.0036": {
+      "value": "सीधी सहायता",
+      "sourceSha256": "f2b2278e512eb9efaeb22b6481e0f588c3d7f183b1a8c250e60d08a74e9eb05f"
+    },
+    "inner-thought.support.text.0037": {
+      "value": "Moving Truth को ईमेल करें",
+      "sourceSha256": "8d419c582e4a3c2533d874feb8855c30f4d1dcd4ff4be9ae6f1a353a5f190224"
+    },
+    "inner-thought.support.text.0038": {
+      "value": "अपना iPhone या iPad मॉडल, iOS या iPadOS संस्करण और क्या हुआ बताएँ। कोई निजी विचार या रिकॉर्डिंग तभी भेजें जब आप जानबूझकर हमें दिखाना चाहते हों।",
+      "sourceSha256": "fca91076af2ebdd7e6b4858eaa0ea87dea519826afcdb7c73321a088254080ba"
+    },
+    "inner-thought.support.text.0039": {
+      "value": "होम",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.support.text.0040": {
+      "value": "गोपनीयता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.support.text.0041": {
+      "value": "सुगम्यता",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.support.text.0042": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.support.text.0043": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.support.text.0044": {
+      "value": "© 2026 Inner Thought, Moving Truth द्वारा।",
+      "sourceSha256": "9027597546fb0a235f37f5b2aa53c4b68e303520c01fdbac2ee9a7f1a8abd76f"
+    },
+    "inner-thought.support.attribute.0001": {
+      "value": "Moving Truth द्वारा Inner Thought के लिए सहायता और सीधा समर्थन।",
+      "sourceSha256": "6377fd36900110de759c424e889d22e64cd08a3de99979876f3916fadb97a67d"
+    },
+    "inner-thought.support.attribute.0002": {
+      "value": "Inner Thought का होम पेज",
+      "sourceSha256": "23d91187961439354f1e8399a6d26c7d146b7ff0437fe3b71aea38babfdfed01"
+    },
+    "inner-thought.support.attribute.0003": {
+      "value": "मुख्य नेविगेशन",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-thought.support.attribute.0004": {
+      "value": "सामान्य सहायता विषय",
+      "sourceSha256": "ebc9d89af05221497a67d69ecd8c7e8a8d473ea6ada9094e5e4921b5e75ebfb7"
+    },
+    "inner-thought.support.attribute.0005": {
+      "value": "फ़ुटर नेविगेशन",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-thought.support.script.0001": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.technical-craft.text.0001": {
+      "value": "तकनीकी शिल्प — Inner Thought",
+      "sourceSha256": "386da0356d3e1441418f31c303ae893582bfe23f5facd6344d85894cbf3f32f6"
+    },
+    "inner-thought.technical-craft.text.0002": {
+      "value": "मुख्य सामग्री पर जाएँ",
+      "sourceSha256": "c887f134c26ea8310e1fb4bd6fbab7b640393bd1b556e62691c7a442be92ec2a"
+    },
+    "inner-thought.technical-craft.text.0003": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.technical-craft.text.0004": {
+      "value": "होम",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.technical-craft.text.0005": {
+      "value": "गोपनीयता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.technical-craft.text.0006": {
+      "value": "सुगम्यता",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.technical-craft.text.0007": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.technical-craft.text.0008": {
+      "value": "तकनीकी शिल्प",
+      "sourceSha256": "ed7b84a2eb484c5b73f39e114cd551a47e8e1b764b945ccfaa1c98280fc3439b"
+    },
+    "inner-thought.technical-craft.text.0009": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.technical-craft.text.0010": {
+      "value": "मूल रूप से निर्मित। जानबूझकर रचा गया.",
+      "sourceSha256": "2d06a2ec23c6b4b91864a07beb575ad6959b78483188674038f7f071699cf659"
+    },
+    "inner-thought.technical-craft.text.0011": {
+      "value": "तकनीकी शिल्प",
+      "sourceSha256": "ed7b84a2eb484c5b73f39e114cd551a47e8e1b764b945ccfaa1c98280fc3439b"
+    },
+    "inner-thought.technical-craft.text.0012": {
+      "value": "शांति के नीचे काम के बारे में उत्सुक लोगों के लिए, Inner Thought इस प्रकार बनाया गया है: देशी ऐप्पल फ्रेमवर्क, स्पष्ट सीमाएं, पुनर्प्राप्ति योग्य स्थिति और इसका उपयोग करने वाले पूरे व्यक्ति की देखभाल के साथ।",
+      "sourceSha256": "06a7f3d4e68b576d92732de44ef16e19d796e17d607f8a0559a5d5b655b4e83a"
+    },
+    "inner-thought.technical-craft.text.0013": {
+      "value": "डिज़ाइन द्वारा मूल निवासी",
+      "sourceSha256": "025f6a9359f5cf5490690f057d9dc62fbcf59ebb98970452e8f272348a43c1d4"
+    },
+    "inner-thought.technical-craft.text.0014": {
+      "value": "Inner Thought स्विफ्टडाटा, एवीफाउंडेशन, स्पीच, मैपकिट, फोटोयूआई, विजेटकिट, एक्टिविटीकिट, ऐप इंटेंट्स, क्रिप्टोकिट और लोकलऑथेंटिकेशन का उपयोग करके स्विफ्ट और स्विफ्टयूआई में लिखा गया है। ऐप्पल-नेटिव फ्रेमवर्क ऐप को प्लेटफ़ॉर्म के करीब रखता है, डिफ़ॉल्ट रूप से निजी रखता है, और निर्भरता पर प्रकाश डालता है।",
+      "sourceSha256": "ecfcc54ddad7693e41f7f7763651f68e99d2006f1a08fc2b4d8eb3c2068e965b"
+    },
+    "inner-thought.technical-craft.text.0015": {
+      "value": "छोटी, केंद्रित जिम्मेदारियां",
+      "sourceSha256": "0295714bf22c45d23a8814732ec2358d2604853872ffdd0988df561d89a4fa26"
+    },
+    "inner-thought.technical-craft.text.0016": {
+      "value": "इंटरफ़ेस स्थिति को व्यक्त करता है; केंद्रित नियंत्रकों और सेवाओं की अपनी रिकॉर्डिंग, ट्रांसक्रिप्शन, भंडारण, प्लेबैक, मीडिया, स्थान, एन्क्रिप्शन और सिस्टम प्रस्तुति है। साझा समन्वयक हर चीज़ के लिए स्क्रीन को ज़िम्मेदार बनाए बिना उन टुकड़ों को जोड़ते हैं।",
+      "sourceSha256": "ce605123ff13e9bbbef07aa9dd4502159632042f1a3020d7c415545dbef6a5ac"
+    },
+    "inner-thought.technical-craft.text.0017": {
+      "value": "विचार सबसे पहले आता है",
+      "sourceSha256": "c4d083d63d69e39646b8ba58f719d16ea075977f82ff81f0d4414370b7432c4a"
+    },
+    "inner-thought.technical-craft.text.0018": {
+      "value": "ऑडियो आधिकारिक है और इसका गंतव्य कैप्चर शुरू होने से पहले मौजूद है। विराम, रुकावट, प्रतिलेखन विफलता और भंडारण त्रुटियाँ पुनर्प्राप्ति योग्य स्थितियों के रूप में डिज़ाइन की गई हैं। वाक् पहचान विफल होने के कारण वैध रिकॉर्डिंग को कभी भी खारिज नहीं किया जाता है।",
+      "sourceSha256": "1428a99e7c1306247eeee0b4852bf2ad788cbd6fc87974073f1652684ff31463"
+    },
+    "inner-thought.technical-craft.text.0019": {
+      "value": "संरचना द्वारा निजी",
+      "sourceSha256": "22fd7b42a3583a9e98aba945ffe50311b21ce5c603743236e0bbb725db5aebd9"
+    },
+    "inner-thought.technical-craft.text.0020": {
+      "value": "शीर्षक, प्रतिलेख, स्थान, कस्टम टैग, ऑडियो, फ़ोटो और वीडियो AES-256-GCM के साथ एन्क्रिप्ट किए गए हैं। कुंजी iOS किचेन में रहती है; डिक्रिप्ट की गई कार्यशील फ़ाइलें प्लेटफ़ॉर्म फ़ाइल सुरक्षा का उपयोग करती हैं और जब ऐप अग्रभूमि छोड़ देता है तो उन्हें शुद्ध कर दिया जाता है। कोई खाता, विज्ञापन, ट्रैकर या तृतीय-पक्ष विश्लेषण नहीं है।",
+      "sourceSha256": "50cf8bf868693f773af89f9015bd50ca77db4022b9b2b898de289dc2dfb12f11"
+    },
+    "inner-thought.technical-craft.text.0021": {
+      "value": "एक ऐप, हर तरह से",
+      "sourceSha256": "6c2987ec157dc878bef005a22bd76b7241f2ed5325c4fc3ddce8e21eadd760dd"
+    },
+    "inner-thought.technical-craft.text.0022": {
+      "value": "सिमेंटिक नियंत्रण, डायनामिक प्रकार, वॉयसओवर, वॉयस कंट्रोल, स्विच कंट्रोल, कीबोर्ड एक्सेस, मोशन कम करें, कंट्रास्ट बढ़ाएं, और गैर-रंग संकेतों को संपूर्ण कार्यों में माना जाता है। अभिगम्यता का मूल्यांकन उस पथ के रूप में किया जाता है जिसे कोई व्यक्ति पूरा कर सकता है, संशोधकों की गिनती के रूप में नहीं।",
+      "sourceSha256": "f2a84810ec40bb52a980e8ff44f6b2793d2b61fa5d47b26d0c0d920004ecbe30"
+    },
+    "inner-thought.technical-craft.text.0023": {
+      "value": "व्यक्ति सबसे पहले आता है",
+      "sourceSha256": "5b4f83fad5351a96eec969e4432b2a69d920d2e0d5742025d353b8f763e3934e"
+    },
+    "inner-thought.technical-craft.text.0024": {
+      "value": "ऐप्पल के मानव इंटरफ़ेस दिशानिर्देश और पहुंच सिद्धांत हमें प्रत्येक निर्णय के केंद्र में व्यक्ति को रखने के लिए मार्गदर्शन करते हैं - सुविधा को नहीं। Inner Thought अस्थायी और स्थितिजन्य सीमाओं के साथ-साथ दृश्य, श्रवण, गतिशीलता, भाषण और संज्ञानात्मक विकलांगता वाले लोगों पर विचार करता है। अर्थ कभी भी केवल रंग, गति, ध्वनि या हावभाव पर निर्भर नहीं करता; संवर्द्धन वैकल्पिक रहेगा; गोपनीयता और गरिमा संरक्षित है. स्वचालित साक्ष्य इस कार्य का समर्थन करते हैं, और जारी दावे भौतिक सहायक-प्रौद्योगिकी सत्यापन की प्रतीक्षा करते हैं।",
+      "sourceSha256": "09954e9f9cf1a48bfa71d76252ac307112bbc544bc56f47474f8fe384e622991"
+    },
+    "inner-thought.technical-craft.text.0025": {
+      "value": "वास्तुकला में भाषा",
+      "sourceSha256": "4e22fc997ce11765697d9ff8a17972019e7db5b14cf4ee1d3cef498bef8e1113"
+    },
+    "inner-thought.technical-craft.text.0026": {
+      "value": "प्रत्येक दृश्य और बोली जाने वाली इंटरफ़ेस स्ट्रिंग स्ट्रिंग कैटलॉग में रहती है। लेआउट द्विदिश हैं, उपयोगकर्ता द्वारा लिखे गए शब्द अपनी भाषा रखते हैं, और तिथियां, समय और संख्याएं सक्रिय स्थान का अनुसरण करती हैं। चौदह लॉन्च भाषाएँ निर्मित हैं; ड्राफ्ट अनुवादों को अभी भी रिलीज़ से पहले धाराप्रवाह मानवीय समीक्षा की आवश्यकता है।",
+      "sourceSha256": "6271558bbc0fd84c255bed48929ac8c648a81c9204b7b2ba93c9a9119f750cbf"
+    },
+    "inner-thought.technical-craft.text.0027": {
+      "value": "ऐप से परे मूल निवासी",
+      "sourceSha256": "9bde744943c3ce21d087cae665744616d6fedb1dddbae6a0d524ac99674b8144"
+    },
+    "inner-thought.technical-craft.text.0028": {
+      "value": "होम और लॉक स्क्रीन विजेट, लाइव एक्टिविटीज, डायनेमिक आइलैंड और ऐप इंटेंट्स जानबूझकर छोटी कमांड लेयर और कैप्चर कोऑर्डिनेटर साझा करते हैं। निजी विचार पाठ सिस्टम सतहों से बाहर रहता है; केवल सक्रिय कैप्चर को नियंत्रित करने के लिए आवश्यक स्थिति ही ऐप इंटरफ़ेस छोड़ती है।",
+      "sourceSha256": "13317985baaaa892e6fbdf4fa62d35aba83f5e3ec5e29d628e8e75cd538d25eb"
+    },
+    "inner-thought.technical-craft.text.0029": {
+      "value": "सबूत, भरोसा नहीं",
+      "sourceSha256": "1fab7bb5cb4d67127ed654d8c6afdbd8079748238acdaf8ff369d92e1931facd"
+    },
+    "inner-thought.technical-craft.text.0030": {
+      "value": "नियतात्मक इकाई परीक्षण दृढ़ता, एन्क्रिप्शन, पुनर्प्राप्ति, मीडिया, मैपिंग और कैप्चर स्थिति का अभ्यास करते हैं। यूआई परीक्षण नेविगेशन, विस्तारित टेक्स्ट और दाएं से बाएं लेआउट को कवर करते हैं। स्वचालित जाँच कार्य का समर्थन करती है; भौतिक iPhone और सहायक-प्रौद्योगिकी परीक्षण रिलीज़ गेट बने हुए हैं।",
+      "sourceSha256": "2fa1f74972451a7855d8ac94679268420cc0edc7d15fee03bf82f72f0b530661"
+    },
+    "inner-thought.technical-craft.text.0031": {
+      "value": "शांति की सेवा में इंजीनियरिंग",
+      "sourceSha256": "b75cd8fb45d52c793bd8fcd107d101102992dc5c708ebed02bef2f8dd3281be5"
+    },
+    "inner-thought.technical-craft.text.0032": {
+      "value": "अंत में फ़ंक्शन पर ग्रेस चित्रित नहीं किया गया था। प्रगतिशील प्रकटीकरण, सिमेंटिक टाइपोग्राफी, स्थिर लेआउट स्थान, संयमित गति और शांत सामग्री पर्याप्त क्षमता को शांत और समझने योग्य बनाती है।",
+      "sourceSha256": "15a009d9533bd3f75a77b5e75c80587dd63c4f01128bcb1d0a57d4861dda89eb"
+    },
+    "inner-thought.technical-craft.text.0033": {
+      "value": "परिणाम सरल महसूस करने के लिए है क्योंकि जटिलता को सावधानीपूर्वक नीचे लाया गया है।",
+      "sourceSha256": "c6ab85229e334e4a21de7f828211d60f8a871dee3581b8c664e7e37b3eeef256"
+    },
+    "inner-thought.technical-craft.text.0034": {
+      "value": "होम",
+      "sourceSha256": "3a78695388b38b5cceefaf6796b0137877514593543b91af2752d5a17e3d736c"
+    },
+    "inner-thought.technical-craft.text.0035": {
+      "value": "गोपनीयता",
+      "sourceSha256": "54a57c3147c49f33de5898b87084ad2b14c4ab308f762454bf92aca907478ad5"
+    },
+    "inner-thought.technical-craft.text.0036": {
+      "value": "सुगम्यता",
+      "sourceSha256": "d3368cbffe23c98da887d279a1b5c74b7618ba5c0488cbed30cf304f8f9398a1"
+    },
+    "inner-thought.technical-craft.text.0037": {
+      "value": "सहायता",
+      "sourceSha256": "be91940b79f469101df9a50544b6873aa5509a12f1f93f1cb5e3be3990d344b3"
+    },
+    "inner-thought.technical-craft.text.0038": {
+      "value": "तकनीकी शिल्प",
+      "sourceSha256": "ed7b84a2eb484c5b73f39e114cd551a47e8e1b764b945ccfaa1c98280fc3439b"
+    },
+    "inner-thought.technical-craft.text.0039": {
+      "value": "सभी ऐप्स",
+      "sourceSha256": "01bed311e7d0c963a5f8afe3dd3c99c8140d887d92c602b94b9309fa51b32723"
+    },
+    "inner-thought.technical-craft.text.0040": {
+      "value": "© 2026 Inner Thought, Moving Truth द्वारा।",
+      "sourceSha256": "9027597546fb0a235f37f5b2aa53c4b68e303520c01fdbac2ee9a7f1a8abd76f"
+    },
+    "inner-thought.technical-craft.attribute.0001": {
+      "value": "शांति के नीचे काम के बारे में उत्सुक लोगों के लिए, Inner Thought इस प्रकार बनाया गया है: देशी ऐप्पल फ्रेमवर्क, स्पष्ट सीमाएं, पुनर्प्राप्ति योग्य स्थिति और इसका उपयोग करने वाले पूरे व्यक्ति की देखभाल के साथ।",
+      "sourceSha256": "06a7f3d4e68b576d92732de44ef16e19d796e17d607f8a0559a5d5b655b4e83a"
+    },
+    "inner-thought.technical-craft.attribute.0002": {
+      "value": "Inner Thought का होम पेज",
+      "sourceSha256": "23d91187961439354f1e8399a6d26c7d146b7ff0437fe3b71aea38babfdfed01"
+    },
+    "inner-thought.technical-craft.attribute.0003": {
+      "value": "मुख्य नेविगेशन",
+      "sourceSha256": "eb355944b92d10582856f8aea34b3e319ba465b8aa4c294973cf53f665399a2c"
+    },
+    "inner-thought.technical-craft.attribute.0004": {
+      "value": "फ़ुटर नेविगेशन",
+      "sourceSha256": "76363a64dcfacd31159fcae8c7f865fd9e5c711dede70472fcb2e58ad35c6a12"
+    },
+    "inner-thought.technical-craft.script.0001": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
+    },
+    "inner-thought.site-js.script.0001": {
+      "value": "नेविगेशन बंद करें",
+      "sourceSha256": "99904db30de4a2a32ee6672a99e77e79c482d4e188860695723d3dd306749879"
+    },
+    "inner-thought.site-js.script.0002": {
+      "value": "नेविगेशन खोलें",
+      "sourceSha256": "0ed77fd2619ba8ab3e1cce72c8e61d887d551ca1220164b88ab1aa66bba7177d"
     }
   }
 }
