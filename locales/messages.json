@@ -583,8 +583,8 @@
       "page": "index.html",
       "kind": "attribute",
       "locator": "#top/div[1]/img[1]/@alt",
-      "source": "Inner Thought app icon: a golden waveform flowing into a spiral",
-      "sourceSha256": "e8c797dfb6f58044206c8568f6e2c49ba0ac0ffd1f27bae0f55b15eaa5730e7c"
+      "source": "Inner Thought app icon",
+      "sourceSha256": "b94a7afdfb09f227b065a0887defbc028fc1e7b47a2f53237f50fdec135bbbf9"
     },
     {
       "id": "inner-thought.index.attribute.0007",
