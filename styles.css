@@ -170,3 +170,8 @@ footer ul { display: flex; flex-wrap: wrap; justify-content: center; gap: 1.2rem
 @media (prefers-contrast: more) {
   :root { --taupe: #d6cfc3; --separator: rgba(232,224,208,.5); --gold: #f0cf70; }
 }
+
+/* Current App Store artwork, kept in its original aspect ratio. */
+.hero__store-preview { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: clamp(.5rem, 2vw, 1.25rem); width: min(100%, 720px); margin: 3rem auto 0; }
+.hero__store-preview img { display: block; width: 100%; height: auto; border-radius: 14px; box-shadow: 0 12px 32px #0004; }
+@media (max-width: 480px) { .hero__store-preview { gap: .5rem; } .hero__store-preview img { border-radius: 7px; } }
